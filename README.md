@@ -18,7 +18,9 @@ This project implements a Selenium-based scraper using undetected-chromedriver (
 ```
 /
 ├── carvana_scraping.py    # Main Selenium-based scraper
-└── *_links.json         # Scraped vehicle links by category
+├── scraped_data/          # Directory containing scraped data
+│   └── carvana_*_links.json  # JSON files with vehicle links by category
+└── README.md             # Project documentation
 ```
 
 ## Prerequisites
@@ -52,8 +54,10 @@ Configuration options in `carvana_scraping.py`:
 
 - Uses undetected-chromedriver to bypass detection
 - Implements wait conditions for dynamic content
-- Saves progress per category in JSON files
+- Saves progress incrementally in JSON files within scraped_data directory
+- Supports resuming scraping from last saved state
 - Handles pagination and error recovery
+- Maintains separate JSON files for each vehicle category
 
 ## Error Handling
 
