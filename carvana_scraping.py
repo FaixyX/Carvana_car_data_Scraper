@@ -5,6 +5,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException, NoSuchElementException
 import time
 import json
+import os
 
 def setup_driver(headless=True):
     options = uc.ChromeOptions()
@@ -44,8 +45,12 @@ def scrape_carvana_category(driver, url_base, category):
     """Scrape vehicle links from Carvana category pages"""
     all_vehicle_links = []
     
+    # Ensure scraper_data directory exists
+    data_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'scraped_data')
+    os.makedirs(data_dir, exist_ok=True)
+    
     # Load existing links if file exists
-    json_file = f'carvana_{category}_links.json'
+    json_file = os.path.join(data_dir, f'carvana_{category}_links.json')
     try:
         with open(json_file, 'r') as f:
             all_vehicle_links = json.load(f)
