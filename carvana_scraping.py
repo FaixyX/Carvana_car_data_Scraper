@@ -34,8 +34,8 @@ def get_max_pages(driver):
         )
         if pagination_elements:
             last_page_text = pagination_elements[-2].text.strip()
-            return 1
-            # return int(last_page_text) if last_page_text.isdigit() else 1
+            # return 1 # uncomment this line and comment the line below to test only the first page
+            return int(last_page_text) if last_page_text.isdigit() else 1
     except (TimeoutException, NoSuchElementException):
         print("Pagination not found or only one page available.")
     return 1
