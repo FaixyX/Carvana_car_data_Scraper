@@ -1,0 +1,4242 @@
+[
+  {
+    "stockNumber": 2003404896,
+    "vehicleId": 3433426,
+    "make": "Dodge",
+    "parentModel": "Challenger",
+    "model": "Challenger",
+    "trim": "R/T Plus",
+    "kbbTrim": "R/T Plus Coupe 2D",
+    "color": "Other",
+    "interiorColor": "Black",
+    "bodyStyle": "Coupe",
+    "mileage": 55670,
+    "milesPerGallon": 18,
+    "fuelType": "Gas",
+    "price": {
+      "total": 24990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 500.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 24259.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1999.2
+    },
+    "year": 2016,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003404896/post-large/normalized/zoomcrop/2003404896-edc-02.jpg?v=2025.2.21_0.52.29",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2016_DODGE_CHALLENGER_R/T%20PLUS%20COUPE%202D_PURPLE_stock_desktop_1920x1080.png?v=1645420325.765",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2016_DODGE_CHALLENGER_R/T%20PLUS%20COUPE%202D_PURPLE_stock_mobile_640x640.png?v=1645420325.765",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003404896/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4057159/details/feature-113795244.jpg?v=1740081050.830",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4057159/details/feature-113792665.jpg?v=1740081050.829",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4057159/details/feature-113792656.jpg?v=1740081050.829",
+    "backSeatImageUrl": "",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-4057159/details/feature-113792657.jpg?v=1740081050.829",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2016-dodge-challenger-rt-plus",
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "2C3CDZBTXGH193491",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [
+      "CoreOD"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  },
+  {
+    "stockNumber": 2003363123,
+    "vehicleId": 3401018,
+    "make": "Dodge",
+    "parentModel": "Challenger",
+    "model": "Challenger",
+    "trim": "R/T Shaker",
+    "kbbTrim": "R/T Shaker Coupe 2D",
+    "color": "Gray",
+    "interiorColor": "Black",
+    "bodyStyle": "Coupe",
+    "mileage": 43022,
+    "milesPerGallon": 19,
+    "fuelType": "Gas",
+    "price": {
+      "total": 27990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 560.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 29993.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 2239.2
+    },
+    "year": 2018,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003363123/post-large/normalized/zoomcrop/2003363123-edc-02.jpg?v=2025.2.21_0.52.29",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2018_DODGE_CHALLENGER_R/T%20SHAKER%20COUPE%202D_GRAY_stock_desktop_1920x1080.png?v=1645558461.984",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2018_DODGE_CHALLENGER_R/T%20SHAKER%20COUPE%202D_GRAY_stock_mobile_640x640.png?v=1645558461.984",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003363123/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3808797/details/feature-103667101.jpg?v=1739846834.057",
+    "entireDashImageUrl": "",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3808797/details/feature-103667111.jpg?v=1739846834.057",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3808797/details/feature-103667103.jpg?v=1739846834.057",
+    "backSeatImageUrl": "",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3808797/details/feature-103667104.jpg?v=1739846834.057",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2018-dodge-challenger-rt-shaker",
+    "priceUpdateDate": "2025-02-13T17:52:06.515Z",
+    "previousPrice": 28590.0,
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "2C3CDZBTXJH175368",
+    "vehicleTags": [
+      {
+        "tagId": 103,
+        "tagCategoryId": 1,
+        "tagKey": "RecentPriceDrop",
+        "tagName": "New Price",
+        "tagDescription": "New Price",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      },
+      {
+        "tagId": 104,
+        "tagCategoryId": 1,
+        "tagKey": "KeepMovingPrice",
+        "tagName": "Great Deal",
+        "tagDescription": "This vehicle is priced $2,003 lower than Kelley Blue Book\u00ae Typical Listing Price.<br><br>* Savings amount based on the difference between Kelley Blue Book\u00ae Typical Listing Price and the current Carvana listing price, not including tax, title, registration, or delivery charges. Savings amounts are updated daily.",
+        "tagToolTip": "",
+        "sortOrder": 700,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "148pt",
+    "stores": [
+      "148pt"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/167438392/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1734799432.180",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/167438392/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1734799432.180",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "",
+        "frameCount": 0,
+        "fps": 0.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  },
+  {
+    "stockNumber": 2003355619,
+    "vehicleId": 3389719,
+    "make": "Porsche",
+    "parentModel": "Cayman",
+    "model": "Cayman",
+    "trim": "base",
+    "kbbTrim": "Coupe 2D",
+    "color": "Black",
+    "interiorColor": "Beige",
+    "bodyStyle": "Coupe",
+    "mileage": 19309,
+    "milesPerGallon": 24,
+    "fuelType": "Gas",
+    "price": {
+      "total": 33590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 672.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 28339.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 2687.2
+    },
+    "year": 2009,
+    "seatingCapacity": 2,
+    "imageUrl": "/2003355619/post-large/normalized/zoomcrop/2003355619-edc-02.jpg?v=2025.2.21_0.52.29",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2009_PORSCHE_CAYMAN_COUPE%202D_BLACK_stock_desktop_1920x1080.png?v=1645545138.753",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2009_PORSCHE_CAYMAN_COUPE%202D_BLACK_stock_mobile_640x640.png?v=1645545138.753",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003355619/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3950498/details/feature-109376038.jpg?v=1737650489.327",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-3950498/details/feature-109376041.jpg?v=1737650489.327",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3950498/details/feature-109376051.jpg?v=1737650489.327",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3950498/details/feature-109376043.jpg?v=1737650489.327",
+    "backSeatImageUrl": "",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3950498/details/feature-109376044.jpg?v=1737650489.327",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2009-porsche-cayman-base",
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "WP0AA29879U760339",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [
+      "CoreOD"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  },
+  {
+    "stockNumber": 2003484882,
+    "vehicleId": 3484637,
+    "make": "Ford",
+    "parentModel": "Mustang",
+    "model": "Mustang",
+    "trim": "EcoBoost Premium",
+    "kbbTrim": "EcoBoost Premium Coupe 2D",
+    "color": "White",
+    "interiorColor": "Black",
+    "bodyStyle": "Coupe",
+    "mileage": 81710,
+    "milesPerGallon": 25,
+    "fuelType": "Gas",
+    "price": {
+      "total": 17990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 360.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 18077.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1439.2
+    },
+    "year": 2016,
+    "seatingCapacity": 4,
+    "imageUrl": "/2003484882/post-large/normalized/zoomcrop/2003484882-edc-02.jpg?v=2025.2.21_0.52.29",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2016_FORD_MUSTANG_ECOBOOST%20PREMIUM%20COUPE%202D_WHITE_stock_desktop_1920x1080.png",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2016_FORD_MUSTANG_ECOBOOST%20PREMIUM%20COUPE%202D_WHITE_stock_mobile_640x640.png",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003484882/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4084811/details/feature-114918380.jpg?v=1740083349.581",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4084811/details/feature-114916084.jpg?v=1740083349.581",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4084811/details/feature-114916076.jpg?v=1740083349.581",
+    "backSeatImageUrl": "",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-4084811/details/feature-114916077.jpg?v=1740083349.581",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2016-ford-mustang-ecoboost-premium",
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "1FA6P8TH7G5230997",
+    "vehicleTags": [
+      {
+        "tagId": 121,
+        "tagCategoryId": 1,
+        "tagKey": "RecentlyAdded",
+        "tagName": "Recently Added",
+        "tagDescription": "This vehicle has been made purchasable for the first time within the last 72 hours",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [
+      "CoreOD"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  },
+  {
+    "stockNumber": 2002869905,
+    "vehicleId": 3150772,
+    "make": "Chevrolet",
+    "parentModel": "Camaro",
+    "model": "Camaro",
+    "trim": "SS",
+    "kbbTrim": "SS Coupe 2D",
+    "color": "Gray",
+    "interiorColor": "Gray",
+    "bodyStyle": "Coupe",
+    "mileage": 73295,
+    "milesPerGallon": 19,
+    "fuelType": "Gas",
+    "price": {
+      "total": 21990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 440.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 14458.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1759.2
+    },
+    "year": 2010,
+    "seatingCapacity": 4,
+    "imageUrl": "/2002869905/post-large/normalized/zoomcrop/2002869905-edc-02.jpg?v=2025.2.21_0.52.29",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2010_Chevrolet_Camaro_SS%20Coupe%202D_GRAY_stock_desktop_1920x1080.png",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2010_Chevrolet_Camaro_SS%20Coupe%202D_GRAY_stock_mobile_640x640.png",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2002869905/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4041446/details/feature-113136658.jpg?v=1740078262.395",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4041446/details/feature-113133442.jpg?v=1740078262.394",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4041446/details/feature-113133432.jpg?v=1740078262.394",
+    "backSeatImageUrl": "",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-4041446/details/feature-113133433.jpg?v=1740078262.394",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2010-chevrolet-camaro-ss",
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "2G1FK1EJ4A9118001",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [
+      "CoreOD"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  },
+  {
+    "stockNumber": 2003496589,
+    "vehicleId": 3491628,
+    "make": "Ford",
+    "parentModel": "Mustang",
+    "model": "Mustang",
+    "trim": "EcoBoost Premium",
+    "kbbTrim": "EcoBoost Premium Coupe 2D",
+    "color": "Red",
+    "interiorColor": "Black",
+    "bodyStyle": "Coupe",
+    "mileage": 28334,
+    "milesPerGallon": 26,
+    "fuelType": "Gas",
+    "price": {
+      "total": 28990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 580.0,
+      "downPayment": 290.0,
+      "downPaymentDetails": {
+        "totalCashDue": 290.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 290.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 290.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 32476.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 2319.2
+    },
+    "year": 2024,
+    "seatingCapacity": 4,
+    "imageUrl": "/2003496589/post-large/normalized/zoomcrop/2003496589-edc-02.jpg?v=2025.2.21_0.52.29",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_FORD_MUSTANG_ECOBOOST%20PREMIUM%20COUPE%202D_RED_stock_desktop_1920x1080.png?v=1721223630.281",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_FORD_MUSTANG_ECOBOOST%20PREMIUM%20COUPE%202D_RED_stock_mobile_640x640.png?v=1721223630.281",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003496589/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4064334/details/feature-114100731.jpg?v=1739483604.722",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4064334/details/feature-114102827.jpg?v=1739483604.722",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4064334/details/feature-114100741.jpg?v=1739483604.722",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4064334/details/feature-114100733.jpg?v=1739483604.722",
+    "backSeatImageUrl": "",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-4064334/details/feature-114100734.jpg?v=1739483604.722",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 290,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2024-ford-mustang-ecoboost-premium",
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "1FA6P8TH9R5123078",
+    "vehicleTags": [
+      {
+        "tagId": 104,
+        "tagCategoryId": 1,
+        "tagKey": "KeepMovingPrice",
+        "tagName": "Great Deal",
+        "tagDescription": "This vehicle is priced $3,486 lower than Kelley Blue Book\u00ae Typical Listing Price.<br><br>* Savings amount based on the difference between Kelley Blue Book\u00ae Typical Listing Price and the current Carvana listing price, not including tax, title, registration, or delivery charges. Savings amounts are updated daily.",
+        "tagToolTip": "",
+        "sortOrder": 700,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [
+      "Partner-Retail",
+      "CoreOD"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  },
+  {
+    "stockNumber": 2003399943,
+    "vehicleId": 3425922,
+    "make": "Chevrolet",
+    "parentModel": "Camaro",
+    "model": "Camaro",
+    "trim": "LT",
+    "kbbTrim": "LT Coupe 2D",
+    "color": "White",
+    "interiorColor": "Black",
+    "bodyStyle": "Coupe",
+    "mileage": 49246,
+    "milesPerGallon": 22,
+    "fuelType": "Gas",
+    "price": {
+      "total": 19590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 392.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 15966.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1567.2
+    },
+    "year": 2013,
+    "seatingCapacity": 4,
+    "imageUrl": "/2003399943/post-large/normalized/zoomcrop/2003399943-edc-02.jpg?v=2025.2.21_0.52.29",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2013_CHEVROLET_CAMARO_LT%20COUPE%202D_WHITE_stock_desktop_1920x1080.png?v=1645492872.228",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2013_CHEVROLET_CAMARO_LT%20COUPE%202D_WHITE_stock_mobile_640x640.png?v=1645492872.228",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003399943/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "",
+    "entireDashImageUrl": "",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4007502/details/feature-111737646.jpg?v=1740080867.100",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4007502/details/feature-111737637.jpg?v=1740080867.100",
+    "backSeatImageUrl": "",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-4007502/details/feature-111737638.jpg?v=1740080867.100",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2013-chevrolet-camaro-lt",
+    "priceUpdateDate": "2025-02-10T15:27:37.081Z",
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "2G1FC1E31D9162038",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [
+      "CoreOD"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  },
+  {
+    "stockNumber": 2003406189,
+    "vehicleId": 3448895,
+    "make": "Dodge",
+    "parentModel": "Challenger",
+    "model": "Challenger",
+    "trim": "SRT8 Core",
+    "kbbTrim": "SRT8 Core Coupe 2D",
+    "color": "Other",
+    "interiorColor": "Black",
+    "bodyStyle": "Coupe",
+    "mileage": 39838,
+    "milesPerGallon": 17,
+    "fuelType": "Gas",
+    "price": {
+      "total": 28990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 580.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 28306.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 2319.2
+    },
+    "year": 2014,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003406189/post-large/normalized/zoomcrop/2003406189-edc-02.jpg?v=2025.2.21_0.52.29",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2014_DODGE_CHALLENGER_SRT8%20CORE%20COUPE%202D_BLACK_stock_desktop_1920x1080.png?v=1675710078.183",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2014_DODGE_CHALLENGER_SRT8%20CORE%20COUPE%202D_BLACK_stock_mobile_640x640.png?v=1675710078.183",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003406189/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3998699/details/feature-111400063.jpg?v=1738363806.014",
+    "entireDashImageUrl": "",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3998699/details/feature-111400073.jpg?v=1738363806.014",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3998699/details/feature-111400065.jpg?v=1738363806.014",
+    "backSeatImageUrl": "",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3998699/details/feature-111400066.jpg?v=1738363806.014",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2014-dodge-challenger-srt8-core",
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "2C3CDYDJ8EH201901",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/175618219/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1738382058.057",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/175618219/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1738382058.057",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "",
+        "frameCount": 0,
+        "fps": 0.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  },
+  {
+    "stockNumber": 2003434815,
+    "vehicleId": 3455658,
+    "make": "BMW",
+    "parentModel": "2 Series",
+    "model": "2 Series",
+    "trim": "228i",
+    "kbbTrim": "228i Coupe 2D",
+    "color": "White",
+    "interiorColor": "Other",
+    "bodyStyle": "Coupe",
+    "mileage": 57776,
+    "milesPerGallon": 28,
+    "fuelType": "Gas",
+    "price": {
+      "total": 18590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 372.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 14048.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1487.2
+    },
+    "year": 2015,
+    "seatingCapacity": 4,
+    "imageUrl": "/2003434815/post-large/normalized/zoomcrop/2003434815-edc-02.jpg?v=2025.2.21_0.52.29",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2015_BMW_2%20SERIES_228I%20COUPE%202D_WHITE_stock_desktop_1920x1080.png?v=1649256034.555",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2015_BMW_2%20SERIES_228I%20COUPE%202D_WHITE_stock_mobile_640x640.png?v=1649256034.555",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003434815/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4031094/details/feature-112734615.jpg?v=1738946788.188",
+    "entireDashImageUrl": "",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4031094/details/feature-112734625.jpg?v=1738946788.189",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4031094/details/feature-112734617.jpg?v=1738946788.188",
+    "backSeatImageUrl": "",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-4031094/details/feature-112734618.jpg?v=1738946788.188",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2015-bmw-2-series-228i",
+    "priceUpdateDate": "2025-02-13T17:51:43.679Z",
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "WBA1F5C59FV257724",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "148pt",
+    "stores": [
+      "148pt",
+      "CoreOD"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  },
+  {
+    "stockNumber": 2003280308,
+    "vehicleId": 3342453,
+    "make": "BMW",
+    "parentModel": "2 Series",
+    "model": "2 Series",
+    "trim": "228i",
+    "kbbTrim": "228i Coupe 2D",
+    "color": "Black",
+    "interiorColor": "Black",
+    "bodyStyle": "Coupe",
+    "mileage": 76311,
+    "milesPerGallon": 26,
+    "fuelType": "Gas",
+    "price": {
+      "total": 16590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 332.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 15454.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1327.2
+    },
+    "year": 2016,
+    "seatingCapacity": 4,
+    "imageUrl": "/2003280308/post-large/normalized/zoomcrop/2003280308-edc-02.jpg?v=2025.2.21_0.52.29",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2016_BMW_2%20SERIES_228I%20COUPE%202D_BLACK_stock_desktop_1920x1080.png?v=1649257538.090",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2016_BMW_2%20SERIES_228I%20COUPE%202D_BLACK_stock_mobile_640x640.png?v=1649257538.090",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003280308/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3804004/details/feature-103465331.jpg?v=1736294935.266",
+    "entireDashImageUrl": "",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3804004/details/feature-103465340.jpg?v=1736294935.266",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3804004/details/feature-103465333.jpg?v=1736294935.266",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3804004/details/feature-103484616.jpg?v=1736294935.266",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3804004/details/feature-103465334.jpg?v=1736294935.266",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2016-bmw-2-series-228i",
+    "priceUpdateDate": "2025-01-17T20:27:43.124Z",
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "WBA1F9C50GV545513",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/167205633/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1740082046.417",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/167205633/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1740082046.417",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "https://vexgateway.fastly.carvana.io/executions/167205633/GAUSSIAN_RENDERER/poster.jpg?v=1740082046.417",
+        "frameCount": 969,
+        "fps": 30.0
+      },
+      {
+        "videoName": "srpvideo-swipe",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/167205633/GAUSSIAN_RENDERER/srpvideo-swipe.mp4?v=1740082046.417",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/167205633/GAUSSIAN_RENDERER/srpvideo-swipe-h265.mp4?v=1740082046.417",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "pauseFrames": [
+          {
+            "start": 0,
+            "end": 0
+          },
+          {
+            "start": 45,
+            "end": 49
+          },
+          {
+            "start": 69,
+            "end": 73
+          },
+          {
+            "start": 111,
+            "end": 115
+          },
+          {
+            "start": 149,
+            "end": 153
+          },
+          {
+            "start": 192,
+            "end": 196
+          },
+          {
+            "start": 235,
+            "end": 239
+          },
+          {
+            "start": 278,
+            "end": 282
+          },
+          {
+            "start": 321,
+            "end": 325
+          },
+          {
+            "start": 364,
+            "end": 368
+          },
+          {
+            "start": 407,
+            "end": 415
+          },
+          {
+            "start": 471,
+            "end": 475
+          },
+          {
+            "start": 531,
+            "end": 539
+          },
+          {
+            "start": 578,
+            "end": 582
+          },
+          {
+            "start": 621,
+            "end": 625
+          },
+          {
+            "start": 664,
+            "end": 668
+          },
+          {
+            "start": 707,
+            "end": 711
+          },
+          {
+            "start": 750,
+            "end": 754
+          },
+          {
+            "start": 793,
+            "end": 797
+          },
+          {
+            "start": 831,
+            "end": 835
+          },
+          {
+            "start": 873,
+            "end": 877
+          },
+          {
+            "start": 897,
+            "end": 901
+          },
+          {
+            "start": 946,
+            "end": 950
+          }
+        ],
+        "thumbnailURL": "https://vexgateway.fastly.carvana.io/executions/167205633/GAUSSIAN_RENDERER/srpvideo-swipe.jpg?v=1740082046.417",
+        "frameCount": 950,
+        "fps": 30.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  },
+  {
+    "stockNumber": 2003444759,
+    "vehicleId": 3458301,
+    "make": "BMW",
+    "parentModel": "i4",
+    "model": "i4",
+    "trim": "M50",
+    "kbbTrim": "M50 Coupe 4D",
+    "color": "Green",
+    "interiorColor": "Beige",
+    "bodyStyle": "Coupe",
+    "mileage": 1346,
+    "milesPerGallon": 94,
+    "fuelType": "Electric",
+    "price": {
+      "total": 61990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 1124.0,
+      "downPayment": 6199.0,
+      "downPaymentDetails": {
+        "totalCashDue": 6199.0,
+        "additionalCashDown": 6199.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 64686.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 4959.2
+    },
+    "year": 2024,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003444759/post-large/normalized/zoomcrop/2003444759-edc-02.jpg?v=2025.2.21_0.52.29",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_BMW_I4_EDRIVE40%20COUPE%204D_BLACK_stock_desktop_1920x1080.png?v=1729345089.649",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_BMW_I4_EDRIVE40%20COUPE%204D_BLACK_stock_mobile_640x640.png?v=1729345089.649",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003444759/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3946522/details/feature-109220298.jpg?v=1737579770.639",
+    "entireDashImageUrl": "",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3946522/details/feature-109220310.jpg?v=1737579770.639",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3946522/details/feature-109220300.jpg?v=1737579770.639",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3946522/details/feature-109223609.jpg?v=1737579770.639",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3946522/details/feature-109220301.jpg?v=1737579770.639",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2024-bmw-i4-m50",
+    "priceUpdateDate": "2025-02-17T19:03:46.83Z",
+    "previousPrice": 62590.0,
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "WBY33AW00RFS34097",
+    "vehicleTags": [
+      {
+        "tagId": 103,
+        "tagCategoryId": 1,
+        "tagKey": "RecentPriceDrop",
+        "tagName": "New Price",
+        "tagDescription": "New Price",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      },
+      {
+        "tagId": 104,
+        "tagCategoryId": 1,
+        "tagKey": "KeepMovingPrice",
+        "tagName": "Great Deal",
+        "tagDescription": "This vehicle is priced $2,696 lower than Kelley Blue Book\u00ae Typical Listing Price.<br><br>* Savings amount based on the difference between Kelley Blue Book\u00ae Typical Listing Price and the current Carvana listing price, not including tax, title, registration, or delivery charges. Savings amounts are updated daily.",
+        "tagToolTip": "",
+        "sortOrder": 700,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [
+      "CoreOD"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  },
+  {
+    "stockNumber": 2003480402,
+    "vehicleId": 3503546,
+    "make": "Dodge",
+    "parentModel": "Challenger",
+    "model": "Challenger",
+    "trim": "GT",
+    "kbbTrim": "GT Coupe 2D",
+    "color": "Red",
+    "interiorColor": "Black",
+    "bodyStyle": "Coupe",
+    "mileage": 31124,
+    "milesPerGallon": 23,
+    "fuelType": "Gas",
+    "price": {
+      "total": 24990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 500.0,
+      "downPayment": 290.0,
+      "downPaymentDetails": {
+        "totalCashDue": 290.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 290.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 290.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 27338.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1999.2
+    },
+    "year": 2022,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003480402/post-large/normalized/zoomcrop/2003480402-edc-02.jpg?v=2025.2.21_0.52.29",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2022_DODGE_CHALLENGER_GT%20COUPE%202D_RED_stock_desktop_1920x1080.png?v=1701201801.769",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2022_DODGE_CHALLENGER_GT%20COUPE%202D_RED_stock_mobile_640x640.png?v=1701201801.769",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003480402/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4090611/details/feature-115149157.jpg?v=1739973586.899",
+    "entireDashImageUrl": "",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4090611/details/feature-115149167.jpg?v=1739973586.899",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4090611/details/feature-115149159.jpg?v=1739973586.899",
+    "backSeatImageUrl": "",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-4090611/details/feature-115149160.jpg?v=1739973586.899",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 290,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2022-dodge-challenger-gt",
+    "locationId": 43,
+    "stockRecallStatusType": 0,
+    "vin": "2C3CDZJG7NH205727",
+    "vehicleTags": [
+      {
+        "tagId": 121,
+        "tagCategoryId": 1,
+        "tagKey": "RecentlyAdded",
+        "tagName": "Recently Added",
+        "tagDescription": "This vehicle has been made purchasable for the first time within the last 72 hours",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      },
+      {
+        "tagId": 104,
+        "tagCategoryId": 1,
+        "tagKey": "KeepMovingPrice",
+        "tagName": "Great Deal",
+        "tagDescription": "This vehicle is priced $2,348 lower than Kelley Blue Book\u00ae Typical Listing Price.<br><br>* Savings amount based on the difference between Kelley Blue Book\u00ae Typical Listing Price and the current Carvana listing price, not including tax, title, registration, or delivery charges. Savings amounts are updated daily.",
+        "tagToolTip": "",
+        "sortOrder": 700,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [
+      "Partner-Retail"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/179827669/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1739976307.889",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/179827669/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1739976307.889",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "https://vexgateway.fastly.carvana.io/executions/179827669/GAUSSIAN_RENDERER/poster.jpg?v=1739976307.889",
+        "frameCount": 916,
+        "fps": 30.0
+      },
+      {
+        "videoName": "srpvideo-swipe",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/179827669/GAUSSIAN_RENDERER/srpvideo-swipe.mp4?v=1739976307.889",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/179827669/GAUSSIAN_RENDERER/srpvideo-swipe-h265.mp4?v=1739976307.889",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "pauseFrames": [
+          {
+            "start": 0,
+            "end": 0
+          },
+          {
+            "start": 45,
+            "end": 49
+          },
+          {
+            "start": 69,
+            "end": 73
+          },
+          {
+            "start": 111,
+            "end": 115
+          },
+          {
+            "start": 149,
+            "end": 153
+          },
+          {
+            "start": 192,
+            "end": 196
+          },
+          {
+            "start": 235,
+            "end": 239
+          },
+          {
+            "start": 278,
+            "end": 282
+          },
+          {
+            "start": 321,
+            "end": 325
+          },
+          {
+            "start": 364,
+            "end": 368
+          },
+          {
+            "start": 407,
+            "end": 415
+          },
+          {
+            "start": 471,
+            "end": 475
+          },
+          {
+            "start": 531,
+            "end": 539
+          },
+          {
+            "start": 578,
+            "end": 582
+          },
+          {
+            "start": 621,
+            "end": 625
+          },
+          {
+            "start": 664,
+            "end": 668
+          },
+          {
+            "start": 707,
+            "end": 711
+          },
+          {
+            "start": 750,
+            "end": 754
+          },
+          {
+            "start": 793,
+            "end": 797
+          },
+          {
+            "start": 831,
+            "end": 835
+          },
+          {
+            "start": 873,
+            "end": 877
+          },
+          {
+            "start": 897,
+            "end": 901
+          },
+          {
+            "start": 946,
+            "end": 950
+          }
+        ],
+        "thumbnailURL": "https://vexgateway.fastly.carvana.io/executions/179827669/GAUSSIAN_RENDERER/srpvideo-swipe.jpg?v=1739976307.889",
+        "frameCount": 950,
+        "fps": 30.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 343,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003398105,
+    "vehicleId": 3443022,
+    "make": "Dodge",
+    "parentModel": "Challenger",
+    "model": "Challenger",
+    "trim": "SXT",
+    "kbbTrim": "SXT Coupe 2D",
+    "color": "Silver",
+    "interiorColor": "Black",
+    "bodyStyle": "Coupe",
+    "mileage": 41551,
+    "milesPerGallon": 23,
+    "fuelType": "Gas",
+    "price": {
+      "total": 22990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 460.0,
+      "downPayment": 290.0,
+      "downPaymentDetails": {
+        "totalCashDue": 290.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 290.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 290.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 24243.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1839.2
+    },
+    "year": 2023,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003398105/post-large/normalized/zoomcrop/2003398105-edc-02.jpg?v=2025.2.21_0.52.29",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2023_DODGE_CHALLENGER_SXT%20COUPE%202D_SILVER_stock_desktop_1920x1080.png?v=1720796560.912",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2023_DODGE_CHALLENGER_SXT%20COUPE%202D_SILVER_stock_mobile_640x640.png?v=1720796560.912",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003398105/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3901222/details/feature-107365757.jpg?v=1736864403.749",
+    "entireDashImageUrl": "",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3901222/details/feature-107365767.jpg?v=1736864403.749",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3901222/details/feature-107365759.jpg?v=1736864403.749",
+    "backSeatImageUrl": "",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3901222/details/feature-107365760.jpg?v=1736864403.749",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 290,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2023-dodge-challenger-sxt",
+    "priceUpdateDate": "2025-02-03T16:34:11.33Z",
+    "locationId": 43,
+    "stockRecallStatusType": 0,
+    "vin": "2C3CDZAG1PH577874",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [
+      "Partner-Retail"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/171332623/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1736866722.253",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/171332623/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1736866722.253",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "",
+        "frameCount": 0,
+        "fps": 0.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 343,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003422224,
+    "vehicleId": 3451762,
+    "make": "Dodge",
+    "parentModel": "Challenger",
+    "model": "Challenger",
+    "trim": "SXT",
+    "kbbTrim": "SXT Coupe 2D",
+    "color": "Gray",
+    "interiorColor": "Black",
+    "bodyStyle": "Coupe",
+    "mileage": 37006,
+    "milesPerGallon": 23,
+    "fuelType": "Gas",
+    "price": {
+      "total": 22590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 452.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 22024.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1807.2
+    },
+    "year": 2020,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003422224/post-large/normalized/zoomcrop/2003422224-edc-02.jpg?v=2025.2.21_0.52.29",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2020_DODGE_CHALLENGER_SXT%20COUPE%202D_GRAY_stock_desktop_1920x1080.png?v=1645585819.989",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2020_DODGE_CHALLENGER_SXT%20COUPE%202D_GRAY_stock_mobile_640x640.png?v=1645585819.989",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003422224/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3939639/details/feature-108944917.jpg?v=1737495932.756",
+    "entireDashImageUrl": "",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3939639/details/feature-108944927.jpg?v=1737495932.756",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3939639/details/feature-108944919.jpg?v=1737495932.756",
+    "backSeatImageUrl": "",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3939639/details/feature-108944920.jpg?v=1737495932.756",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2020-dodge-challenger-sxt",
+    "priceUpdateDate": "2025-02-14T17:32:38.081Z",
+    "previousPrice": 22990.0,
+    "locationId": 43,
+    "stockRecallStatusType": 0,
+    "vin": "2C3CDZAG4LH191170",
+    "vehicleTags": [
+      {
+        "tagId": 103,
+        "tagCategoryId": 1,
+        "tagKey": "RecentPriceDrop",
+        "tagName": "New Price",
+        "tagDescription": "New Price",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 343,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003484358,
+    "vehicleId": 3482270,
+    "make": "Ford",
+    "parentModel": "Mustang",
+    "model": "Mustang",
+    "trim": "V6",
+    "kbbTrim": "V6 Coupe 2D",
+    "color": "White",
+    "interiorColor": "Black",
+    "bodyStyle": "Coupe",
+    "mileage": 81917,
+    "milesPerGallon": 22,
+    "fuelType": "Gas",
+    "price": {
+      "total": 17590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 352.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 15142.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1407.2
+    },
+    "year": 2015,
+    "seatingCapacity": 4,
+    "imageUrl": "/2003484358/post-large/normalized/zoomcrop/2003484358-edc-02.jpg?v=2025.2.21_0.52.29",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2015_FORD_MUSTANG_V6%20COUPE%202D_WHITE_stock_desktop_1920x1080.png?v=1645436394.811",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2015_FORD_MUSTANG_V6%20COUPE%202D_WHITE_stock_mobile_640x640.png?v=1645436394.811",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003484358/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4082372/details/feature-114828230.jpg?v=1739910133.918",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4082372/details/feature-114829716.jpg?v=1739910133.918",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4082372/details/feature-114828240.jpg?v=1739910133.918",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4082372/details/feature-114828232.jpg?v=1739910133.918",
+    "backSeatImageUrl": "",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-4082372/details/feature-114828233.jpg?v=1739910133.918",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2015-ford-mustang-v6",
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "1FA6P8AM2F5382362",
+    "vehicleTags": [
+      {
+        "tagId": 121,
+        "tagCategoryId": 1,
+        "tagKey": "RecentlyAdded",
+        "tagName": "Recently Added",
+        "tagDescription": "This vehicle has been made purchasable for the first time within the last 72 hours",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "148pt",
+    "stores": [
+      "148pt",
+      "CoreOD"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 3
+  },
+  {
+    "stockNumber": 2003403037,
+    "vehicleId": 3441249,
+    "make": "Dodge",
+    "parentModel": "Challenger",
+    "model": "Challenger",
+    "trim": "SXT",
+    "kbbTrim": "SXT Coupe 2D",
+    "color": "Silver",
+    "interiorColor": "Black",
+    "bodyStyle": "Coupe",
+    "mileage": 44271,
+    "milesPerGallon": 23,
+    "fuelType": "Gas",
+    "price": {
+      "total": 22590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 452.0,
+      "downPayment": 290.0,
+      "downPaymentDetails": {
+        "totalCashDue": 290.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 290.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 290.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 23969.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1807.2
+    },
+    "year": 2023,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003403037/post-large/normalized/zoomcrop/2003403037-edc-02.jpg?v=2025.2.21_0.52.29",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2023_DODGE_CHALLENGER_SXT%20COUPE%202D_SILVER_stock_desktop_1920x1080.png?v=1720796560.912",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2023_DODGE_CHALLENGER_SXT%20COUPE%202D_SILVER_stock_mobile_640x640.png?v=1720796560.912",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003403037/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3897520/details/feature-107201883.jpg?v=1736792682.147",
+    "entireDashImageUrl": "",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3897520/details/feature-107201893.jpg?v=1736792682.147",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3897520/details/feature-107201885.jpg?v=1736792682.147",
+    "backSeatImageUrl": "",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3897520/details/feature-107201886.jpg?v=1736792682.147",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 290,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2023-dodge-challenger-sxt",
+    "priceUpdateDate": "2025-02-03T16:34:03.063Z",
+    "locationId": 300,
+    "stockRecallStatusType": 0,
+    "vin": "2C3CDZAG3PH517725",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "148pt",
+    "stores": [
+      "148pt",
+      "Partner-Retail"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/171162887/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1736799180.883",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/171162887/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1736799180.883",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "",
+        "frameCount": 0,
+        "fps": 0.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 374,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003391600,
+    "vehicleId": 3424543,
+    "make": "Chevrolet",
+    "parentModel": "Camaro",
+    "model": "Camaro",
+    "trim": "LT",
+    "kbbTrim": "LT Coupe 2D",
+    "color": "Red",
+    "interiorColor": "Black",
+    "bodyStyle": "Coupe",
+    "mileage": 69475,
+    "milesPerGallon": 22,
+    "fuelType": "Gas",
+    "price": {
+      "total": 16590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 332.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 12650.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1327.2
+    },
+    "year": 2012,
+    "seatingCapacity": 4,
+    "imageUrl": "/2003391600/post-large/normalized/zoomcrop/2003391600-edc-02.jpg?v=2025.2.21_0.52.29",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2012_CHEVROLET_CAMARO_LT%20COUPE%202D_RED_stock_desktop_1920x1080.png?v=1645499820.779",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2012_CHEVROLET_CAMARO_LT%20COUPE%202D_RED_stock_mobile_640x640.png?v=1645499820.779",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003391600/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3871138/details/feature-106148256.jpg?v=1736290782.525",
+    "entireDashImageUrl": "",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3871138/details/feature-106148266.jpg?v=1736290782.525",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3871138/details/feature-106148258.jpg?v=1736290782.525",
+    "backSeatImageUrl": "",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3871138/details/feature-106148259.jpg?v=1736290782.525",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2012-chevrolet-camaro-lt",
+    "priceUpdateDate": "2025-01-17T20:30:24.848Z",
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "2G1FB1E32C9209773",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [
+      "CoreOD"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  },
+  {
+    "stockNumber": 2003288675,
+    "vehicleId": 3348038,
+    "make": "Jaguar",
+    "parentModel": "F-TYPE",
+    "model": "F-TYPE",
+    "trim": "R",
+    "kbbTrim": "R Coupe 2D",
+    "color": "Black",
+    "interiorColor": "Black",
+    "bodyStyle": "Coupe",
+    "mileage": 34645,
+    "milesPerGallon": 18,
+    "fuelType": "Gas",
+    "price": {
+      "total": 38990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 780.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 39273.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 3119.2
+    },
+    "year": 2015,
+    "seatingCapacity": 2,
+    "imageUrl": "/2003288675/post-large/normalized/zoomcrop/2003288675-edc-02.jpg?v=2025.2.21_0.52.29",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2015_JAGUAR_F-TYPE_R%20COUPE%202D_BLACK_stock_desktop_1920x1080.png?v=1645470787.768",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2015_JAGUAR_F-TYPE_R%20COUPE%202D_BLACK_stock_mobile_640x640.png?v=1645470787.768",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003288675/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3610621/details/feature-95674603.jpg?v=1739487499.004",
+    "entireDashImageUrl": "",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3610621/details/feature-95674612.jpg?v=1739487499.004",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3610621/details/feature-95674605.jpg?v=1739487499.004",
+    "backSeatImageUrl": "",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3610621/details/feature-95674606.jpg?v=1739487499.004",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2015-jaguar-f-type-r",
+    "priceUpdateDate": "2025-02-06T18:24:43.875Z",
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "SAJWA6DA7FMK11390",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/158846687/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1731447886.591",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/158846687/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1731447886.591",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "",
+        "frameCount": 0,
+        "fps": 0.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  },
+  {
+    "stockNumber": 2003391996,
+    "vehicleId": 3418462,
+    "make": "Chevrolet",
+    "parentModel": "Corvette",
+    "model": "Corvette",
+    "trim": "Stingray",
+    "kbbTrim": "Stingray Coupe 2D",
+    "color": "Other",
+    "interiorColor": "Black",
+    "bodyStyle": "Coupe",
+    "mileage": 26560,
+    "milesPerGallon": 19,
+    "fuelType": "Gas",
+    "price": {
+      "total": 64990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 1179.0,
+      "downPayment": 6499.0,
+      "downPaymentDetails": {
+        "totalCashDue": 6499.0,
+        "additionalCashDown": 6499.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 71657.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 5199.2
+    },
+    "year": 2023,
+    "seatingCapacity": 2,
+    "imageUrl": "/2003391996/post-large/normalized/zoomcrop/2003391996-edc-02.jpg?v=2025.2.21_0.52.29",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2023_CHEVROLET_CORVETTE_STINGRAY%20COUPE%202D_YELLOW_stock_desktop_1920x1080.png?v=1735923743.147",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2023_CHEVROLET_CORVETTE_STINGRAY%20COUPE%202D_YELLOW_stock_mobile_640x640.png?v=1735923743.147",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003391996/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "",
+    "entireDashImageUrl": "",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3852549/details/feature-105418658.jpg?v=1740080619.492",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3852549/details/feature-105418651.jpg?v=1740080619.492",
+    "backSeatImageUrl": "",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3852549/details/feature-105418652.jpg?v=1740080619.492",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2023-chevrolet-corvette-stingray",
+    "priceUpdateDate": "2025-02-11T21:44:44.606Z",
+    "previousPrice": 65590.0,
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "1G1YB2D46P5126200",
+    "vehicleTags": [
+      {
+        "tagId": 103,
+        "tagCategoryId": 1,
+        "tagKey": "RecentPriceDrop",
+        "tagName": "New Price",
+        "tagDescription": "New Price",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      },
+      {
+        "tagId": 104,
+        "tagCategoryId": 1,
+        "tagKey": "KeepMovingPrice",
+        "tagName": "Great Deal",
+        "tagDescription": "This vehicle is priced $6,667 lower than Kelley Blue Book\u00ae Typical Listing Price.<br><br>* Savings amount based on the difference between Kelley Blue Book\u00ae Typical Listing Price and the current Carvana listing price, not including tax, title, registration, or delivery charges. Savings amounts are updated daily.",
+        "tagToolTip": "",
+        "sortOrder": 700,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/169291827/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1740066606.115",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/169291827/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1740066606.115",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "https://vexgateway.fastly.carvana.io/executions/169291827/GAUSSIAN_RENDERER/poster.jpg?v=1740066606.115",
+        "frameCount": 969,
+        "fps": 30.0
+      },
+      {
+        "videoName": "srpvideo-swipe",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/169291827/GAUSSIAN_RENDERER/srpvideo-swipe.mp4?v=1740066606.115",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/169291827/GAUSSIAN_RENDERER/srpvideo-swipe-h265.mp4?v=1740066606.115",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "pauseFrames": [
+          {
+            "start": 0,
+            "end": 0
+          },
+          {
+            "start": 45,
+            "end": 49
+          },
+          {
+            "start": 69,
+            "end": 73
+          },
+          {
+            "start": 111,
+            "end": 115
+          },
+          {
+            "start": 149,
+            "end": 153
+          },
+          {
+            "start": 192,
+            "end": 196
+          },
+          {
+            "start": 235,
+            "end": 239
+          },
+          {
+            "start": 278,
+            "end": 282
+          },
+          {
+            "start": 321,
+            "end": 325
+          },
+          {
+            "start": 364,
+            "end": 368
+          },
+          {
+            "start": 407,
+            "end": 415
+          },
+          {
+            "start": 471,
+            "end": 475
+          },
+          {
+            "start": 531,
+            "end": 539
+          },
+          {
+            "start": 578,
+            "end": 582
+          },
+          {
+            "start": 621,
+            "end": 625
+          },
+          {
+            "start": 664,
+            "end": 668
+          },
+          {
+            "start": 707,
+            "end": 711
+          },
+          {
+            "start": 750,
+            "end": 754
+          },
+          {
+            "start": 793,
+            "end": 797
+          },
+          {
+            "start": 831,
+            "end": 835
+          },
+          {
+            "start": 873,
+            "end": 877
+          },
+          {
+            "start": 897,
+            "end": 901
+          },
+          {
+            "start": 946,
+            "end": 950
+          }
+        ],
+        "thumbnailURL": "https://vexgateway.fastly.carvana.io/executions/169291827/GAUSSIAN_RENDERER/srpvideo-swipe.jpg?v=1740066606.115",
+        "frameCount": 950,
+        "fps": 30.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  },
+  {
+    "stockNumber": 2003505671,
+    "vehicleId": 3496880,
+    "make": "Dodge",
+    "parentModel": "Challenger",
+    "model": "Challenger",
+    "trim": "SXT",
+    "kbbTrim": "SXT Coupe 2D",
+    "color": "Red",
+    "interiorColor": "Black",
+    "bodyStyle": "Coupe",
+    "mileage": 33538,
+    "milesPerGallon": 23,
+    "fuelType": "Gas",
+    "price": {
+      "total": 23590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 472.0,
+      "downPayment": 290.0,
+      "downPaymentDetails": {
+        "totalCashDue": 290.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 290.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 290.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 25766.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1887.2
+    },
+    "year": 2022,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003505671/post-large/normalized/zoomcrop/2003505671-edc-02.jpg?v=2025.2.21_0.52.29",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2022_DODGE_CHALLENGER_SXT%20COUPE%202D_RED_stock_desktop_1920x1080.png?v=1686591955.649",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2022_DODGE_CHALLENGER_SXT%20COUPE%202D_RED_stock_mobile_640x640.png?v=1686591955.649",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003505671/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4096421/details/feature-115407799.jpg?v=1740006972.729",
+    "entireDashImageUrl": "",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4096421/details/feature-115407809.jpg?v=1740006972.729",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4096421/details/feature-115407801.jpg?v=1740006972.729",
+    "backSeatImageUrl": "",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-4096421/details/feature-115407802.jpg?v=1740006972.729",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 290,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2022-dodge-challenger-sxt",
+    "priceUpdateDate": "2025-02-19T15:12:41.946Z",
+    "locationId": 43,
+    "stockRecallStatusType": 0,
+    "vin": "2C3CDZAG6NH246950",
+    "vehicleTags": [
+      {
+        "tagId": 121,
+        "tagCategoryId": 1,
+        "tagKey": "RecentlyAdded",
+        "tagName": "Recently Added",
+        "tagDescription": "This vehicle has been made purchasable for the first time within the last 72 hours",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      },
+      {
+        "tagId": 104,
+        "tagCategoryId": 1,
+        "tagKey": "KeepMovingPrice",
+        "tagName": "Great Deal",
+        "tagDescription": "This vehicle is priced $2,176 lower than Kelley Blue Book\u00ae Typical Listing Price.<br><br>* Savings amount based on the difference between Kelley Blue Book\u00ae Typical Listing Price and the current Carvana listing price, not including tax, title, registration, or delivery charges. Savings amounts are updated daily.",
+        "tagToolTip": "",
+        "sortOrder": 700,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "148pt",
+    "stores": [
+      "Partner-Retail",
+      "148pt"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 343,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003505671,
+    "vehicleId": 3496880,
+    "make": "Dodge",
+    "parentModel": "Challenger",
+    "model": "Challenger",
+    "trim": "SXT",
+    "kbbTrim": "SXT Coupe 2D",
+    "color": "Red",
+    "interiorColor": "Black",
+    "bodyStyle": "Coupe",
+    "mileage": 33538,
+    "milesPerGallon": 23,
+    "fuelType": "Gas",
+    "price": {
+      "total": 23590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 472.0,
+      "downPayment": 290.0,
+      "downPaymentDetails": {
+        "totalCashDue": 290.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 290.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 290.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 25766.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1887.2
+    },
+    "year": 2022,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003505671/post-large/normalized/zoomcrop/2003505671-edc-02.jpg?v=2025.2.21_0.52.47",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2022_DODGE_CHALLENGER_SXT%20COUPE%202D_RED_stock_desktop_1920x1080.png?v=1686591955.649",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2022_DODGE_CHALLENGER_SXT%20COUPE%202D_RED_stock_mobile_640x640.png?v=1686591955.649",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003505671/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4096421/details/feature-115407799.jpg?v=1740006972.729",
+    "entireDashImageUrl": "",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4096421/details/feature-115407809.jpg?v=1740006972.729",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4096421/details/feature-115407801.jpg?v=1740006972.729",
+    "backSeatImageUrl": "",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-4096421/details/feature-115407802.jpg?v=1740006972.729",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 290,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2022-dodge-challenger-sxt",
+    "priceUpdateDate": "2025-02-19T15:12:41.946Z",
+    "locationId": 43,
+    "stockRecallStatusType": 0,
+    "vin": "2C3CDZAG6NH246950",
+    "vehicleTags": [
+      {
+        "tagId": 121,
+        "tagCategoryId": 1,
+        "tagKey": "RecentlyAdded",
+        "tagName": "Recently Added",
+        "tagDescription": "This vehicle has been made purchasable for the first time within the last 72 hours",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      },
+      {
+        "tagId": 104,
+        "tagCategoryId": 1,
+        "tagKey": "KeepMovingPrice",
+        "tagName": "Great Deal",
+        "tagDescription": "This vehicle is priced $2,176 lower than Kelley Blue Book\u00ae Typical Listing Price.<br><br>* Savings amount based on the difference between Kelley Blue Book\u00ae Typical Listing Price and the current Carvana listing price, not including tax, title, registration, or delivery charges. Savings amounts are updated daily.",
+        "tagToolTip": "",
+        "sortOrder": 700,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "148pt",
+    "stores": [
+      "Partner-Retail",
+      "148pt"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 343,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003397345,
+    "vehicleId": 3425908,
+    "make": "Lexus",
+    "parentModel": "RC",
+    "model": "RC",
+    "trim": "RC 350",
+    "kbbTrim": "RC 350 Coupe 2D",
+    "color": "White",
+    "interiorColor": "Red",
+    "bodyStyle": "Coupe",
+    "mileage": 54115,
+    "milesPerGallon": 22,
+    "fuelType": "Gas",
+    "price": {
+      "total": 30590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 612.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 34133.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 2447.2
+    },
+    "year": 2017,
+    "seatingCapacity": 4,
+    "imageUrl": "/2003397345/post-large/normalized/zoomcrop/2003397345-edc-02.jpg?v=2025.2.21_0.52.47",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2017_LEXUS_RC_RC%20350%20COUPE%202D_WHITE_stock_desktop_1920x1080.png?v=1647461696.445",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2017_LEXUS_RC_RC%20350%20COUPE%202D_WHITE_stock_mobile_640x640.png?v=1647461696.445",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003397345/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4095430/details/feature-115364355.jpg?v=1739997967.970",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4095430/details/feature-115366088.jpg?v=1739997967.970",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4095430/details/feature-115364365.jpg?v=1739997967.970",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4095430/details/feature-115364357.jpg?v=1739997967.970",
+    "backSeatImageUrl": "",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-4095430/details/feature-115364358.jpg?v=1739997967.970",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2017-lexus-rc-rc-350",
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "JTHHE5BC0H5016463",
+    "vehicleTags": [
+      {
+        "tagId": 121,
+        "tagCategoryId": 1,
+        "tagKey": "RecentlyAdded",
+        "tagName": "Recently Added",
+        "tagDescription": "This vehicle has been made purchasable for the first time within the last 72 hours",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      },
+      {
+        "tagId": 104,
+        "tagCategoryId": 1,
+        "tagKey": "KeepMovingPrice",
+        "tagName": "Great Deal",
+        "tagDescription": "This vehicle is priced $3,543 lower than Kelley Blue Book\u00ae Typical Listing Price.<br><br>* Savings amount based on the difference between Kelley Blue Book\u00ae Typical Listing Price and the current Carvana listing price, not including tax, title, registration, or delivery charges. Savings amounts are updated daily.",
+        "tagToolTip": "",
+        "sortOrder": 700,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [
+      "CoreOD"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  },
+  {
+    "stockNumber": 2003361645,
+    "vehicleId": 3397968,
+    "make": "Jaguar",
+    "parentModel": "F-TYPE",
+    "model": "F-TYPE",
+    "trim": "R",
+    "kbbTrim": "R Coupe 2D",
+    "color": "Black",
+    "interiorColor": "Black",
+    "bodyStyle": "Coupe",
+    "mileage": 47408,
+    "milesPerGallon": 18,
+    "fuelType": "Gas",
+    "price": {
+      "total": 37590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 752.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 36961.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 3007.2
+    },
+    "year": 2015,
+    "seatingCapacity": 2,
+    "imageUrl": "/2003361645/post-large/normalized/zoomcrop/2003361645-edc-02.jpg?v=2025.2.21_0.52.47",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2015_JAGUAR_F-TYPE_R%20COUPE%202D_BLACK_stock_desktop_1920x1080.png?v=1645470787.768",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2015_JAGUAR_F-TYPE_R%20COUPE%202D_BLACK_stock_mobile_640x640.png?v=1645470787.768",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003361645/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "",
+    "entireDashImageUrl": "",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3764014/details/feature-101877229.jpg?v=1740079873.290",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3764014/details/feature-101877222.jpg?v=1740079873.290",
+    "backSeatImageUrl": "",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3764014/details/feature-101877223.jpg?v=1740079873.290",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2015-jaguar-f-type-r",
+    "priceUpdateDate": "2025-01-31T18:01:06.945Z",
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "SAJWA6DA6FMK11493",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/165416291/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1740076282.411",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/165416291/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1740076282.411",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "https://vexgateway.fastly.carvana.io/executions/165416291/GAUSSIAN_RENDERER/poster.jpg?v=1740076282.411",
+        "frameCount": 969,
+        "fps": 30.0
+      },
+      {
+        "videoName": "srpvideo-swipe",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/165416291/GAUSSIAN_RENDERER/srpvideo-swipe.mp4?v=1740076282.411",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/165416291/GAUSSIAN_RENDERER/srpvideo-swipe-h265.mp4?v=1740076282.411",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "pauseFrames": [
+          {
+            "start": 0,
+            "end": 0
+          },
+          {
+            "start": 45,
+            "end": 49
+          },
+          {
+            "start": 69,
+            "end": 73
+          },
+          {
+            "start": 111,
+            "end": 115
+          },
+          {
+            "start": 149,
+            "end": 153
+          },
+          {
+            "start": 192,
+            "end": 196
+          },
+          {
+            "start": 235,
+            "end": 239
+          },
+          {
+            "start": 278,
+            "end": 282
+          },
+          {
+            "start": 321,
+            "end": 325
+          },
+          {
+            "start": 364,
+            "end": 368
+          },
+          {
+            "start": 407,
+            "end": 415
+          },
+          {
+            "start": 471,
+            "end": 475
+          },
+          {
+            "start": 531,
+            "end": 539
+          },
+          {
+            "start": 578,
+            "end": 582
+          },
+          {
+            "start": 621,
+            "end": 625
+          },
+          {
+            "start": 664,
+            "end": 668
+          },
+          {
+            "start": 707,
+            "end": 711
+          },
+          {
+            "start": 750,
+            "end": 754
+          },
+          {
+            "start": 793,
+            "end": 797
+          },
+          {
+            "start": 831,
+            "end": 835
+          },
+          {
+            "start": 873,
+            "end": 877
+          },
+          {
+            "start": 897,
+            "end": 901
+          },
+          {
+            "start": 946,
+            "end": 950
+          }
+        ],
+        "thumbnailURL": "https://vexgateway.fastly.carvana.io/executions/165416291/GAUSSIAN_RENDERER/srpvideo-swipe.jpg?v=1740076282.411",
+        "frameCount": 950,
+        "fps": 30.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 9
+  },
+  {
+    "stockNumber": 2003375206,
+    "vehicleId": 3405119,
+    "make": "Ford",
+    "parentModel": "Mustang",
+    "model": "Mustang",
+    "trim": "EcoBoost Premium",
+    "kbbTrim": "EcoBoost Premium Coupe 2D",
+    "color": "Gray",
+    "interiorColor": "Black",
+    "bodyStyle": "Coupe",
+    "mileage": 41792,
+    "milesPerGallon": 23,
+    "fuelType": "Gas",
+    "price": {
+      "total": 24590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 492.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 27570.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1967.2
+    },
+    "year": 2023,
+    "seatingCapacity": 4,
+    "imageUrl": "/2003375206/post-large/normalized/zoomcrop/2003375206-edc-02.jpg?v=2025.2.21_0.52.47",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2023_FORD_MUSTANG_ECOBOOST%20PREMIUM%20COUPE%202D_GRAY_stock_desktop_1920x1080.png?v=1698952718.348",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2023_FORD_MUSTANG_ECOBOOST%20PREMIUM%20COUPE%202D_GRAY_stock_mobile_640x640.png?v=1698952718.348",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003375206/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3785808/details/feature-102719528.jpg?v=1734472302.757",
+    "entireDashImageUrl": "",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3785808/details/feature-102719537.jpg?v=1734472302.757",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3785808/details/feature-102719530.jpg?v=1734472302.757",
+    "backSeatImageUrl": "",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3785808/details/feature-102719531.jpg?v=1734472302.757",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2023-ford-mustang-ecoboost-premium",
+    "priceUpdateDate": "2025-02-14T23:40:13.606Z",
+    "locationId": 221,
+    "stockRecallStatusType": 0,
+    "vin": "1FA6P8TH4P5109828",
+    "vehicleTags": [
+      {
+        "tagId": 104,
+        "tagCategoryId": 1,
+        "tagKey": "KeepMovingPrice",
+        "tagName": "Great Deal",
+        "tagDescription": "This vehicle is priced $2,980 lower than Kelley Blue Book\u00ae Typical Listing Price.<br><br>* Savings amount based on the difference between Kelley Blue Book\u00ae Typical Listing Price and the current Carvana listing price, not including tax, title, registration, or delivery charges. Savings amounts are updated daily.",
+        "tagToolTip": "",
+        "sortOrder": 700,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/166392198/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1740029008.667",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/166392198/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1740029008.667",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "https://vexgateway.fastly.carvana.io/executions/166392198/GAUSSIAN_RENDERER/poster.jpg?v=1740029008.667",
+        "frameCount": 969,
+        "fps": 30.0
+      },
+      {
+        "videoName": "srpvideo-swipe",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/166392198/GAUSSIAN_RENDERER/srpvideo-swipe.mp4?v=1740029008.667",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/166392198/GAUSSIAN_RENDERER/srpvideo-swipe-h265.mp4?v=1740029008.667",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "pauseFrames": [
+          {
+            "start": 0,
+            "end": 0
+          },
+          {
+            "start": 45,
+            "end": 49
+          },
+          {
+            "start": 69,
+            "end": 73
+          },
+          {
+            "start": 111,
+            "end": 115
+          },
+          {
+            "start": 149,
+            "end": 153
+          },
+          {
+            "start": 192,
+            "end": 196
+          },
+          {
+            "start": 235,
+            "end": 239
+          },
+          {
+            "start": 278,
+            "end": 282
+          },
+          {
+            "start": 321,
+            "end": 325
+          },
+          {
+            "start": 364,
+            "end": 368
+          },
+          {
+            "start": 407,
+            "end": 415
+          },
+          {
+            "start": 471,
+            "end": 475
+          },
+          {
+            "start": 531,
+            "end": 539
+          },
+          {
+            "start": 578,
+            "end": 582
+          },
+          {
+            "start": 621,
+            "end": 625
+          },
+          {
+            "start": 664,
+            "end": 668
+          },
+          {
+            "start": 707,
+            "end": 711
+          },
+          {
+            "start": 750,
+            "end": 754
+          },
+          {
+            "start": 793,
+            "end": 797
+          },
+          {
+            "start": 831,
+            "end": 835
+          },
+          {
+            "start": 873,
+            "end": 877
+          },
+          {
+            "start": 897,
+            "end": 901
+          },
+          {
+            "start": 946,
+            "end": 950
+          }
+        ],
+        "thumbnailURL": "https://vexgateway.fastly.carvana.io/executions/166392198/GAUSSIAN_RENDERER/srpvideo-swipe.jpg?v=1740029008.667",
+        "frameCount": 950,
+        "fps": 30.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 53,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 2
+  },
+  {
+    "stockNumber": 2003465252,
+    "vehicleId": 3473883,
+    "make": "Dodge",
+    "parentModel": "Challenger",
+    "model": "Challenger",
+    "trim": "R/T",
+    "kbbTrim": "R/T Coupe 2D",
+    "color": "Other",
+    "interiorColor": "Black",
+    "bodyStyle": "Coupe",
+    "mileage": 44112,
+    "milesPerGallon": 18,
+    "fuelType": "Gas",
+    "price": {
+      "total": 24590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 492.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 25201.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1967.2
+    },
+    "year": 2017,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003465252/post-large/normalized/zoomcrop/2003465252-edc-02.jpg?v=2025.2.21_0.52.47",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2017_DODGE_CHALLENGER_R/T%20COUPE%202D_YELLOW_stock_desktop_1920x1080.png?v=1645513441.022",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2017_DODGE_CHALLENGER_R/T%20COUPE%202D_YELLOW_stock_mobile_640x640.png?v=1645513441.022",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003465252/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3999666/details/feature-111442278.jpg?v=1738426541.958",
+    "entireDashImageUrl": "",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3999666/details/feature-111442289.jpg?v=1738426541.958",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3999666/details/feature-111442280.jpg?v=1738426541.958",
+    "backSeatImageUrl": "",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3999666/details/feature-111442281.jpg?v=1738426541.958",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2017-dodge-challenger-rt",
+    "priceUpdateDate": "2025-02-12T17:38:16.986Z",
+    "locationId": 43,
+    "stockRecallStatusType": 0,
+    "vin": "2C3CDZBT8HH640238",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "148pt",
+    "stores": [
+      "148pt"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/175712853/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1738428861.250",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/175712853/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1738428861.250",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "",
+        "frameCount": 0,
+        "fps": 0.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 343,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003395554,
+    "vehicleId": 3425935,
+    "make": "Subaru",
+    "parentModel": "BRZ",
+    "model": "BRZ",
+    "trim": "Limited",
+    "kbbTrim": "Limited Coupe 2D",
+    "color": "White",
+    "interiorColor": "Black",
+    "bodyStyle": "Coupe",
+    "mileage": 104188,
+    "milesPerGallon": 25,
+    "fuelType": "Gas",
+    "price": {
+      "total": 15990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 320.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 9781.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1279.2
+    },
+    "year": 2013,
+    "seatingCapacity": 4,
+    "imageUrl": "/2003395554/post-large/normalized/zoomcrop/2003395554-edc-02.jpg?v=2025.2.21_0.52.47",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2013_SUBARU_BRZ_LIMITED%20COUPE%202D_WHITE_stock_desktop_1920x1080.png?v=1645488758.880",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2013_SUBARU_BRZ_LIMITED%20COUPE%202D_WHITE_stock_mobile_640x640.png?v=1645488758.880",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003395554/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3904599/details/feature-107494491.jpg?v=1739071877.366",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-3904599/details/feature-107497269.jpg?v=1739071877.366",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3904599/details/feature-107494501.jpg?v=1739071877.366",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3904599/details/feature-107494493.jpg?v=1739071877.366",
+    "backSeatImageUrl": "",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3904599/details/feature-107494494.jpg?v=1739071877.366",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2013-subaru-brz-limited",
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "JF1ZCAC1XD2609864",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [
+      "CoreOD"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  },
+  {
+    "stockNumber": 2003474979,
+    "vehicleId": 3507584,
+    "make": "Dodge",
+    "parentModel": "Challenger",
+    "model": "Challenger",
+    "trim": "GT",
+    "kbbTrim": "GT Coupe 2D",
+    "color": "Gray",
+    "interiorColor": "Black",
+    "bodyStyle": "Coupe",
+    "mileage": 63705,
+    "milesPerGallon": 21,
+    "fuelType": "Gas",
+    "price": {
+      "total": 20079.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 402.0,
+      "downPayment": 590.0,
+      "downPaymentDetails": {
+        "totalCashDue": 590.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 590.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 590.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1606.32
+    },
+    "year": 2022,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003474979/post-large/2003474979-edc-02-search.jpg?v=2025.2.21_0.52.47",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2022_DODGE_CHALLENGER_GT%20COUPE%202D_GRAY_stock_desktop_1920x1080.png?v=1682437626.536",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2022_DODGE_CHALLENGER_GT%20COUPE%202D_GRAY_stock_mobile_640x640.png?v=1682437626.536",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003474979/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3986409/details/feature-110860675.jpg?v=1739981289.470",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-3986409/details/feature-110860690.jpg?v=1739981289.470",
+    "infotainmentImageUrl": "",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3986409/details/feature-110860673.jpg?v=1739981289.470",
+    "backSeatImageUrl": "",
+    "trunkImageUrl": "",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 590,
+    "vehicleInventoryType": 4,
+    "vehicleLockType": 0,
+    "vdpSlug": "2022-dodge-challenger-gt",
+    "priceUpdateDate": "2025-02-20T12:32:44.441Z",
+    "locationId": 369,
+    "stockRecallStatusType": 0,
+    "vin": "2C3CDZKG0NH231083",
+    "vehicleTags": [
+      {
+        "tagId": 121,
+        "tagCategoryId": 1,
+        "tagKey": "RecentlyAdded",
+        "tagName": "Recently Added",
+        "tagDescription": "This vehicle has been made purchasable for the first time within the last 72 hours",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 373,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003351674,
+    "vehicleId": 3414192,
+    "make": "Chevrolet",
+    "parentModel": "Corvette",
+    "model": "Corvette",
+    "trim": "Stingray",
+    "kbbTrim": "Stingray Coupe 2D",
+    "color": "Red",
+    "interiorColor": "Black",
+    "bodyStyle": "Coupe",
+    "mileage": 7168,
+    "milesPerGallon": 19,
+    "fuelType": "Gas",
+    "price": {
+      "total": 65990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 1197.0,
+      "downPayment": 6599.0,
+      "downPaymentDetails": {
+        "totalCashDue": 6599.0,
+        "additionalCashDown": 6599.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 76192.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 5279.2
+    },
+    "year": 2022,
+    "seatingCapacity": 2,
+    "imageUrl": "/2003351674/post-large/normalized/zoomcrop/2003351674-edc-02.jpg?v=2025.2.21_0.52.47",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2022_CHEVROLET_CORVETTE_STINGRAY%20COUPE%202D_RED_stock_desktop_1920x1080.png?v=1647023778.537",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2022_CHEVROLET_CORVETTE_STINGRAY%20COUPE%202D_RED_stock_mobile_640x640.png?v=1647023778.537",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003351674/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "",
+    "entireDashImageUrl": "",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3817001/details/feature-103951880.jpg?v=1740079688.677",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3817001/details/feature-103951873.jpg?v=1740079688.676",
+    "backSeatImageUrl": "",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3817001/details/feature-103951874.jpg?v=1740079688.677",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2022-chevrolet-corvette-stingray",
+    "priceUpdateDate": "2025-01-30T22:04:19.143Z",
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "1G1YB2D44N5110834",
+    "vehicleTags": [
+      {
+        "tagId": 104,
+        "tagCategoryId": 1,
+        "tagKey": "KeepMovingPrice",
+        "tagName": "Great Deal",
+        "tagDescription": "This vehicle is priced $10,202 lower than Kelley Blue Book\u00ae Typical Listing Price.<br><br>* Savings amount based on the difference between Kelley Blue Book\u00ae Typical Listing Price and the current Carvana listing price, not including tax, title, registration, or delivery charges. Savings amounts are updated daily.",
+        "tagToolTip": "",
+        "sortOrder": 700,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/167766482/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1740044122.241",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/167766482/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1740044122.241",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "https://vexgateway.fastly.carvana.io/executions/167766482/GAUSSIAN_RENDERER/poster.jpg?v=1740044122.241",
+        "frameCount": 969,
+        "fps": 30.0
+      },
+      {
+        "videoName": "srpvideo-swipe",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/167766482/GAUSSIAN_RENDERER/srpvideo-swipe.mp4?v=1740044122.241",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/167766482/GAUSSIAN_RENDERER/srpvideo-swipe-h265.mp4?v=1740044122.241",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "pauseFrames": [
+          {
+            "start": 0,
+            "end": 0
+          },
+          {
+            "start": 45,
+            "end": 49
+          },
+          {
+            "start": 69,
+            "end": 73
+          },
+          {
+            "start": 111,
+            "end": 115
+          },
+          {
+            "start": 149,
+            "end": 153
+          },
+          {
+            "start": 192,
+            "end": 196
+          },
+          {
+            "start": 235,
+            "end": 239
+          },
+          {
+            "start": 278,
+            "end": 282
+          },
+          {
+            "start": 321,
+            "end": 325
+          },
+          {
+            "start": 364,
+            "end": 368
+          },
+          {
+            "start": 407,
+            "end": 415
+          },
+          {
+            "start": 471,
+            "end": 475
+          },
+          {
+            "start": 531,
+            "end": 539
+          },
+          {
+            "start": 578,
+            "end": 582
+          },
+          {
+            "start": 621,
+            "end": 625
+          },
+          {
+            "start": 664,
+            "end": 668
+          },
+          {
+            "start": 707,
+            "end": 711
+          },
+          {
+            "start": 750,
+            "end": 754
+          },
+          {
+            "start": 793,
+            "end": 797
+          },
+          {
+            "start": 831,
+            "end": 835
+          },
+          {
+            "start": 873,
+            "end": 877
+          },
+          {
+            "start": 897,
+            "end": 901
+          },
+          {
+            "start": 946,
+            "end": 950
+          }
+        ],
+        "thumbnailURL": "https://vexgateway.fastly.carvana.io/executions/167766482/GAUSSIAN_RENDERER/srpvideo-swipe.jpg?v=1740044122.241",
+        "frameCount": 950,
+        "fps": 30.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  },
+  {
+    "stockNumber": 2003393146,
+    "vehicleId": 3471091,
+    "make": "Dodge",
+    "parentModel": "Challenger",
+    "model": "Challenger",
+    "trim": "GT",
+    "kbbTrim": "GT Coupe 2D",
+    "color": "Red",
+    "interiorColor": "Black",
+    "bodyStyle": "Coupe",
+    "mileage": 48184,
+    "milesPerGallon": 23,
+    "fuelType": "Gas",
+    "price": {
+      "total": 20243.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 405.0,
+      "downPayment": 590.0,
+      "downPaymentDetails": {
+        "totalCashDue": 590.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 590.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 590.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 25303.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1619.44
+    },
+    "year": 2022,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003393146/post-large/2003393146-edc-02-search.jpg?v=2025.2.21_0.52.47",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2022_DODGE_CHALLENGER_GT%20COUPE%202D_RED_stock_desktop_1920x1080.png?v=1701201801.769",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2022_DODGE_CHALLENGER_GT%20COUPE%202D_RED_stock_mobile_640x640.png?v=1701201801.769",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003393146/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3795524/details/feature-103116476.jpg?v=1738164456.340",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-3795524/details/feature-103116495.jpg?v=1738164456.340",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3795524/details/feature-103116467.jpg?v=1738164456.340",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3795524/details/feature-103116474.jpg?v=1738164456.340",
+    "backSeatImageUrl": "",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3795524/details/feature-103116489.jpg?v=1738164456.340",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 590,
+    "vehicleInventoryType": 4,
+    "vehicleLockType": 0,
+    "vdpSlug": "2022-dodge-challenger-gt",
+    "priceUpdateDate": "2025-02-19T12:32:58.136Z",
+    "previousPrice": 21187.0,
+    "locationId": 369,
+    "stockRecallStatusType": 0,
+    "vin": "2C3CDZJG3NH174556",
+    "vehicleTags": [
+      {
+        "tagId": 103,
+        "tagCategoryId": 1,
+        "tagKey": "RecentPriceDrop",
+        "tagName": "New Price",
+        "tagDescription": "New Price",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      },
+      {
+        "tagId": 104,
+        "tagCategoryId": 1,
+        "tagKey": "KeepMovingPrice",
+        "tagName": "Great Deal",
+        "tagDescription": "This vehicle is priced $5,060 lower than Kelley Blue Book\u00ae Typical Listing Price.<br><br>* Savings amount based on the difference between Kelley Blue Book\u00ae Typical Listing Price and the current Carvana listing price, not including tax, title, registration, or delivery charges. Savings amounts are updated daily.",
+        "tagToolTip": "",
+        "sortOrder": 700,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 373,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003371212,
+    "vehicleId": 3403617,
+    "make": "Chevrolet",
+    "parentModel": "Camaro",
+    "model": "Camaro",
+    "trim": "SS",
+    "kbbTrim": "SS Coupe 2D",
+    "color": "Red",
+    "interiorColor": "Gray",
+    "bodyStyle": "Coupe",
+    "mileage": 39288,
+    "milesPerGallon": 20,
+    "fuelType": "Gas",
+    "price": {
+      "total": 31990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 640.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 31766.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 2559.2
+    },
+    "year": 2017,
+    "seatingCapacity": 4,
+    "imageUrl": "/2003371212/post-large/normalized/zoomcrop/2003371212-edc-02.jpg?v=2025.2.21_0.52.47",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2017_CHEVROLET_CAMARO_SS%20COUPE%202D_RED_stock_desktop_1920x1080.png?v=1645518007.167",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2017_CHEVROLET_CAMARO_SS%20COUPE%202D_RED_stock_mobile_640x640.png?v=1645518007.167",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003371212/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "",
+    "entireDashImageUrl": "",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3849116/details/feature-105291997.jpg?v=1740080086.088",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3849116/details/feature-105291989.jpg?v=1740080086.088",
+    "backSeatImageUrl": "",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3849116/details/feature-105291990.jpg?v=1740080086.088",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2017-chevrolet-camaro-ss",
+    "priceUpdateDate": "2025-02-14T17:32:44.9Z",
+    "previousPrice": 32590.0,
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "1G1FH1R73H0182242",
+    "vehicleTags": [
+      {
+        "tagId": 103,
+        "tagCategoryId": 1,
+        "tagKey": "RecentPriceDrop",
+        "tagName": "New Price",
+        "tagDescription": "New Price",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "148pt",
+    "stores": [
+      "148pt"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 2
+  },
+  {
+    "stockNumber": 2003387935,
+    "vehicleId": 3417279,
+    "make": "Porsche",
+    "parentModel": "718 Cayman",
+    "model": "718 Cayman",
+    "trim": "base",
+    "kbbTrim": "Coupe 2D",
+    "color": "Gray",
+    "interiorColor": "Black",
+    "bodyStyle": "Coupe",
+    "mileage": 19742,
+    "milesPerGallon": 25,
+    "fuelType": "Gas",
+    "price": {
+      "total": 50990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 925.0,
+      "downPayment": 5099.0,
+      "downPaymentDetails": {
+        "totalCashDue": 5099.0,
+        "additionalCashDown": 5099.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 56039.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 4079.2
+    },
+    "year": 2019,
+    "seatingCapacity": 2,
+    "imageUrl": "/2003387935/post-large/normalized/zoomcrop/2003387935-edc-02.jpg?v=2025.2.21_0.52.47",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2019_Porsche_718%20Cayman_Coupe%202D_GRAY_stock_desktop_1920x1080.png",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2019_Porsche_718%20Cayman_Coupe%202D_GRAY_stock_mobile_640x640.png",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003387935/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3899830/details/feature-107303966.jpg?v=1736887990.403",
+    "entireDashImageUrl": "",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3899830/details/feature-107303976.jpg?v=1736887990.403",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3899830/details/feature-107303968.jpg?v=1736887990.403",
+    "backSeatImageUrl": "",
+    "trunkImageUrl": "",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2019-porsche-718-cayman-base",
+    "priceUpdateDate": "2025-02-18T15:36:55.25Z",
+    "previousPrice": 51590.0,
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "WP0AA2A82KS261462",
+    "vehicleTags": [
+      {
+        "tagId": 103,
+        "tagCategoryId": 1,
+        "tagKey": "RecentPriceDrop",
+        "tagName": "New Price",
+        "tagDescription": "New Price",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      },
+      {
+        "tagId": 104,
+        "tagCategoryId": 1,
+        "tagKey": "KeepMovingPrice",
+        "tagName": "Great Deal",
+        "tagDescription": "This vehicle is priced $5,049 lower than Kelley Blue Book\u00ae Typical Listing Price.<br><br>* Savings amount based on the difference between Kelley Blue Book\u00ae Typical Listing Price and the current Carvana listing price, not including tax, title, registration, or delivery charges. Savings amounts are updated daily.",
+        "tagToolTip": "",
+        "sortOrder": 700,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [
+      "CoreOD"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  },
+  {
+    "stockNumber": 2003440896,
+    "vehicleId": 3455155,
+    "make": "Dodge",
+    "parentModel": "Challenger",
+    "model": "Challenger",
+    "trim": "SXT",
+    "kbbTrim": "SXT Coupe 2D",
+    "color": "Black",
+    "interiorColor": "Black",
+    "bodyStyle": "Coupe",
+    "mileage": 44870,
+    "milesPerGallon": 23,
+    "fuelType": "Gas",
+    "price": {
+      "total": 22099.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 442.0,
+      "downPayment": 590.0,
+      "downPaymentDetails": {
+        "totalCashDue": 590.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 590.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 590.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 23838.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1767.92
+    },
+    "year": 2023,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003440896/post-large/2003440896-edc-02-search.jpg?v=2025.2.21_0.52.47",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2023_DODGE_CHALLENGER_SXT%20COUPE%202D_BLACK_stock_desktop_1920x1080.png?v=1707936508.841",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2023_DODGE_CHALLENGER_SXT%20COUPE%202D_BLACK_stock_mobile_640x640.png?v=1707936508.841",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003440896/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3907492/details/feature-107627244.jpg?v=1737141432.298",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-3907492/details/feature-107627262.jpg?v=1737141432.298",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3907492/details/feature-107627234.jpg?v=1737141432.298",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3907492/details/feature-107627242.jpg?v=1737141432.298",
+    "backSeatImageUrl": "",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3907492/details/feature-107627255.jpg?v=1737141432.298",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 590,
+    "vehicleInventoryType": 4,
+    "vehicleLockType": 0,
+    "vdpSlug": "2023-dodge-challenger-sxt",
+    "priceUpdateDate": "2025-02-20T12:31:34.578Z",
+    "locationId": 335,
+    "stockRecallStatusType": 0,
+    "vin": "2C3CDZAG4PH517703",
+    "vehicleTags": [
+      {
+        "tagId": 104,
+        "tagCategoryId": 1,
+        "tagKey": "KeepMovingPrice",
+        "tagName": "Great Deal",
+        "tagDescription": "This vehicle is priced $1,739 lower than Kelley Blue Book\u00ae Typical Listing Price.<br><br>* Savings amount based on the difference between Kelley Blue Book\u00ae Typical Listing Price and the current Carvana listing price, not including tax, title, registration, or delivery charges. Savings amounts are updated daily.",
+        "tagToolTip": "",
+        "sortOrder": 700,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 304,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 3
+  },
+  {
+    "stockNumber": 2003463525,
+    "vehicleId": 3475591,
+    "make": "Ford",
+    "parentModel": "Mustang",
+    "model": "Mustang",
+    "trim": "EcoBoost Premium",
+    "kbbTrim": "EcoBoost Premium Coupe 2D",
+    "color": "Black",
+    "interiorColor": "Black",
+    "bodyStyle": "Coupe",
+    "mileage": 37736,
+    "milesPerGallon": 25,
+    "fuelType": "Gas",
+    "price": {
+      "total": 24590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 492.0,
+      "downPayment": 290.0,
+      "downPaymentDetails": {
+        "totalCashDue": 290.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 290.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 290.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 28017.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1967.2
+    },
+    "year": 2023,
+    "seatingCapacity": 4,
+    "imageUrl": "/2003463525/post-large/normalized/zoomcrop/2003463525-edc-02.jpg?v=2025.2.21_0.52.47",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2023_FORD_MUSTANG_ECOBOOST%20PREMIUM%20COUPE%202D_BLUE_stock_desktop_1920x1080.png?v=1686278019.323",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2023_FORD_MUSTANG_ECOBOOST%20PREMIUM%20COUPE%202D_BLUE_stock_mobile_640x640.png?v=1686278019.323",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003463525/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4042695/details/feature-113189574.jpg?v=1739211581.311",
+    "entireDashImageUrl": "",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4042695/details/feature-113189584.jpg?v=1739211581.311",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4042695/details/feature-113189576.jpg?v=1739211581.311",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4042695/details/feature-113202188.jpg?v=1739211581.311",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-4042695/details/feature-113189577.jpg?v=1739211581.311",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 290,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2023-ford-mustang-ecoboost-premium",
+    "locationId": 300,
+    "stockRecallStatusType": 0,
+    "vin": "1FA6P8TH9P5103930",
+    "vehicleTags": [
+      {
+        "tagId": 104,
+        "tagCategoryId": 1,
+        "tagKey": "KeepMovingPrice",
+        "tagName": "Great Deal",
+        "tagDescription": "This vehicle is priced $3,427 lower than Kelley Blue Book\u00ae Typical Listing Price.<br><br>* Savings amount based on the difference between Kelley Blue Book\u00ae Typical Listing Price and the current Carvana listing price, not including tax, title, registration, or delivery charges. Savings amounts are updated daily.",
+        "tagToolTip": "",
+        "sortOrder": 700,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [
+      "Partner-Retail"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/177627726/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1739220736.169",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/177627726/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1739220736.169",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "",
+        "frameCount": 0,
+        "fps": 0.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 374,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003335627,
+    "vehicleId": 3388789,
+    "make": "Chevrolet",
+    "parentModel": "Camaro",
+    "model": "Camaro",
+    "trim": "LT",
+    "kbbTrim": "LT Coupe 2D",
+    "color": "Black",
+    "interiorColor": "Black",
+    "bodyStyle": "Coupe",
+    "mileage": 29097,
+    "milesPerGallon": 25,
+    "fuelType": "Gas",
+    "price": {
+      "total": 24590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 492.0,
+      "downPayment": 290.0,
+      "downPaymentDetails": {
+        "totalCashDue": 290.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 290.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 290.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 27641.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1967.2
+    },
+    "year": 2023,
+    "seatingCapacity": 4,
+    "imageUrl": "/2003335627/post-large/normalized/zoomcrop/2003335627-edc-02.jpg?v=2025.2.21_0.52.47",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2023_CHEVROLET_CAMARO_LT%20COUPE%202D_BLACK_stock_desktop_1920x1080.png?v=1680286057.726",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2023_CHEVROLET_CAMARO_LT%20COUPE%202D_BLACK_stock_mobile_640x640.png?v=1680286057.726",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003335627/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3793880/details/feature-103058103.jpg?v=1734643069.180",
+    "entireDashImageUrl": "",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3793880/details/feature-103058112.jpg?v=1734643069.180",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3793880/details/feature-103058105.jpg?v=1734643069.180",
+    "backSeatImageUrl": "",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3793880/details/feature-103058106.jpg?v=1734643069.180",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 290,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2023-chevrolet-camaro-lt",
+    "priceUpdateDate": "2025-02-03T16:16:16.545Z",
+    "locationId": 292,
+    "stockRecallStatusType": 0,
+    "vin": "1G1FB1RX8P0158440",
+    "vehicleTags": [
+      {
+        "tagId": 104,
+        "tagCategoryId": 1,
+        "tagKey": "KeepMovingPrice",
+        "tagName": "Great Deal",
+        "tagDescription": "This vehicle is priced $3,051 lower than Kelley Blue Book\u00ae Typical Listing Price.<br><br>* Savings amount based on the difference between Kelley Blue Book\u00ae Typical Listing Price and the current Carvana listing price, not including tax, title, registration, or delivery charges. Savings amounts are updated daily.",
+        "tagToolTip": "",
+        "sortOrder": 700,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [
+      "Partner-Retail",
+      "CoreOD"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 264,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003446132,
+    "vehicleId": 3469643,
+    "make": "Dodge",
+    "parentModel": "Challenger",
+    "model": "Challenger",
+    "trim": "R/T",
+    "kbbTrim": "R/T Coupe 2D",
+    "color": "Gray",
+    "interiorColor": "Black",
+    "bodyStyle": "Coupe",
+    "mileage": 72653,
+    "milesPerGallon": 19,
+    "fuelType": "Gas",
+    "price": {
+      "total": 23590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 472.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 22452.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1887.2
+    },
+    "year": 2018,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003446132/post-large/normalized/zoomcrop/2003446132-edc-02.jpg?v=2025.2.21_0.52.47",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2018_DODGE_CHALLENGER_R/T%20COUPE%202D_GRAY_stock_desktop_1920x1080.png?v=1647463495.254",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2018_DODGE_CHALLENGER_R/T%20COUPE%202D_GRAY_stock_mobile_640x640.png?v=1647463495.254",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003446132/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4064013/details/feature-114085041.jpg?v=1739470864.869",
+    "entireDashImageUrl": "",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4064013/details/feature-114085051.jpg?v=1739470864.869",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4064013/details/feature-114085043.jpg?v=1739470864.869",
+    "backSeatImageUrl": "",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-4064013/details/feature-114085044.jpg?v=1739470864.869",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2018-dodge-challenger-rt",
+    "priceUpdateDate": "2025-02-20T19:53:10.438Z",
+    "previousPrice": 23990.0,
+    "locationId": 43,
+    "stockRecallStatusType": 0,
+    "vin": "2C3CDZBT8JH131109",
+    "vehicleTags": [
+      {
+        "tagId": 103,
+        "tagCategoryId": 1,
+        "tagKey": "RecentPriceDrop",
+        "tagName": "New Price",
+        "tagDescription": "New Price",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/178588180/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1739480560.258",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/178588180/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1739480560.258",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "",
+        "frameCount": 0,
+        "fps": 0.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 343,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003412641,
+    "vehicleId": 3432322,
+    "make": "Toyota",
+    "parentModel": "GR86",
+    "model": "86",
+    "trim": "base",
+    "kbbTrim": "Coupe 2D",
+    "color": "Black",
+    "interiorColor": "Black",
+    "bodyStyle": "Coupe",
+    "mileage": 53020,
+    "milesPerGallon": 24,
+    "fuelType": "Gas",
+    "price": {
+      "total": 21590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 432.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 22423.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1727.2
+    },
+    "year": 2017,
+    "seatingCapacity": 4,
+    "imageUrl": "/2003412641/post-large/normalized/zoomcrop/2003412641-edc-02.jpg?v=2025.2.21_0.52.47",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2017_TOYOTA_86_COUPE%202D_BLACK_stock_desktop_1920x1080.png?v=1647462471.479",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2017_TOYOTA_86_COUPE%202D_BLACK_stock_mobile_640x640.png?v=1647462471.479",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003412641/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3940449/details/feature-108975672.jpg?v=1737504373.455",
+    "entireDashImageUrl": "",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3940449/details/feature-108975682.jpg?v=1737504373.455",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3940449/details/feature-108975674.jpg?v=1737504373.455",
+    "backSeatImageUrl": "",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3940449/details/feature-108975675.jpg?v=1737504373.455",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2017-toyota-86-base",
+    "priceUpdateDate": "2025-02-12T17:38:07.22Z",
+    "locationId": 292,
+    "stockRecallStatusType": 0,
+    "vin": "JF1ZNAA12H9705644",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [
+      "CoreOD"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 264,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003491070,
+    "vehicleId": 3502027,
+    "make": "Dodge",
+    "parentModel": "Challenger",
+    "model": "Challenger",
+    "trim": "R/T",
+    "kbbTrim": "R/T Coupe 2D",
+    "color": "White",
+    "interiorColor": "Black",
+    "bodyStyle": "Coupe",
+    "mileage": 41306,
+    "milesPerGallon": 19,
+    "fuelType": "Gas",
+    "price": {
+      "total": 25590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 512.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 25981.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 2047.2
+    },
+    "year": 2018,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003491070/post-large/normalized/zoomcrop/2003491070-edc-02.jpg?v=2025.2.21_0.52.47",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2018_DODGE_CHALLENGER_R/T%20COUPE%202D_WHITE_stock_desktop_1920x1080.png?v=1645558209.959",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2018_DODGE_CHALLENGER_R/T%20COUPE%202D_WHITE_stock_mobile_640x640.png?v=1645558209.959",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003491070/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4100884/details/feature-115599737.jpg?v=1740082727.548",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4100884/details/feature-115636970.jpg?v=1740082727.548",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4100884/details/feature-115599747.jpg?v=1740082727.548",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4100884/details/feature-115599739.jpg?v=1740082727.548",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4100884/details/feature-115636863.jpg?v=1740082727.548",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-4100884/details/feature-115599740.jpg?v=1740082727.548",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2018-dodge-challenger-rt",
+    "locationId": 300,
+    "stockRecallStatusType": 0,
+    "vin": "2C3CDZBT8JH333545",
+    "vehicleTags": [
+      {
+        "tagId": 121,
+        "tagCategoryId": 1,
+        "tagKey": "RecentlyAdded",
+        "tagName": "Recently Added",
+        "tagDescription": "This vehicle has been made purchasable for the first time within the last 72 hours",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 374,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003308891,
+    "vehicleId": 3358637,
+    "make": "BMW",
+    "parentModel": "M2",
+    "model": "M2",
+    "trim": "CS",
+    "kbbTrim": "CS Coupe 2D",
+    "color": "White",
+    "interiorColor": "Black",
+    "bodyStyle": "Coupe",
+    "mileage": 28131,
+    "milesPerGallon": 19,
+    "fuelType": "Gas",
+    "price": {
+      "total": 74590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 1353.0,
+      "downPayment": 7459.0,
+      "downPaymentDetails": {
+        "totalCashDue": 7459.0,
+        "additionalCashDown": 7459.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 94650.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 5967.2
+    },
+    "year": 2020,
+    "seatingCapacity": 4,
+    "imageUrl": "/2003308891/post-large/normalized/zoomcrop/2003308891-edc-02.jpg?v=2025.2.21_0.52.47",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2020_BMW_M2_CS%20COUPE%202D_BLACK_stock_desktop_1920x1080.png?v=1645603668.756",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2020_BMW_M2_CS%20COUPE%202D_BLACK_stock_mobile_640x640.png?v=1645603668.756",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003308891/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3625415/details/feature-96298627.jpg?v=1733876509.667",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-3625415/details/feature-96300654.jpg?v=1733876509.667",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3625415/details/feature-96298636.jpg?v=1733876509.667",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3625415/details/feature-96298629.jpg?v=1733876509.667",
+    "backSeatImageUrl": "",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3625415/details/feature-96298630.jpg?v=1733876509.667",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2020-bmw-m2-cs",
+    "priceUpdateDate": "2025-02-17T19:04:00.475Z",
+    "previousPrice": 74990.0,
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "WBS1J3C00L7H38533",
+    "vehicleTags": [
+      {
+        "tagId": 103,
+        "tagCategoryId": 1,
+        "tagKey": "RecentPriceDrop",
+        "tagName": "New Price",
+        "tagDescription": "New Price",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      },
+      {
+        "tagId": 104,
+        "tagCategoryId": 1,
+        "tagKey": "KeepMovingPrice",
+        "tagName": "Great Deal",
+        "tagDescription": "This vehicle is priced $20,060 lower than Kelley Blue Book\u00ae Typical Listing Price.<br><br>* Savings amount based on the difference between Kelley Blue Book\u00ae Typical Listing Price and the current Carvana listing price, not including tax, title, registration, or delivery charges. Savings amounts are updated daily.",
+        "tagToolTip": "",
+        "sortOrder": 700,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [
+      "CoreOD"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  },
+  {
+    "stockNumber": 2003433263,
+    "vehicleId": 3445372,
+    "make": "Ford",
+    "parentModel": "Mustang",
+    "model": "Mustang",
+    "trim": "EcoBoost Premium",
+    "kbbTrim": "EcoBoost Premium Coupe 2D",
+    "color": "Black",
+    "interiorColor": "Black",
+    "bodyStyle": "Coupe",
+    "mileage": 48324,
+    "milesPerGallon": 25,
+    "fuelType": "Gas",
+    "price": {
+      "total": 24590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 492.0,
+      "downPayment": 290.0,
+      "downPaymentDetails": {
+        "totalCashDue": 290.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 290.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 290.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 26830.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1967.2
+    },
+    "year": 2023,
+    "seatingCapacity": 4,
+    "imageUrl": "/2003433263/post-large/normalized/zoomcrop/2003433263-edc-02.jpg?v=2025.2.21_0.52.47",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2023_FORD_MUSTANG_ECOBOOST%20PREMIUM%20COUPE%202D_BLUE_stock_desktop_1920x1080.png?v=1686278019.323",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2023_FORD_MUSTANG_ECOBOOST%20PREMIUM%20COUPE%202D_BLUE_stock_mobile_640x640.png?v=1686278019.323",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003433263/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3910766/details/feature-107738685.jpg?v=1737055364.285",
+    "entireDashImageUrl": "",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3910766/details/feature-107738695.jpg?v=1737055364.285",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3910766/details/feature-107738687.jpg?v=1737055364.285",
+    "backSeatImageUrl": "",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3910766/details/feature-107738688.jpg?v=1737055364.285",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 290,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2023-ford-mustang-ecoboost-premium",
+    "priceUpdateDate": "2025-02-03T16:33:43.665Z",
+    "locationId": 43,
+    "stockRecallStatusType": 0,
+    "vin": "1FA6P8TH6P5108454",
+    "vehicleTags": [
+      {
+        "tagId": 104,
+        "tagCategoryId": 1,
+        "tagKey": "KeepMovingPrice",
+        "tagName": "Great Deal",
+        "tagDescription": "This vehicle is priced $2,240 lower than Kelley Blue Book\u00ae Typical Listing Price.<br><br>* Savings amount based on the difference between Kelley Blue Book\u00ae Typical Listing Price and the current Carvana listing price, not including tax, title, registration, or delivery charges. Savings amounts are updated daily.",
+        "tagToolTip": "",
+        "sortOrder": 700,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [
+      "Partner-Retail"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/172143344/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1737072172.688",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/172143344/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1737072172.688",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "",
+        "frameCount": 0,
+        "fps": 0.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 343,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003121900,
+    "vehicleId": 3231481,
+    "make": "BMW",
+    "parentModel": "M3",
+    "model": "M3",
+    "trim": "base",
+    "kbbTrim": "Coupe 2D",
+    "color": "White",
+    "interiorColor": "Other",
+    "bodyStyle": "Coupe",
+    "mileage": 40195,
+    "milesPerGallon": 16,
+    "fuelType": "Gas",
+    "price": {
+      "total": 39990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 800.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 36692.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 3199.2
+    },
+    "year": 2013,
+    "seatingCapacity": 4,
+    "imageUrl": "/2003121900/post-large/normalized/zoomcrop/2003121900-edc-02.jpg?v=2025.2.21_0.52.47",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2013_BMW_M3_COUPE%202D_WHITE_stock_desktop_1920x1080.png?v=1645491584.479",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2013_BMW_M3_COUPE%202D_WHITE_stock_mobile_640x640.png?v=1645491584.479",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003121900/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3210422/details/feature-79254232.jpg?v=1733865440.739",
+    "entireDashImageUrl": "",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3210422/details/feature-79254241.jpg?v=1733865440.739",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3210422/details/feature-79254234.jpg?v=1733865440.739",
+    "backSeatImageUrl": "",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3210422/details/feature-79254235.jpg?v=1733865440.739",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2013-bmw-m3-base",
+    "priceUpdateDate": "2025-02-17T19:04:07.547Z",
+    "previousPrice": 40590.0,
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "WBSKG9C58DJ593177",
+    "vehicleTags": [
+      {
+        "tagId": 103,
+        "tagCategoryId": 1,
+        "tagKey": "RecentPriceDrop",
+        "tagName": "New Price",
+        "tagDescription": "New Price",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "148pt",
+    "stores": [
+      "148pt",
+      "CoreOD"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  }
+]

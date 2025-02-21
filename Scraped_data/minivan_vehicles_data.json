@@ -1,0 +1,4463 @@
+[
+  {
+    "stockNumber": 2003400929,
+    "vehicleId": 3438023,
+    "make": "Chevrolet",
+    "parentModel": "Express 2500",
+    "model": "Express 2500 Passenger",
+    "trim": "LT",
+    "kbbTrim": "LT Van 3D",
+    "color": "White",
+    "interiorColor": "Gray",
+    "bodyStyle": "MiniVan",
+    "mileage": 94475,
+    "milesPerGallon": 13,
+    "fuelType": "Gas",
+    "price": {
+      "total": 23990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 480.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 23114.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1919.2
+    },
+    "year": 2016,
+    "seatingCapacity": 8,
+    "imageUrl": "/2003400929/post-large/normalized/zoomcrop/2003400929-edc-02.jpg?v=2025.2.21_0.53.33",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2016_CHEVROLET_EXPRESS%202500%20PASSENGER_LT%20VAN%203D_WHITE_stock_desktop_1920x1080.png?v=1660905929.965",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2016_CHEVROLET_EXPRESS%202500%20PASSENGER_LT%20VAN%203D_WHITE_stock_mobile_640x640.png?v=1660905929.965",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003400929/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4028661/details/feature-112623689.jpg?v=1738876985.862",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4028661/details/feature-112623692.jpg?v=1738876985.862",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4028661/details/feature-112623702.jpg?v=1738876985.862",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4028661/details/feature-112623694.jpg?v=1738876985.862",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4028661/details/feature-112623690.jpg?v=1738876985.862",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-4028661/details/feature-112623695.jpg?v=1738876985.862",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2016-chevrolet-express-2500-passenger-lt",
+    "priceUpdateDate": "2025-02-18T15:38:01.099Z",
+    "previousPrice": 24590.0,
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "1GBWGFFG4G1259970",
+    "vehicleTags": [
+      {
+        "tagId": 103,
+        "tagCategoryId": 1,
+        "tagKey": "RecentPriceDrop",
+        "tagName": "New Price",
+        "tagDescription": "New Price",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [
+      "CoreOD"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  },
+  {
+    "stockNumber": 2003269767,
+    "vehicleId": 3344440,
+    "make": "Chrysler",
+    "parentModel": "Pacifica",
+    "model": "Pacifica",
+    "trim": "Touring L 35th Anniversary Edition",
+    "kbbTrim": "Touring L 35th Anniversary Edition Minivan 4D",
+    "color": "White",
+    "interiorColor": "Black",
+    "bodyStyle": "MiniVan",
+    "mileage": 55118,
+    "milesPerGallon": 22,
+    "fuelType": "Gas",
+    "price": {
+      "total": 23990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 480.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 26514.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1919.2
+    },
+    "year": 2020,
+    "seatingCapacity": 7,
+    "imageUrl": "/2003269767/post-large/normalized/zoomcrop/2003269767-edc-02.jpg?v=2025.2.21_0.53.33",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2020_CHRYSLER_PACIFICA_TOURING%20L%2035TH%20ANNIVERSARY%20EDITION%20MINIVAN%204D_WHITE_stock_desktop_1920x1080.png?v=1684755418.768",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2020_CHRYSLER_PACIFICA_TOURING%20L%2035TH%20ANNIVERSARY%20EDITION%20MINIVAN%204D_WHITE_stock_mobile_640x640.png?v=1684755418.768",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003269767/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4019605/details/feature-112221353.jpg?v=1740078783.066",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4019605/details/feature-112221365.jpg?v=1740078783.066",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4019605/details/feature-112221355.jpg?v=1740078783.066",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4019605/details/feature-112221349.jpg?v=1740078783.066",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-4019605/details/feature-112221356.jpg?v=1740078783.066",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2020-chrysler-pacifica-touring-l-35th-anniversary-edition",
+    "priceUpdateDate": "2025-02-18T15:37:26.732Z",
+    "previousPrice": 24590.0,
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "2C4RC1BG7LR116093",
+    "vehicleTags": [
+      {
+        "tagId": 103,
+        "tagCategoryId": 1,
+        "tagKey": "RecentPriceDrop",
+        "tagName": "New Price",
+        "tagDescription": "New Price",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      },
+      {
+        "tagId": 104,
+        "tagCategoryId": 1,
+        "tagKey": "KeepMovingPrice",
+        "tagName": "Great Deal",
+        "tagDescription": "This vehicle is priced $2,524 lower than Kelley Blue Book\u00ae Typical Listing Price.<br><br>* Savings amount based on the difference between Kelley Blue Book\u00ae Typical Listing Price and the current Carvana listing price, not including tax, title, registration, or delivery charges. Savings amounts are updated daily.",
+        "tagToolTip": "",
+        "sortOrder": 700,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "148pt",
+    "stores": [
+      "148pt",
+      "CoreOD"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  },
+  {
+    "stockNumber": 2003359477,
+    "vehicleId": 3393399,
+    "make": "Chrysler",
+    "parentModel": "Voyager",
+    "model": "Voyager",
+    "trim": "LXi",
+    "kbbTrim": "LXi Minivan 4D",
+    "color": "White",
+    "interiorColor": "Black",
+    "bodyStyle": "MiniVan",
+    "mileage": 61538,
+    "milesPerGallon": 22,
+    "fuelType": "Gas",
+    "price": {
+      "total": 21590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 432.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 20257.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1727.2
+    },
+    "year": 2021,
+    "seatingCapacity": 7,
+    "imageUrl": "/2003359477/post-large/normalized/zoomcrop/2003359477-edc-02.jpg?v=2025.2.21_0.53.33",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2021_CHRYSLER_VOYAGER_LXI%20MINIVAN%204D_WHITE_stock_desktop_1920x1080.png?v=1663249693.358",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2021_CHRYSLER_VOYAGER_LXI%20MINIVAN%204D_WHITE_stock_mobile_640x640.png?v=1663249693.358",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003359477/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3825399/details/feature-104340829.jpg?v=1736802313.159",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-3825399/details/feature-104340833.jpg?v=1736802313.159",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3825399/details/feature-104340843.jpg?v=1736802313.159",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3825399/details/feature-104340835.jpg?v=1736802313.159",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3825399/details/feature-104340830.jpg?v=1736802313.159",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3825399/details/feature-104340836.jpg?v=1736802313.159",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2021-chrysler-voyager-lxi",
+    "priceUpdateDate": "2025-02-20T19:53:19.791Z",
+    "previousPrice": 21990.0,
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "2C4RC1DGXMR538566",
+    "vehicleTags": [
+      {
+        "tagId": 103,
+        "tagCategoryId": 1,
+        "tagKey": "RecentPriceDrop",
+        "tagName": "New Price",
+        "tagDescription": "New Price",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "148pt",
+    "stores": [
+      "148pt"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/168171565/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1735313128.871",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/168171565/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1735313128.871",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "",
+        "frameCount": 0,
+        "fps": 0.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  },
+  {
+    "stockNumber": 2003338776,
+    "vehicleId": 3379563,
+    "make": "Chrysler",
+    "parentModel": "Pacifica",
+    "model": "Pacifica",
+    "trim": "Touring L",
+    "kbbTrim": "Touring L Minivan 4D",
+    "color": "Silver",
+    "interiorColor": "Black",
+    "bodyStyle": "MiniVan",
+    "mileage": 59988,
+    "milesPerGallon": 22,
+    "fuelType": "Gas",
+    "price": {
+      "total": 19990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 400.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 15932.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1599.2
+    },
+    "year": 2018,
+    "seatingCapacity": 7,
+    "imageUrl": "/2003338776/post-large/normalized/zoomcrop/2003338776-edc-02.jpg?v=2025.2.21_0.53.33",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2018_Chrysler_Pacifica_Touring%20L%20Minivan%204D_SILVER_stock_desktop_1920x1080.png",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2018_Chrysler_Pacifica_Touring%20L%20Minivan%204D_SILVER_stock_mobile_640x640.png",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003338776/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-3786981/details/feature-102769876.jpg?v=1740079452.494",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3786981/details/feature-102769887.jpg?v=1740079452.494",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3786981/details/feature-102769878.jpg?v=1740079452.494",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3786981/details/feature-102769872.jpg?v=1740079452.494",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3786981/details/feature-102769879.jpg?v=1740079452.494",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2018-chrysler-pacifica-touring-l",
+    "priceUpdateDate": "2025-01-06T21:37:39.211Z",
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "2C4RC1BG4JR119966",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [
+      "CoreOD"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  },
+  {
+    "stockNumber": 2003451477,
+    "vehicleId": 3458275,
+    "make": "Honda",
+    "parentModel": "Odyssey",
+    "model": "Odyssey",
+    "trim": "Touring",
+    "kbbTrim": "Touring Minivan 4D",
+    "color": "White",
+    "interiorColor": "Beige",
+    "bodyStyle": "MiniVan",
+    "mileage": 77598,
+    "milesPerGallon": 22,
+    "fuelType": "Gas",
+    "price": {
+      "total": 22590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 452.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 17760.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1807.2
+    },
+    "year": 2016,
+    "seatingCapacity": 8,
+    "imageUrl": "/2003451477/post-large/normalized/zoomcrop/2003451477-edc-02.jpg?v=2025.2.21_0.53.33",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2016_HONDA_ODYSSEY_TOURING%20MINIVAN%204D_WHITE_stock_desktop_1920x1080.png?v=1645404516.812",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2016_HONDA_ODYSSEY_TOURING%20MINIVAN%204D_WHITE_stock_mobile_640x640.png?v=1645404516.812",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003451477/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4016166/details/feature-112101210.jpg?v=1740082527.178",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4016166/details/feature-112101220.jpg?v=1740082527.179",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4016166/details/feature-112101212.jpg?v=1740082527.178",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4016166/details/feature-112101207.jpg?v=1740082527.178",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-4016166/details/feature-112101213.jpg?v=1740082527.178",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2016-honda-odyssey-touring",
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "5FNRL5H9XGB017026",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [
+      "CoreOD"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  },
+  {
+    "stockNumber": 2003464132,
+    "vehicleId": 3479059,
+    "make": "Toyota",
+    "parentModel": "Sienna",
+    "model": "Sienna",
+    "trim": "SE Premium",
+    "kbbTrim": "SE Premium Minivan 4D",
+    "color": "Black",
+    "interiorColor": "Black",
+    "bodyStyle": "MiniVan",
+    "mileage": 65233,
+    "milesPerGallon": 21,
+    "fuelType": "Gas",
+    "price": {
+      "total": 27990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 560.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 27017.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 2239.2
+    },
+    "year": 2016,
+    "seatingCapacity": 7,
+    "imageUrl": "/2003464132/post-large/normalized/zoomcrop/2003464132-edc-02.jpg?v=2025.2.21_0.53.33",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2016_TOYOTA_SIENNA_SE%20PREMIUM%20MINIVAN%204D_BLACK_stock_desktop_1920x1080.png?v=1651019362.851",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2016_TOYOTA_SIENNA_SE%20PREMIUM%20MINIVAN%204D_BLACK_stock_mobile_640x640.png?v=1651019362.851",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003464132/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4082143/details/feature-114818010.jpg?v=1740082848.097",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4082143/details/feature-114818020.jpg?v=1740082848.097",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4082143/details/feature-114818012.jpg?v=1740082848.097",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4082143/details/feature-114818008.jpg?v=1740082848.097",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-4082143/details/feature-114818013.jpg?v=1740082848.097",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2016-toyota-sienna-se-premium",
+    "priceUpdateDate": "2025-02-10T17:45:01.301Z",
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "5TDXK3DC7GS760867",
+    "vehicleTags": [
+      {
+        "tagId": 121,
+        "tagCategoryId": 1,
+        "tagKey": "RecentlyAdded",
+        "tagName": "Recently Added",
+        "tagDescription": "This vehicle has been made purchasable for the first time within the last 72 hours",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/179563344/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1739899449.696",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/179563344/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1739899449.697",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "https://vexgateway.fastly.carvana.io/executions/179563344/GAUSSIAN_RENDERER/poster.jpg?v=1739899449.697",
+        "frameCount": 969,
+        "fps": 30.0
+      },
+      {
+        "videoName": "srpvideo-swipe",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/179563344/GAUSSIAN_RENDERER/srpvideo-swipe.mp4?v=1739899449.697",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/179563344/GAUSSIAN_RENDERER/srpvideo-swipe-h265.mp4?v=1739899449.697",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "pauseFrames": [
+          {
+            "start": 0,
+            "end": 0
+          },
+          {
+            "start": 45,
+            "end": 49
+          },
+          {
+            "start": 69,
+            "end": 73
+          },
+          {
+            "start": 111,
+            "end": 115
+          },
+          {
+            "start": 149,
+            "end": 153
+          },
+          {
+            "start": 192,
+            "end": 196
+          },
+          {
+            "start": 235,
+            "end": 239
+          },
+          {
+            "start": 278,
+            "end": 282
+          },
+          {
+            "start": 321,
+            "end": 325
+          },
+          {
+            "start": 364,
+            "end": 368
+          },
+          {
+            "start": 407,
+            "end": 415
+          },
+          {
+            "start": 471,
+            "end": 475
+          },
+          {
+            "start": 531,
+            "end": 539
+          },
+          {
+            "start": 578,
+            "end": 582
+          },
+          {
+            "start": 621,
+            "end": 625
+          },
+          {
+            "start": 664,
+            "end": 668
+          },
+          {
+            "start": 707,
+            "end": 711
+          },
+          {
+            "start": 750,
+            "end": 754
+          },
+          {
+            "start": 793,
+            "end": 797
+          },
+          {
+            "start": 831,
+            "end": 835
+          },
+          {
+            "start": 873,
+            "end": 877
+          },
+          {
+            "start": 897,
+            "end": 901
+          },
+          {
+            "start": 946,
+            "end": 950
+          }
+        ],
+        "thumbnailURL": "https://vexgateway.fastly.carvana.io/executions/179563344/GAUSSIAN_RENDERER/srpvideo-swipe.jpg?v=1739899449.697",
+        "frameCount": 950,
+        "fps": 30.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  },
+  {
+    "stockNumber": 2003116594,
+    "vehicleId": 3226641,
+    "make": "Chrysler",
+    "parentModel": "Pacifica",
+    "model": "Pacifica",
+    "trim": "Touring L",
+    "kbbTrim": "Touring L Minivan 4D",
+    "color": "Silver",
+    "interiorColor": "Black",
+    "bodyStyle": "MiniVan",
+    "mileage": 85544,
+    "milesPerGallon": 22,
+    "fuelType": "Gas",
+    "price": {
+      "total": 19990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 400.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 19379.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1599.2
+    },
+    "year": 2020,
+    "seatingCapacity": 7,
+    "imageUrl": "/2003116594/post-large/normalized/zoomcrop/2003116594-edc-02.jpg?v=2025.2.21_0.53.33",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2020_CHRYSLER_PACIFICA_TOURING%20L%20MINIVAN%204D_SILVER_stock_desktop_1920x1080.png?v=1645583853.689",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2020_CHRYSLER_PACIFICA_TOURING%20L%20MINIVAN%204D_SILVER_stock_mobile_640x640.png?v=1645583853.689",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003116594/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3603198/details/feature-95360135.jpg?v=1733875564.864",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-3603198/details/feature-95360140.jpg?v=1733875564.864",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3603198/details/feature-95360151.jpg?v=1733875564.864",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3603198/details/feature-95360142.jpg?v=1733875564.864",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3603198/details/feature-95360136.jpg?v=1733875564.864",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3603198/details/feature-95360143.jpg?v=1733875564.864",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2020-chrysler-pacifica-touring-l",
+    "priceUpdateDate": "2025-02-05T17:18:31.983Z",
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "2C4RC1BG7LR133623",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "148pt",
+    "stores": [
+      "CoreOD",
+      "148pt"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  },
+  {
+    "stockNumber": 2003353374,
+    "vehicleId": 3390397,
+    "make": "Toyota",
+    "parentModel": "Sienna",
+    "model": "Sienna",
+    "trim": "SE Premium",
+    "kbbTrim": "SE Premium Minivan 4D",
+    "color": "White",
+    "interiorColor": "Black",
+    "bodyStyle": "MiniVan",
+    "mileage": 66886,
+    "milesPerGallon": 22,
+    "fuelType": "Gas",
+    "price": {
+      "total": 27590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 552.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 29338.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 2207.2
+    },
+    "year": 2017,
+    "seatingCapacity": 8,
+    "imageUrl": "/2003353374/post-large/normalized/zoomcrop/2003353374-edc-02.jpg?v=2025.2.21_0.53.33",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2017_TOYOTA_SIENNA_SE%20PREMIUM%20MINIVAN%204D_WHITE_stock_desktop_1920x1080.png?v=1645546870.663",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2017_TOYOTA_SIENNA_SE%20PREMIUM%20MINIVAN%204D_WHITE_stock_mobile_640x640.png?v=1645546870.663",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003353374/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4024272/details/feature-112440041.jpg?v=1738954695.362",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4024272/details/feature-112440051.jpg?v=1738954695.362",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4024272/details/feature-112440043.jpg?v=1738954695.362",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4024272/details/feature-112440039.jpg?v=1738954695.362",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-4024272/details/feature-112440044.jpg?v=1738954695.362",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2017-toyota-sienna-se-premium",
+    "priceUpdateDate": "2025-02-13T17:52:18.402Z",
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "5TDXZ3DC3HS830958",
+    "vehicleTags": [
+      {
+        "tagId": 104,
+        "tagCategoryId": 1,
+        "tagKey": "KeepMovingPrice",
+        "tagName": "Great Deal",
+        "tagDescription": "This vehicle is priced $1,748 lower than Kelley Blue Book\u00ae Typical Listing Price.<br><br>* Savings amount based on the difference between Kelley Blue Book\u00ae Typical Listing Price and the current Carvana listing price, not including tax, title, registration, or delivery charges. Savings amounts are updated daily.",
+        "tagToolTip": "",
+        "sortOrder": 700,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "148pt",
+    "stores": [
+      "148pt",
+      "CoreOD"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  },
+  {
+    "stockNumber": 2003452339,
+    "vehicleId": 3466050,
+    "make": "Chevrolet",
+    "parentModel": "Express 1500",
+    "model": "Express 1500 Passenger",
+    "trim": "LS",
+    "kbbTrim": "LS Van 3D",
+    "color": "Silver",
+    "interiorColor": "Gray",
+    "bodyStyle": "MiniVan",
+    "mileage": 32763,
+    "milesPerGallon": 14,
+    "fuelType": "Gas",
+    "price": {
+      "total": 26990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 540.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 30457.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 2159.2
+    },
+    "year": 2014,
+    "seatingCapacity": 8,
+    "imageUrl": "/2003452339/post-large/normalized/zoomcrop/2003452339-edc-02.jpg?v=2025.2.21_0.53.33",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2014_CHEVROLET_EXPRESS%201500%20PASSENGER_LS%20VAN%203D_SILVER_stock_desktop_1920x1080.png?v=1739822330.091",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2014_CHEVROLET_EXPRESS%201500%20PASSENGER_LS%20VAN%203D_SILVER_stock_mobile_640x640.png?v=1739822330.091",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003452339/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4077027/details/feature-114583961.jpg?v=1739823964.361",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4077027/details/feature-114583967.jpg?v=1739823964.361",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4077027/details/feature-114583977.jpg?v=1739823964.361",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4077027/details/feature-114583969.jpg?v=1739823964.361",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4077027/details/feature-114583962.jpg?v=1739823964.361",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-4077027/details/feature-114583970.jpg?v=1739823964.361",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2014-chevrolet-express-1500-passenger-ls",
+    "locationId": 43,
+    "stockRecallStatusType": 0,
+    "vin": "1GNSGBF42E1181301",
+    "vehicleTags": [
+      {
+        "tagId": 104,
+        "tagCategoryId": 1,
+        "tagKey": "KeepMovingPrice",
+        "tagName": "Great Deal",
+        "tagDescription": "This vehicle is priced $3,467 lower than Kelley Blue Book\u00ae Typical Listing Price.<br><br>* Savings amount based on the difference between Kelley Blue Book\u00ae Typical Listing Price and the current Carvana listing price, not including tax, title, registration, or delivery charges. Savings amounts are updated daily.",
+        "tagToolTip": "",
+        "sortOrder": 700,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/179387277/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1739834496.327",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/179387277/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1739834496.327",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "https://vexgateway.fastly.carvana.io/executions/179387277/GAUSSIAN_RENDERER/poster.jpg?v=1739834496.327",
+        "frameCount": 484,
+        "fps": 30.0
+      },
+      {
+        "videoName": "srpvideo-swipe",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/179387277/GAUSSIAN_RENDERER/srpvideo-swipe.mp4?v=1739834496.327",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/179387277/GAUSSIAN_RENDERER/srpvideo-swipe-h265.mp4?v=1739834496.327",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "pauseFrames": [
+          {
+            "start": 0,
+            "end": 0
+          },
+          {
+            "start": 45,
+            "end": 49
+          },
+          {
+            "start": 69,
+            "end": 73
+          },
+          {
+            "start": 111,
+            "end": 115
+          },
+          {
+            "start": 149,
+            "end": 153
+          },
+          {
+            "start": 192,
+            "end": 196
+          },
+          {
+            "start": 235,
+            "end": 239
+          },
+          {
+            "start": 278,
+            "end": 282
+          },
+          {
+            "start": 321,
+            "end": 325
+          },
+          {
+            "start": 364,
+            "end": 368
+          },
+          {
+            "start": 407,
+            "end": 415
+          },
+          {
+            "start": 471,
+            "end": 475
+          },
+          {
+            "start": 531,
+            "end": 539
+          },
+          {
+            "start": 578,
+            "end": 582
+          },
+          {
+            "start": 621,
+            "end": 625
+          },
+          {
+            "start": 664,
+            "end": 668
+          },
+          {
+            "start": 707,
+            "end": 711
+          },
+          {
+            "start": 750,
+            "end": 754
+          },
+          {
+            "start": 793,
+            "end": 797
+          },
+          {
+            "start": 831,
+            "end": 835
+          },
+          {
+            "start": 873,
+            "end": 877
+          },
+          {
+            "start": 897,
+            "end": 901
+          },
+          {
+            "start": 946,
+            "end": 950
+          }
+        ],
+        "thumbnailURL": "https://vexgateway.fastly.carvana.io/executions/179387277/GAUSSIAN_RENDERER/srpvideo-swipe.jpg?v=1739834496.327",
+        "frameCount": 950,
+        "fps": 30.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 343,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003337114,
+    "vehicleId": 3381880,
+    "make": "Chrysler",
+    "parentModel": "Pacifica",
+    "model": "Pacifica",
+    "trim": "Limited",
+    "kbbTrim": "Limited Minivan 4D",
+    "color": "Red",
+    "interiorColor": "Black",
+    "bodyStyle": "MiniVan",
+    "mileage": 101980,
+    "milesPerGallon": 22,
+    "fuelType": "Gas",
+    "price": {
+      "total": 16990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 340.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 13399.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1359.2
+    },
+    "year": 2017,
+    "seatingCapacity": 7,
+    "imageUrl": "/2003337114/post-large/normalized/zoomcrop/2003337114-edc-02.jpg?v=2025.2.21_0.53.33",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2017_CHRYSLER_PACIFICA_LIMITED%20MINIVAN%204D_RED_stock_desktop_1920x1080.png?v=1645515295.643",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2017_CHRYSLER_PACIFICA_LIMITED%20MINIVAN%204D_RED_stock_mobile_640x640.png?v=1645515295.643",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003337114/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4034903/details/feature-112896392.jpg?v=1740079425.401",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4034903/details/feature-112896403.jpg?v=1740079425.402",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4034903/details/feature-112896394.jpg?v=1740079425.401",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4034903/details/feature-112896390.jpg?v=1740079425.401",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-4034903/details/feature-112896395.jpg?v=1740079425.401",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2017-chrysler-pacifica-limited",
+    "priceUpdateDate": "2025-02-17T19:03:35.733Z",
+    "previousPrice": 17590.0,
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "2C4RC1GG3HR753515",
+    "vehicleTags": [
+      {
+        "tagId": 103,
+        "tagCategoryId": 1,
+        "tagKey": "RecentPriceDrop",
+        "tagName": "New Price",
+        "tagDescription": "New Price",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "148pt",
+    "stores": [
+      "148pt",
+      "CoreOD"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  },
+  {
+    "stockNumber": 2003431488,
+    "vehicleId": 3442550,
+    "make": "Kia",
+    "parentModel": "Sedona",
+    "model": "Sedona",
+    "trim": "LX",
+    "kbbTrim": "LX Minivan 4D",
+    "color": "Blue",
+    "interiorColor": "Gray",
+    "bodyStyle": "MiniVan",
+    "mileage": 62324,
+    "milesPerGallon": 20,
+    "fuelType": "Gas",
+    "price": {
+      "total": 13990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 280.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 9641.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1119.2
+    },
+    "year": 2014,
+    "seatingCapacity": 7,
+    "imageUrl": "/2003431488/post-large/normalized/zoomcrop/2003431488-edc-02.jpg?v=2025.2.21_0.53.33",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2014_KIA_SEDONA_LX%20MINIVAN%204D_BLUE_stock_desktop_1920x1080.png?v=1649173602.946",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2014_KIA_SEDONA_LX%20MINIVAN%204D_BLUE_stock_mobile_640x640.png?v=1649173602.946",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003431488/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3947554/details/feature-109267651.jpg?v=1737642459.097",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-3947554/details/feature-109267654.jpg?v=1737642459.097",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3947554/details/feature-109267664.jpg?v=1737642459.097",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3947554/details/feature-109267656.jpg?v=1737642459.097",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3947554/details/feature-109267652.jpg?v=1737642459.097",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3947554/details/feature-109267657.jpg?v=1737642459.097",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2014-kia-sedona-lx",
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "KNDMG4C79E6578941",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/173379239/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1737646083.949",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/173379239/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1737646083.949",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "",
+        "frameCount": 0,
+        "fps": 0.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  },
+  {
+    "stockNumber": 2003391314,
+    "vehicleId": 3430358,
+    "make": "Ford",
+    "parentModel": "Transit Connect",
+    "model": "Transit Connect Passenger Wagon",
+    "trim": "XLT",
+    "kbbTrim": "XLT Van 4D",
+    "color": "White",
+    "interiorColor": "Black",
+    "bodyStyle": "MiniVan",
+    "mileage": 70936,
+    "milesPerGallon": 26,
+    "fuelType": "Gas",
+    "price": {
+      "total": 25590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 512.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 23709.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 2047.2
+    },
+    "year": 2022,
+    "seatingCapacity": 6,
+    "imageUrl": "/2003391314/post-large/normalized/zoomcrop/2003391314-edc-02.jpg?v=2025.2.21_0.53.33",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2022_FORD_TRANSIT%20CONNECT%20PASSENGER%20WAGON_XLT%20VAN%204D_WHITE_stock_desktop_1920x1080.png",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2022_FORD_TRANSIT%20CONNECT%20PASSENGER%20WAGON_XLT%20VAN%204D_WHITE_stock_mobile_640x640.png",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003391314/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3960388/details/feature-109831148.jpg?v=1739583128.148",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-3960388/details/feature-109831151.jpg?v=1739583128.148",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3960388/details/feature-109831161.jpg?v=1739583128.148",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3960388/details/feature-109831153.jpg?v=1739583128.148",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3960388/details/feature-109831149.jpg?v=1739583128.148",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3960388/details/feature-109831154.jpg?v=1739583128.148",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2022-ford-transit-connect-passenger-wagon-xlt",
+    "priceUpdateDate": "2025-02-19T18:37:38.149Z",
+    "previousPrice": 25990.0,
+    "locationId": 43,
+    "stockRecallStatusType": 0,
+    "vin": "NM0GS9F22N1515974",
+    "vehicleTags": [
+      {
+        "tagId": 103,
+        "tagCategoryId": 1,
+        "tagKey": "RecentPriceDrop",
+        "tagName": "New Price",
+        "tagDescription": "New Price",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/173956168/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1737809535.838",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/173956168/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1737809535.838",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "",
+        "frameCount": 0,
+        "fps": 0.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 343,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003505968,
+    "vehicleId": 3495729,
+    "make": "Dodge",
+    "parentModel": "Grand Caravan",
+    "model": "Grand Caravan Passenger",
+    "trim": "GT",
+    "kbbTrim": "GT Minivan 4D",
+    "color": "Gray",
+    "interiorColor": "Black",
+    "bodyStyle": "MiniVan",
+    "mileage": 54402,
+    "milesPerGallon": 20,
+    "fuelType": "Gas",
+    "price": {
+      "total": 19990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 400.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 16983.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1599.2
+    },
+    "year": 2019,
+    "seatingCapacity": 7,
+    "imageUrl": "/2003505968/post-large/normalized/zoomcrop/2003505968-edc-02.jpg?v=2025.2.21_0.53.33",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2019_DODGE_GRAND%20CARAVAN%20PASSENGER_GT%20MINIVAN%204D_GRAY_stock_desktop_1920x1080.png?v=1645567498.013",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2019_DODGE_GRAND%20CARAVAN%20PASSENGER_GT%20MINIVAN%204D_GRAY_stock_mobile_640x640.png?v=1645567498.013",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003505968/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4074985/details/feature-114527354.jpg?v=1740083766.681",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4074985/details/feature-114527366.jpg?v=1740083766.681",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4074985/details/feature-114527356.jpg?v=1740083766.681",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4074985/details/feature-114527351.jpg?v=1740083766.681",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-4074985/details/feature-114527357.jpg?v=1740083766.681",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2019-dodge-grand-caravan-passenger-gt",
+    "locationId": 43,
+    "stockRecallStatusType": 0,
+    "vin": "2C4RDGEG5KR611709",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/179081115/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1739634273.711",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/179081115/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1739634273.711",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "",
+        "frameCount": 0,
+        "fps": 0.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 343,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003487117,
+    "vehicleId": 3483896,
+    "make": "Chrysler",
+    "parentModel": "Voyager",
+    "model": "Voyager",
+    "trim": "LX",
+    "kbbTrim": "LX Van 4D",
+    "color": "Black",
+    "interiorColor": "Black",
+    "bodyStyle": "MiniVan",
+    "mileage": 67207,
+    "milesPerGallon": 22,
+    "fuelType": "Gas",
+    "price": {
+      "total": 21990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 440.0,
+      "downPayment": 290.0,
+      "downPaymentDetails": {
+        "totalCashDue": 290.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 290.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 290.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 21391.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1759.2
+    },
+    "year": 2023,
+    "seatingCapacity": 7,
+    "imageUrl": "/2003487117/post-large/normalized/zoomcrop/2003487117-edc-02.jpg?v=2025.2.21_0.53.33",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2023_CHRYSLER_VOYAGER_LX%20VAN%204D_BLACK_stock_desktop_1920x1080.png?v=1712242753.921",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2023_CHRYSLER_VOYAGER_LX%20VAN%204D_BLACK_stock_mobile_640x640.png?v=1712242753.921",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003487117/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4060731/details/feature-113940533.jpg?v=1739447467.344",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4060731/details/feature-113940537.jpg?v=1739447467.344",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4060731/details/feature-113940548.jpg?v=1739447467.344",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4060731/details/feature-113940539.jpg?v=1739447467.344",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4060731/details/feature-113940534.jpg?v=1739447467.344",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-4060731/details/feature-113940540.jpg?v=1739447467.344",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 290,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2023-chrysler-voyager-lx",
+    "locationId": 43,
+    "stockRecallStatusType": 0,
+    "vin": "2C4RC1CG4PR515497",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [
+      "Partner-Retail"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/178443727/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1739449362.823",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/178443727/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1739449362.823",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "",
+        "frameCount": 0,
+        "fps": 0.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 343,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003453943,
+    "vehicleId": 3464219,
+    "make": "Honda",
+    "parentModel": "Odyssey",
+    "model": "Odyssey",
+    "trim": "LX",
+    "kbbTrim": "LX Minivan 4D",
+    "color": "Gray",
+    "interiorColor": "Gray",
+    "bodyStyle": "MiniVan",
+    "mileage": 61135,
+    "milesPerGallon": 22,
+    "fuelType": "Gas",
+    "price": {
+      "total": 23590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 472.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 21296.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1887.2
+    },
+    "year": 2018,
+    "seatingCapacity": 7,
+    "imageUrl": "/2003453943/post-large/normalized/zoomcrop/2003453943-edc-02.jpg?v=2025.2.21_0.53.33",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2018_HONDA_ODYSSEY_LX%20MINIVAN%204D_GRAY_stock_desktop_1920x1080.png?v=1645539544.777",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2018_HONDA_ODYSSEY_LX%20MINIVAN%204D_GRAY_stock_mobile_640x640.png?v=1645539544.777",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003453943/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3992155/details/feature-111122400.jpg?v=1738274002.486",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-3992155/details/feature-111122403.jpg?v=1738274002.486",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3992155/details/feature-111122413.jpg?v=1738274002.486",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3992155/details/feature-111122405.jpg?v=1738274002.486",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3992155/details/feature-111122401.jpg?v=1738274002.486",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3992155/details/feature-111122406.jpg?v=1738274002.486",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2018-honda-odyssey-lx",
+    "locationId": 300,
+    "stockRecallStatusType": 0,
+    "vin": "5FNRL6H23JB095700",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/175264720/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1738291389.180",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/175264720/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1738291389.180",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "",
+        "frameCount": 0,
+        "fps": 0.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 374,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003287317,
+    "vehicleId": 3340103,
+    "make": "Kia",
+    "parentModel": "Carnival",
+    "model": "Carnival",
+    "trim": "LX w/Seat Pkg",
+    "kbbTrim": "LX w/Seat Pkg Minivan 4D",
+    "color": "White",
+    "interiorColor": "Black",
+    "bodyStyle": "MiniVan",
+    "mileage": 63270,
+    "milesPerGallon": 22,
+    "fuelType": "Gas",
+    "price": {
+      "total": 28590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 572.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 28412.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 2287.2
+    },
+    "year": 2022,
+    "seatingCapacity": 8,
+    "imageUrl": "/2003287317/post-large/normalized/zoomcrop/2003287317-edc-02.jpg?v=2025.2.21_0.53.33",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2022_KIA_CARNIVAL_LX%20W/SEAT%20PKG%20MINIVAN%204D_WHITE_stock_desktop_1920x1080.png?v=1645600574.934",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2022_KIA_CARNIVAL_LX%20W/SEAT%20PKG%20MINIVAN%204D_WHITE_stock_mobile_640x640.png?v=1645600574.934",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003287317/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3620981/details/feature-96101854.jpg?v=1733876385.100",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-3620981/details/feature-96101857.jpg?v=1733876385.100",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3620981/details/feature-96101866.jpg?v=1733876385.100",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3620981/details/feature-96101859.jpg?v=1733876385.100",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3620981/details/feature-96101855.jpg?v=1733876385.100",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3620981/details/feature-96101860.jpg?v=1733876385.100",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2022-kia-carnival-lx-wseat-pkg",
+    "priceUpdateDate": "2025-02-18T15:38:10.697Z",
+    "previousPrice": 28990.0,
+    "locationId": 43,
+    "stockRecallStatusType": 0,
+    "vin": "KNDNB4H35N6127160",
+    "vehicleTags": [
+      {
+        "tagId": 103,
+        "tagCategoryId": 1,
+        "tagKey": "RecentPriceDrop",
+        "tagName": "New Price",
+        "tagDescription": "New Price",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/159386326/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1740011068.906",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/159386326/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1740011068.906",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "https://vexgateway.fastly.carvana.io/executions/159386326/GAUSSIAN_RENDERER/poster.jpg?v=1740011068.906",
+        "frameCount": 969,
+        "fps": 30.0
+      },
+      {
+        "videoName": "srpvideo-swipe",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/159386326/GAUSSIAN_RENDERER/srpvideo-swipe.mp4?v=1740011068.906",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/159386326/GAUSSIAN_RENDERER/srpvideo-swipe-h265.mp4?v=1740011068.906",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "pauseFrames": [
+          {
+            "start": 0,
+            "end": 0
+          },
+          {
+            "start": 45,
+            "end": 49
+          },
+          {
+            "start": 69,
+            "end": 73
+          },
+          {
+            "start": 111,
+            "end": 115
+          },
+          {
+            "start": 149,
+            "end": 153
+          },
+          {
+            "start": 192,
+            "end": 196
+          },
+          {
+            "start": 235,
+            "end": 239
+          },
+          {
+            "start": 278,
+            "end": 282
+          },
+          {
+            "start": 321,
+            "end": 325
+          },
+          {
+            "start": 364,
+            "end": 368
+          },
+          {
+            "start": 407,
+            "end": 415
+          },
+          {
+            "start": 471,
+            "end": 475
+          },
+          {
+            "start": 531,
+            "end": 539
+          },
+          {
+            "start": 578,
+            "end": 582
+          },
+          {
+            "start": 621,
+            "end": 625
+          },
+          {
+            "start": 664,
+            "end": 668
+          },
+          {
+            "start": 707,
+            "end": 711
+          },
+          {
+            "start": 750,
+            "end": 754
+          },
+          {
+            "start": 793,
+            "end": 797
+          },
+          {
+            "start": 831,
+            "end": 835
+          },
+          {
+            "start": 873,
+            "end": 877
+          },
+          {
+            "start": 897,
+            "end": 901
+          },
+          {
+            "start": 946,
+            "end": 950
+          }
+        ],
+        "thumbnailURL": "https://vexgateway.fastly.carvana.io/executions/159386326/GAUSSIAN_RENDERER/srpvideo-swipe.jpg?v=1740011068.906",
+        "frameCount": 950,
+        "fps": 30.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 343,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003329905,
+    "vehicleId": 3372289,
+    "make": "Dodge",
+    "parentModel": "Grand Caravan",
+    "model": "Grand Caravan Passenger",
+    "trim": "SE",
+    "kbbTrim": "SE Minivan 4D",
+    "color": "Gray",
+    "interiorColor": "Black",
+    "bodyStyle": "MiniVan",
+    "mileage": 50924,
+    "milesPerGallon": 20,
+    "fuelType": "Gas",
+    "price": {
+      "total": 19990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 400.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 20660.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1599.2
+    },
+    "year": 2020,
+    "seatingCapacity": 7,
+    "imageUrl": "/2003329905/post-large/normalized/zoomcrop/2003329905-edc-02.jpg?v=2025.2.21_0.53.33",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2020_DODGE_GRAND%20CARAVAN%20PASSENGER_SE%20MINIVAN%204D_GRAY_stock_desktop_1920x1080.png?v=1645593929.767",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2020_DODGE_GRAND%20CARAVAN%20PASSENGER_SE%20MINIVAN%204D_GRAY_stock_mobile_640x640.png?v=1645593929.767",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003329905/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3801112/details/feature-103370779.jpg?v=1734647527.616",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-3801112/details/feature-103370782.jpg?v=1734647527.616",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3801112/details/feature-103370791.jpg?v=1734647527.616",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3801112/details/feature-103370784.jpg?v=1734647527.616",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3801112/details/feature-103370780.jpg?v=1734647527.616",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3801112/details/feature-103370785.jpg?v=1734647527.616",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2020-dodge-grand-caravan-passenger-se",
+    "priceUpdateDate": "2025-01-23T22:36:07.714Z",
+    "locationId": 43,
+    "stockRecallStatusType": 0,
+    "vin": "2C4RDGBG8LR198402",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [
+      "CoreOD"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 343,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003507601,
+    "vehicleId": 3499531,
+    "make": "Chrysler",
+    "parentModel": "Pacifica",
+    "model": "Pacifica Hybrid",
+    "trim": "Limited",
+    "kbbTrim": "Limited Van 4D",
+    "color": "Gray",
+    "interiorColor": "Beige",
+    "bodyStyle": "MiniVan",
+    "mileage": 82778,
+    "milesPerGallon": 30,
+    "fuelType": "Plug-In Hybrid",
+    "price": {
+      "total": 24990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 500.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 25530.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1999.2,
+      "evTaxCreditAppliedPrice": 20990.0,
+      "evTaxCredit": 4000.0
+    },
+    "year": 2021,
+    "seatingCapacity": 7,
+    "imageUrl": "/2003507601/post-large/normalized/zoomcrop/2003507601-edc-02.jpg?v=2025.2.21_0.53.33",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2021_CHRYSLER_PACIFICA%20HYBRID_LIMITED%20VAN%204D_GRAY_stock_desktop_1920x1080.png?v=1682516009.809",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2021_CHRYSLER_PACIFICA%20HYBRID_LIMITED%20VAN%204D_GRAY_stock_mobile_640x640.png?v=1682516009.809",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003507601/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4080731/details/feature-114750989.jpg?v=1740083783.836",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4080731/details/feature-114751000.jpg?v=1740083783.836",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4080731/details/feature-114750991.jpg?v=1740083783.836",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4080731/details/feature-114750987.jpg?v=1740083783.836",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-4080731/details/feature-114750992.jpg?v=1740083783.836",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2021-chrysler-pacifica-hybrid-limited",
+    "locationId": 43,
+    "stockRecallStatusType": 0,
+    "vin": "2C4RC1S76MR518043",
+    "vehicleTags": [
+      {
+        "tagId": 116,
+        "tagCategoryId": 1,
+        "tagKey": "EvTaxCreditMayBeEligible",
+        "tagName": "Clean Vehicle Tax Credit",
+        "tagDescription": "This vehicle may be eligible for a tax credit of up to $4000, subject to the requirements of Internal Revenue Code \u00a725E",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      },
+      {
+        "tagId": 121,
+        "tagCategoryId": 1,
+        "tagKey": "RecentlyAdded",
+        "tagName": "Recently Added",
+        "tagDescription": "This vehicle has been made purchasable for the first time within the last 72 hours",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/179382721/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1739832988.504",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/179382721/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1739832988.504",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "https://vexgateway.fastly.carvana.io/executions/179382721/GAUSSIAN_RENDERER/poster.jpg?v=1739832988.504",
+        "frameCount": 969,
+        "fps": 30.0
+      },
+      {
+        "videoName": "srpvideo-swipe",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/179382721/GAUSSIAN_RENDERER/srpvideo-swipe.mp4?v=1739832988.504",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/179382721/GAUSSIAN_RENDERER/srpvideo-swipe-h265.mp4?v=1739832988.504",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "pauseFrames": [
+          {
+            "start": 0,
+            "end": 0
+          },
+          {
+            "start": 45,
+            "end": 49
+          },
+          {
+            "start": 69,
+            "end": 73
+          },
+          {
+            "start": 111,
+            "end": 115
+          },
+          {
+            "start": 149,
+            "end": 153
+          },
+          {
+            "start": 192,
+            "end": 196
+          },
+          {
+            "start": 235,
+            "end": 239
+          },
+          {
+            "start": 278,
+            "end": 282
+          },
+          {
+            "start": 321,
+            "end": 325
+          },
+          {
+            "start": 364,
+            "end": 368
+          },
+          {
+            "start": 407,
+            "end": 415
+          },
+          {
+            "start": 471,
+            "end": 475
+          },
+          {
+            "start": 531,
+            "end": 539
+          },
+          {
+            "start": 578,
+            "end": 582
+          },
+          {
+            "start": 621,
+            "end": 625
+          },
+          {
+            "start": 664,
+            "end": 668
+          },
+          {
+            "start": 707,
+            "end": 711
+          },
+          {
+            "start": 750,
+            "end": 754
+          },
+          {
+            "start": 793,
+            "end": 797
+          },
+          {
+            "start": 831,
+            "end": 835
+          },
+          {
+            "start": 873,
+            "end": 877
+          },
+          {
+            "start": 897,
+            "end": 901
+          },
+          {
+            "start": 946,
+            "end": 950
+          }
+        ],
+        "thumbnailURL": "https://vexgateway.fastly.carvana.io/executions/179382721/GAUSSIAN_RENDERER/srpvideo-swipe.jpg?v=1739832988.504",
+        "frameCount": 950,
+        "fps": 30.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 343,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003468664,
+    "vehicleId": 3486302,
+    "make": "Chrysler",
+    "parentModel": "Pacifica",
+    "model": "Pacifica",
+    "trim": "Touring L",
+    "kbbTrim": "Touring L Van 4D",
+    "color": "Gray",
+    "interiorColor": "Black",
+    "bodyStyle": "MiniVan",
+    "mileage": 43212,
+    "milesPerGallon": 22,
+    "fuelType": "Gas",
+    "price": {
+      "total": 24590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 492.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 25821.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1967.2
+    },
+    "year": 2022,
+    "seatingCapacity": 7,
+    "imageUrl": "/2003468664/post-large/normalized/zoomcrop/2003468664-edc-02.jpg?v=2025.2.21_0.53.33",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2022_CHRYSLER_PACIFICA_TOURING%20L%20VAN%204D_GRAY_stock_desktop_1920x1080.png?v=1674149136.971",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2022_CHRYSLER_PACIFICA_TOURING%20L%20VAN%204D_GRAY_stock_mobile_640x640.png?v=1674149136.971",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003468664/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4045147/details/feature-113303922.jpg?v=1740082981.453",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4045147/details/feature-113303934.jpg?v=1740082981.453",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4045147/details/feature-113303924.jpg?v=1740082981.453",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4045147/details/feature-113303918.jpg?v=1740082981.453",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-4045147/details/feature-113303925.jpg?v=1740082981.453",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2022-chrysler-pacifica-touring-l",
+    "priceUpdateDate": "2025-02-10T17:45:11.654Z",
+    "locationId": 300,
+    "stockRecallStatusType": 0,
+    "vin": "2C4RC1BG9NR176248",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/177952301/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1739309690.744",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/177952301/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1739309690.744",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "",
+        "frameCount": 0,
+        "fps": 0.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 374,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003448811,
+    "vehicleId": 3463125,
+    "make": "Chrysler",
+    "parentModel": "Pacifica",
+    "model": "Pacifica",
+    "trim": "Limited",
+    "kbbTrim": "Limited Minivan 4D",
+    "color": "White",
+    "interiorColor": "Other",
+    "bodyStyle": "MiniVan",
+    "mileage": 49885,
+    "milesPerGallon": 22,
+    "fuelType": "Gas",
+    "price": {
+      "total": 24590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 492.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 20592.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1967.2
+    },
+    "year": 2018,
+    "seatingCapacity": 7,
+    "imageUrl": "/2003448811/post-large/normalized/zoomcrop/2003448811-edc-02.jpg?v=2025.2.21_0.53.33",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2018_CHRYSLER_PACIFICA_LIMITED%20MINIVAN%204D_WHITE_stock_desktop_1920x1080.png?v=1645537362.216",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2018_CHRYSLER_PACIFICA_LIMITED%20MINIVAN%204D_WHITE_stock_mobile_640x640.png?v=1645537362.216",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003448811/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-3974541/details/feature-110376958.jpg?v=1740082460.414",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3974541/details/feature-110376970.jpg?v=1740082460.414",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3974541/details/feature-110376960.jpg?v=1740082460.414",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3974541/details/feature-110376955.jpg?v=1740082460.414",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3974541/details/feature-110376961.jpg?v=1740082460.414",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2018-chrysler-pacifica-limited",
+    "priceUpdateDate": "2025-02-17T19:05:08.065Z",
+    "previousPrice": 24990.0,
+    "locationId": 43,
+    "stockRecallStatusType": 0,
+    "vin": "2C4RC1GG4JR174510",
+    "vehicleTags": [
+      {
+        "tagId": 103,
+        "tagCategoryId": 1,
+        "tagKey": "RecentPriceDrop",
+        "tagName": "New Price",
+        "tagDescription": "New Price",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/174927071/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1738208097.581",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/174927071/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1738208097.581",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "",
+        "frameCount": 0,
+        "fps": 0.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 343,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003467527,
+    "vehicleId": 3468062,
+    "make": "Ford",
+    "parentModel": "Transit 150",
+    "model": "Transit 150 Wagon",
+    "trim": "XLT w/Low Roof w/60/40 Side Door",
+    "kbbTrim": "XLT w/Low Roof w/60/40 Side Door Van 3D",
+    "color": "Silver",
+    "interiorColor": "Gray",
+    "bodyStyle": "MiniVan",
+    "mileage": 103499,
+    "milesPerGallon": 16,
+    "fuelType": "Gas",
+    "price": {
+      "total": 26990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 540.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 29992.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 2159.2
+    },
+    "year": 2017,
+    "seatingCapacity": 8,
+    "imageUrl": "/2003467527/post-large/normalized/zoomcrop/2003467527-edc-02.jpg?v=2025.2.21_0.53.40",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2017_FORD_TRANSIT%20150%20WAGON_XLT%20W/LOW%20ROOF%20W/60/40%20SIDE%20DOOR%20VAN%203D_SILVER_stock_desktop_1920x1080.png?v=1645565020.185",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2017_FORD_TRANSIT%20150%20WAGON_XLT%20W/LOW%20ROOF%20W/60/40%20SIDE%20DOOR%20VAN%203D_SILVER_stock_mobile_640x640.png?v=1645565020.185",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003467527/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4050477/details/feature-113522868.jpg?v=1739303369.796",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4050477/details/feature-113522871.jpg?v=1739303369.796",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4050477/details/feature-113522881.jpg?v=1739303369.796",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4050477/details/feature-113522873.jpg?v=1739303369.796",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4050477/details/feature-113522869.jpg?v=1739303369.796",
+    "trunkImageUrl": "",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2017-ford-transit-150-wagon-xlt-wlow-roof-w6040-side-door",
+    "priceUpdateDate": "2025-02-18T15:37:12.694Z",
+    "previousPrice": 27590.0,
+    "locationId": 43,
+    "stockRecallStatusType": 0,
+    "vin": "1FMZK1ZM0HKB32944",
+    "vehicleTags": [
+      {
+        "tagId": 103,
+        "tagCategoryId": 1,
+        "tagKey": "RecentPriceDrop",
+        "tagName": "New Price",
+        "tagDescription": "New Price",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      },
+      {
+        "tagId": 104,
+        "tagCategoryId": 1,
+        "tagKey": "KeepMovingPrice",
+        "tagName": "Great Deal",
+        "tagDescription": "This vehicle is priced $3,002 lower than Kelley Blue Book\u00ae Typical Listing Price.<br><br>* Savings amount based on the difference between Kelley Blue Book\u00ae Typical Listing Price and the current Carvana listing price, not including tax, title, registration, or delivery charges. Savings amounts are updated daily.",
+        "tagToolTip": "",
+        "sortOrder": 700,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/177997544/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1739320063.163",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/177997544/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1739320063.163",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "",
+        "frameCount": 0,
+        "fps": 0.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 343,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003497611,
+    "vehicleId": 3495783,
+    "make": "Chrysler",
+    "parentModel": "Pacifica",
+    "model": "Pacifica",
+    "trim": "Touring L",
+    "kbbTrim": "Touring L Van 4D",
+    "color": "Gray",
+    "interiorColor": "Black",
+    "bodyStyle": "MiniVan",
+    "mileage": 61034,
+    "milesPerGallon": 22,
+    "fuelType": "Gas",
+    "price": {
+      "total": 22990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 460.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 24038.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1839.2
+    },
+    "year": 2022,
+    "seatingCapacity": 7,
+    "imageUrl": "/2003497611/post-large/normalized/zoomcrop/2003497611-edc-02.jpg?v=2025.2.21_0.53.40",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2022_CHRYSLER_PACIFICA_TOURING%20L%20VAN%204D_GRAY_stock_desktop_1920x1080.png?v=1674149136.971",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2022_CHRYSLER_PACIFICA_TOURING%20L%20VAN%204D_GRAY_stock_mobile_640x640.png?v=1674149136.971",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003497611/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4096807/details/feature-115422461.jpg?v=1740050867.449",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4096807/details/feature-115422473.jpg?v=1740050867.449",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4096807/details/feature-115422463.jpg?v=1740050867.449",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4096807/details/feature-115422457.jpg?v=1740050867.449",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-4096807/details/feature-115422464.jpg?v=1740050867.449",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2022-chrysler-pacifica-touring-l",
+    "locationId": 43,
+    "stockRecallStatusType": 0,
+    "vin": "2C4RC1BG9NR190733",
+    "vehicleTags": [
+      {
+        "tagId": 121,
+        "tagCategoryId": 1,
+        "tagKey": "RecentlyAdded",
+        "tagName": "Recently Added",
+        "tagDescription": "This vehicle has been made purchasable for the first time within the last 72 hours",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 343,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 2
+  },
+  {
+    "stockNumber": 2003403213,
+    "vehicleId": 3438218,
+    "make": "Chrysler",
+    "parentModel": "Pacifica",
+    "model": "Pacifica",
+    "trim": "Touring Plus",
+    "kbbTrim": "Touring Plus Minivan 4D",
+    "color": "Black",
+    "interiorColor": "Black",
+    "bodyStyle": "MiniVan",
+    "mileage": 56576,
+    "milesPerGallon": 22,
+    "fuelType": "Gas",
+    "price": {
+      "total": 19990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 400.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 17673.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1599.2
+    },
+    "year": 2018,
+    "seatingCapacity": 7,
+    "imageUrl": "/2003403213/post-large/normalized/zoomcrop/2003403213-edc-02.jpg?v=2025.2.21_0.53.40",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2018_CHRYSLER_PACIFICA_TOURING%20PLUS%20MINIVAN%204D_BLACK_stock_desktop_1920x1080.png?v=1645536706.859",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2018_CHRYSLER_PACIFICA_TOURING%20PLUS%20MINIVAN%204D_BLACK_stock_mobile_640x640.png?v=1645536706.859",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003403213/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3966935/details/feature-110057547.jpg?v=1738005569.537",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-3966935/details/feature-110057551.jpg?v=1738005569.537",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3966935/details/feature-110057562.jpg?v=1738005569.537",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3966935/details/feature-110057553.jpg?v=1738005569.537",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3966935/details/feature-110057548.jpg?v=1738005569.537",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3966935/details/feature-110057554.jpg?v=1738005569.537",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2018-chrysler-pacifica-touring-plus",
+    "priceUpdateDate": "2025-02-12T17:38:38.821Z",
+    "locationId": 43,
+    "stockRecallStatusType": 0,
+    "vin": "2C4RC1FG5JR278652",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "148pt",
+    "stores": [
+      "148pt"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/174207016/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1738009501.185",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/174207016/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1738009501.185",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "",
+        "frameCount": 0,
+        "fps": 0.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 343,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003214862,
+    "vehicleId": 3351020,
+    "make": "Chrysler",
+    "parentModel": "Pacifica",
+    "model": "Pacifica",
+    "trim": "Touring L",
+    "kbbTrim": "Touring L Minivan 4D",
+    "color": "Silver",
+    "interiorColor": "Black",
+    "bodyStyle": "MiniVan",
+    "mileage": 52946,
+    "milesPerGallon": 22,
+    "fuelType": "Gas",
+    "price": {
+      "total": 22590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 452.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 22825.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1807.2
+    },
+    "year": 2020,
+    "seatingCapacity": 7,
+    "imageUrl": "/2003214862/post-large/normalized/zoomcrop/2003214862-edc-02.jpg?v=2025.2.21_0.53.40",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2020_CHRYSLER_PACIFICA_TOURING%20L%20MINIVAN%204D_SILVER_stock_desktop_1920x1080.png?v=1645583853.689",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2020_CHRYSLER_PACIFICA_TOURING%20L%20MINIVAN%204D_SILVER_stock_mobile_640x640.png?v=1645583853.689",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003214862/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4030986/details/feature-112730376.jpg?v=1740078524.862",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4030986/details/feature-112730388.jpg?v=1740078524.862",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4030986/details/feature-112730378.jpg?v=1740078524.862",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4030986/details/feature-112730372.jpg?v=1740078524.862",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-4030986/details/feature-112730379.jpg?v=1740078524.862",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2020-chrysler-pacifica-touring-l",
+    "priceUpdateDate": "2025-02-17T19:04:17.153Z",
+    "previousPrice": 22990.0,
+    "locationId": 43,
+    "stockRecallStatusType": 0,
+    "vin": "2C4RC1BG9LR116077",
+    "vehicleTags": [
+      {
+        "tagId": 103,
+        "tagCategoryId": 1,
+        "tagKey": "RecentPriceDrop",
+        "tagName": "New Price",
+        "tagDescription": "New Price",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/177043253/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1738928998.859",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/177043253/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1738928998.859",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "",
+        "frameCount": 0,
+        "fps": 0.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 343,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003413012,
+    "vehicleId": 3441784,
+    "make": "Chrysler",
+    "parentModel": "Pacifica",
+    "model": "Pacifica",
+    "trim": "Limited",
+    "kbbTrim": "Limited Minivan 4D",
+    "color": "Black",
+    "interiorColor": "Black",
+    "bodyStyle": "MiniVan",
+    "mileage": 41782,
+    "milesPerGallon": 22,
+    "fuelType": "Gas",
+    "price": {
+      "total": 23990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 480.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 19253.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1919.2
+    },
+    "year": 2017,
+    "seatingCapacity": 7,
+    "imageUrl": "/2003413012/post-large/normalized/zoomcrop/2003413012-edc-02.jpg?v=2025.2.21_0.53.40",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2017_CHRYSLER_PACIFICA_LIMITED%20MINIVAN%204D_BLACK_stock_desktop_1920x1080.png?v=1645515893.579",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2017_CHRYSLER_PACIFICA_LIMITED%20MINIVAN%204D_BLACK_stock_mobile_640x640.png?v=1645515893.579",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003413012/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4013127/details/feature-111968269.jpg?v=1740081437.160",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4013127/details/feature-111968283.jpg?v=1740081437.161",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4013127/details/feature-111968271.jpg?v=1740081437.160",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4013127/details/feature-111968266.jpg?v=1740081437.160",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-4013127/details/feature-111968273.jpg?v=1740081437.160",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2017-chrysler-pacifica-limited",
+    "priceUpdateDate": "2025-02-11T17:25:28.113Z",
+    "locationId": 300,
+    "stockRecallStatusType": 0,
+    "vin": "2C4RC1GG2HR835722",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/176210796/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1738702953.134",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/176210796/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1738702953.134",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "",
+        "frameCount": 0,
+        "fps": 0.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 374,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003263033,
+    "vehicleId": 3348529,
+    "make": "Chrysler",
+    "parentModel": "Pacifica",
+    "model": "Pacifica",
+    "trim": "Touring L",
+    "kbbTrim": "Touring L Van 4D",
+    "color": "Black",
+    "interiorColor": "Black",
+    "bodyStyle": "MiniVan",
+    "mileage": 66276,
+    "milesPerGallon": 22,
+    "fuelType": "Gas",
+    "price": {
+      "total": 20590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 412.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 22830.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1647.2
+    },
+    "year": 2022,
+    "seatingCapacity": 7,
+    "imageUrl": "/2003263033/post-large/2003263033-edc-02-search.jpg?v=2025.2.21_0.53.40",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2022_CHRYSLER_PACIFICA_TOURING%20L%20VAN%204D_BLACK_stock_desktop_1920x1080.png?v=1662078017.775",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2022_CHRYSLER_PACIFICA_TOURING%20L%20VAN%204D_BLACK_stock_mobile_640x640.png?v=1662078017.775",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003263033/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-3499867/details/feature-91097197.jpg?v=1740078742.160",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3499867/details/feature-91097188.jpg?v=1740078742.160",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3499867/details/feature-91097195.jpg?v=1740078742.160",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3499867/details/feature-94827325.jpg?v=1740078742.160",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3499867/details/feature-91097207.jpg?v=1740078742.160",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2022-chrysler-pacifica-touring-l",
+    "priceUpdateDate": "2025-02-19T18:37:53.383Z",
+    "previousPrice": 20990.0,
+    "locationId": 300,
+    "stockRecallStatusType": 0,
+    "vin": "2C4RC1BG8NR193655",
+    "vehicleTags": [
+      {
+        "tagId": 103,
+        "tagCategoryId": 1,
+        "tagKey": "RecentPriceDrop",
+        "tagName": "New Price",
+        "tagDescription": "New Price",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      },
+      {
+        "tagId": 104,
+        "tagCategoryId": 1,
+        "tagKey": "KeepMovingPrice",
+        "tagName": "Great Deal",
+        "tagDescription": "This vehicle is priced $2,240 lower than Kelley Blue Book\u00ae Typical Listing Price.<br><br>* Savings amount based on the difference between Kelley Blue Book\u00ae Typical Listing Price and the current Carvana listing price, not including tax, title, registration, or delivery charges. Savings amounts are updated daily.",
+        "tagToolTip": "",
+        "sortOrder": 700,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "DMP2Core",
+    "stores": [
+      "DMP2Core",
+      "CoreOD"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 374,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003373859,
+    "vehicleId": 3414514,
+    "make": "Chrysler",
+    "parentModel": "Voyager",
+    "model": "Voyager",
+    "trim": "L",
+    "kbbTrim": "L Minivan 4D",
+    "color": "Gray",
+    "interiorColor": "Black",
+    "bodyStyle": "MiniVan",
+    "mileage": 76087,
+    "milesPerGallon": 22,
+    "fuelType": "Gas",
+    "price": {
+      "total": 19990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 400.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 19284.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1599.2
+    },
+    "year": 2021,
+    "seatingCapacity": 7,
+    "imageUrl": "/2003373859/post-large/normalized/zoomcrop/2003373859-edc-02.jpg?v=2025.2.21_0.53.40",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2021_CHRYSLER_VOYAGER_L%20MINIVAN%204D_GRAY_stock_desktop_1920x1080.png?v=1676649671.331",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2021_CHRYSLER_VOYAGER_L%20MINIVAN%204D_GRAY_stock_mobile_640x640.png?v=1676649671.331",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003373859/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3971294/details/feature-110242112.jpg?v=1738062100.878",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-3971294/details/feature-110242115.jpg?v=1738062100.879",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3971294/details/feature-110242126.jpg?v=1738062100.879",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3971294/details/feature-110242117.jpg?v=1738062100.879",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3971294/details/feature-110242113.jpg?v=1738062100.878",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3971294/details/feature-110242118.jpg?v=1738062100.879",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2021-chrysler-voyager-l",
+    "priceUpdateDate": "2025-02-11T17:24:24.216Z",
+    "locationId": 43,
+    "stockRecallStatusType": 0,
+    "vin": "2C4RC1AG5MR554968",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/174324035/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1738063561.088",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/174324035/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1738063561.088",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "",
+        "frameCount": 0,
+        "fps": 0.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 343,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003496262,
+    "vehicleId": 3495515,
+    "make": "Chrysler",
+    "parentModel": "Pacifica",
+    "model": "Pacifica",
+    "trim": "Touring L",
+    "kbbTrim": "Touring L Van 4D",
+    "color": "Gray",
+    "interiorColor": "Black",
+    "bodyStyle": "MiniVan",
+    "mileage": 62742,
+    "milesPerGallon": 22,
+    "fuelType": "Gas",
+    "price": {
+      "total": 22990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 460.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 23841.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1839.2
+    },
+    "year": 2022,
+    "seatingCapacity": 7,
+    "imageUrl": "/2003496262/post-large/normalized/zoomcrop/2003496262-edc-02.jpg?v=2025.2.21_0.53.40",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2022_CHRYSLER_PACIFICA_TOURING%20L%20VAN%204D_GRAY_stock_desktop_1920x1080.png?v=1674149136.971",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2022_CHRYSLER_PACIFICA_TOURING%20L%20VAN%204D_GRAY_stock_mobile_640x640.png?v=1674149136.971",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003496262/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4082565/details/feature-114836146.jpg?v=1739887068.726",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4082565/details/feature-114836151.jpg?v=1739887068.726",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4082565/details/feature-114836163.jpg?v=1739887068.726",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4082565/details/feature-114836153.jpg?v=1739887068.726",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4082565/details/feature-114836147.jpg?v=1739887068.726",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-4082565/details/feature-114836154.jpg?v=1739887068.726",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2022-chrysler-pacifica-touring-l",
+    "locationId": 43,
+    "stockRecallStatusType": 0,
+    "vin": "2C4RC1BG7NR181948",
+    "vehicleTags": [
+      {
+        "tagId": 121,
+        "tagCategoryId": 1,
+        "tagKey": "RecentlyAdded",
+        "tagName": "Recently Added",
+        "tagDescription": "This vehicle has been made purchasable for the first time within the last 72 hours",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/179515993/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1739890186.279",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/179515993/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1739890186.279",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "https://vexgateway.fastly.carvana.io/executions/179515993/GAUSSIAN_RENDERER/poster.jpg?v=1739890186.279",
+        "frameCount": 969,
+        "fps": 30.0
+      },
+      {
+        "videoName": "srpvideo-swipe",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/179515993/GAUSSIAN_RENDERER/srpvideo-swipe.mp4?v=1739890186.279",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/179515993/GAUSSIAN_RENDERER/srpvideo-swipe-h265.mp4?v=1739890186.279",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "pauseFrames": [
+          {
+            "start": 0,
+            "end": 0
+          },
+          {
+            "start": 45,
+            "end": 49
+          },
+          {
+            "start": 69,
+            "end": 73
+          },
+          {
+            "start": 111,
+            "end": 115
+          },
+          {
+            "start": 149,
+            "end": 153
+          },
+          {
+            "start": 192,
+            "end": 196
+          },
+          {
+            "start": 235,
+            "end": 239
+          },
+          {
+            "start": 278,
+            "end": 282
+          },
+          {
+            "start": 321,
+            "end": 325
+          },
+          {
+            "start": 364,
+            "end": 368
+          },
+          {
+            "start": 407,
+            "end": 415
+          },
+          {
+            "start": 471,
+            "end": 475
+          },
+          {
+            "start": 531,
+            "end": 539
+          },
+          {
+            "start": 578,
+            "end": 582
+          },
+          {
+            "start": 621,
+            "end": 625
+          },
+          {
+            "start": 664,
+            "end": 668
+          },
+          {
+            "start": 707,
+            "end": 711
+          },
+          {
+            "start": 750,
+            "end": 754
+          },
+          {
+            "start": 793,
+            "end": 797
+          },
+          {
+            "start": 831,
+            "end": 835
+          },
+          {
+            "start": 873,
+            "end": 877
+          },
+          {
+            "start": 897,
+            "end": 901
+          },
+          {
+            "start": 946,
+            "end": 950
+          }
+        ],
+        "thumbnailURL": "https://vexgateway.fastly.carvana.io/executions/179515993/GAUSSIAN_RENDERER/srpvideo-swipe.jpg?v=1739890186.279",
+        "frameCount": 950,
+        "fps": 30.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 343,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 2
+  },
+  {
+    "stockNumber": 2003448077,
+    "vehicleId": 3460979,
+    "make": "Dodge",
+    "parentModel": "Grand Caravan",
+    "model": "Grand Caravan Passenger",
+    "trim": "GT",
+    "kbbTrim": "GT Minivan 4D",
+    "color": "Silver",
+    "interiorColor": "Black",
+    "bodyStyle": "MiniVan",
+    "mileage": 71130,
+    "milesPerGallon": 20,
+    "fuelType": "Gas",
+    "price": {
+      "total": 17990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 360.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 15218.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1439.2
+    },
+    "year": 2019,
+    "seatingCapacity": 7,
+    "imageUrl": "/2003448077/post-large/normalized/zoomcrop/2003448077-edc-02.jpg?v=2025.2.21_0.53.40",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2019_DODGE_GRAND%20CARAVAN%20PASSENGER_GT%20MINIVAN%204D_SILVER_stock_desktop_1920x1080.png?v=1645566894.904",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2019_DODGE_GRAND%20CARAVAN%20PASSENGER_GT%20MINIVAN%204D_SILVER_stock_mobile_640x640.png?v=1645566894.904",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003448077/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3957579/details/feature-109680874.jpg?v=1737736411.639",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-3957579/details/feature-109680878.jpg?v=1737736411.639",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3957579/details/feature-109680890.jpg?v=1737736411.639",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3957579/details/feature-109680880.jpg?v=1737736411.639",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3957579/details/feature-109680875.jpg?v=1737736411.639",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3957579/details/feature-109680881.jpg?v=1737736411.639",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2019-dodge-grand-caravan-passenger-gt",
+    "locationId": 43,
+    "stockRecallStatusType": 0,
+    "vin": "2C4RDGEG5KR517345",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "148pt",
+    "stores": [
+      "148pt"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/173775501/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1737745092.213",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/173775501/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1737745092.213",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "",
+        "frameCount": 0,
+        "fps": 0.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 343,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003348423,
+    "vehicleId": 3432825,
+    "make": "Chrysler",
+    "parentModel": "Pacifica",
+    "model": "Pacifica",
+    "trim": "Touring L",
+    "kbbTrim": "Touring L Van 4D",
+    "color": "Black",
+    "interiorColor": "Black",
+    "bodyStyle": "MiniVan",
+    "mileage": 65784,
+    "milesPerGallon": 22,
+    "fuelType": "Gas",
+    "price": {
+      "total": 22990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 460.0,
+      "downPayment": 290.0,
+      "downPaymentDetails": {
+        "totalCashDue": 290.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 290.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 290.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 22895.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1839.2
+    },
+    "year": 2022,
+    "seatingCapacity": 7,
+    "imageUrl": "/2003348423/post-large/normalized/zoomcrop/2003348423-edc-02.jpg?v=2025.2.21_0.53.40",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2022_CHRYSLER_PACIFICA_TOURING%20L%20VAN%204D_BLACK_stock_desktop_1920x1080.png?v=1662078017.775",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2022_CHRYSLER_PACIFICA_TOURING%20L%20VAN%204D_BLACK_stock_mobile_640x640.png?v=1662078017.775",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003348423/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4025265/details/feature-112460517.jpg?v=1740079630.467",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4025265/details/feature-112460529.jpg?v=1740079630.467",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4025265/details/feature-112460519.jpg?v=1740079630.467",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4025265/details/feature-112460513.jpg?v=1740079630.467",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-4025265/details/feature-112460520.jpg?v=1740079630.467",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 290,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2022-chrysler-pacifica-touring-l",
+    "locationId": 43,
+    "stockRecallStatusType": 0,
+    "vin": "2C4RC1BG5NR134496",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [
+      "Partner-Retail"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/176714704/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1738843916.293",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/176714704/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1738843916.293",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "",
+        "frameCount": 0,
+        "fps": 0.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 343,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003110645,
+    "vehicleId": 3226126,
+    "make": "Chrysler",
+    "parentModel": "Pacifica",
+    "model": "Pacifica",
+    "trim": "Limited",
+    "kbbTrim": "Limited Minivan 4D",
+    "color": "Silver",
+    "interiorColor": "Black",
+    "bodyStyle": "MiniVan",
+    "mileage": 71726,
+    "milesPerGallon": 22,
+    "fuelType": "Gas",
+    "price": {
+      "total": 22990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 460.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1839.2
+    },
+    "year": 2019,
+    "seatingCapacity": 7,
+    "imageUrl": "/2003110645/post-large/normalized/zoomcrop/2003110645-edc-02.jpg?v=2025.2.21_0.53.40",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2019_CHRYSLER_PACIFICA_LIMITED%20MINIVAN%204D_SILVER_stock_desktop_1920x1080.png?v=1645566018.025",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2019_CHRYSLER_PACIFICA_LIMITED%20MINIVAN%204D_SILVER_stock_mobile_640x640.png?v=1645566018.025",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003110645/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3191998/details/feature-78486486.jpg?v=1733865395.227",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-3191998/details/feature-78486490.jpg?v=1733865395.227",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3191998/details/feature-78486500.jpg?v=1733865395.227",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3191998/details/feature-78486492.jpg?v=1733865395.227",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3191998/details/feature-78486487.jpg?v=1733865395.227",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3191998/details/feature-78486493.jpg?v=1733865395.227",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2019-chrysler-pacifica-limited",
+    "priceUpdateDate": "2024-11-11T16:53:12.182Z",
+    "locationId": 300,
+    "stockRecallStatusType": 0,
+    "vin": "2C4RC1GG8KR748656",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/141713246/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1739999368.692",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/141713246/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1739999368.692",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "https://vexgateway.fastly.carvana.io/executions/141713246/GAUSSIAN_RENDERER/poster.jpg?v=1739999368.692",
+        "frameCount": 969,
+        "fps": 30.0
+      },
+      {
+        "videoName": "srpvideo-swipe",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/141713246/GAUSSIAN_RENDERER/srpvideo-swipe.mp4?v=1739999368.692",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/141713246/GAUSSIAN_RENDERER/srpvideo-swipe-h265.mp4?v=1739999368.692",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "pauseFrames": [
+          {
+            "start": 0,
+            "end": 0
+          },
+          {
+            "start": 45,
+            "end": 49
+          },
+          {
+            "start": 69,
+            "end": 73
+          },
+          {
+            "start": 111,
+            "end": 115
+          },
+          {
+            "start": 149,
+            "end": 153
+          },
+          {
+            "start": 192,
+            "end": 196
+          },
+          {
+            "start": 235,
+            "end": 239
+          },
+          {
+            "start": 278,
+            "end": 282
+          },
+          {
+            "start": 321,
+            "end": 325
+          },
+          {
+            "start": 364,
+            "end": 368
+          },
+          {
+            "start": 407,
+            "end": 415
+          },
+          {
+            "start": 471,
+            "end": 475
+          },
+          {
+            "start": 531,
+            "end": 539
+          },
+          {
+            "start": 578,
+            "end": 582
+          },
+          {
+            "start": 621,
+            "end": 625
+          },
+          {
+            "start": 664,
+            "end": 668
+          },
+          {
+            "start": 707,
+            "end": 711
+          },
+          {
+            "start": 750,
+            "end": 754
+          },
+          {
+            "start": 793,
+            "end": 797
+          },
+          {
+            "start": 831,
+            "end": 835
+          },
+          {
+            "start": 873,
+            "end": 877
+          },
+          {
+            "start": 897,
+            "end": 901
+          },
+          {
+            "start": 946,
+            "end": 950
+          }
+        ],
+        "thumbnailURL": "https://vexgateway.fastly.carvana.io/executions/141713246/GAUSSIAN_RENDERER/srpvideo-swipe.jpg?v=1739999368.692",
+        "frameCount": 950,
+        "fps": 30.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 374,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003304700,
+    "vehicleId": 3390074,
+    "make": "Chrysler",
+    "parentModel": "Pacifica",
+    "model": "Pacifica",
+    "trim": "Touring L",
+    "kbbTrim": "Touring L Van 4D",
+    "color": "Red",
+    "interiorColor": "Black",
+    "bodyStyle": "MiniVan",
+    "mileage": 53087,
+    "milesPerGallon": 22,
+    "fuelType": "Gas",
+    "price": {
+      "total": 21990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 440.0,
+      "downPayment": 990.0,
+      "downPaymentDetails": {
+        "totalCashDue": 990.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 990.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 990.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 24532.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1759.2
+    },
+    "year": 2022,
+    "seatingCapacity": 7,
+    "imageUrl": "/2003304700/post-large/2003304700-edc-02-search.jpg?v=2025.2.21_0.53.40",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2022_CHRYSLER_PACIFICA_TOURING%20L%20VAN%204D_RED_stock_desktop_1920x1080.png?v=1692973589.732",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2022_CHRYSLER_PACIFICA_TOURING%20L%20VAN%204D_RED_stock_mobile_640x640.png?v=1692973589.732",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003304700/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3598220/details/feature-95196461.jpg?v=1733875476.861",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-3598220/details/feature-95196458.jpg?v=1733875476.861",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3598220/details/feature-95196449.jpg?v=1733875476.861",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3598220/details/feature-95196456.jpg?v=1733875476.861",
+    "backSeatImageUrl": "",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3598220/details/feature-95196466.jpg?v=1733875476.861",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 990,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2022-chrysler-pacifica-touring-l",
+    "priceUpdateDate": "2025-02-19T18:38:15.003Z",
+    "previousPrice": 22590.0,
+    "locationId": 357,
+    "stockRecallStatusType": 0,
+    "vin": "2C4RC1BG0NR218256",
+    "vehicleTags": [
+      {
+        "tagId": 103,
+        "tagCategoryId": 1,
+        "tagKey": "RecentPriceDrop",
+        "tagName": "New Price",
+        "tagDescription": "New Price",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      },
+      {
+        "tagId": 104,
+        "tagCategoryId": 1,
+        "tagKey": "KeepMovingPrice",
+        "tagName": "Great Deal",
+        "tagDescription": "This vehicle is priced $2,542 lower than Kelley Blue Book\u00ae Typical Listing Price.<br><br>* Savings amount based on the difference between Kelley Blue Book\u00ae Typical Listing Price and the current Carvana listing price, not including tax, title, registration, or delivery charges. Savings amounts are updated daily.",
+        "tagToolTip": "",
+        "sortOrder": 700,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "DMP2Core",
+    "stores": [
+      "DMP2Core"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 892,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 2
+  },
+  {
+    "stockNumber": 2003343719,
+    "vehicleId": 3393499,
+    "make": "Chrysler",
+    "parentModel": "Pacifica",
+    "model": "Pacifica",
+    "trim": "Touring L",
+    "kbbTrim": "Touring L Minivan 4D",
+    "color": "Gray",
+    "interiorColor": "Beige",
+    "bodyStyle": "MiniVan",
+    "mileage": 53279,
+    "milesPerGallon": 22,
+    "fuelType": "Gas",
+    "price": {
+      "total": 24590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 492.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 26245.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1967.2
+    },
+    "year": 2021,
+    "seatingCapacity": 7,
+    "imageUrl": "/2003343719/post-large/normalized/zoomcrop/2003343719-edc-02.jpg?v=2025.2.21_0.53.40",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2021_CHRYSLER_PACIFICA_TOURING%20L%20MINIVAN%204D_GRAY_stock_desktop_1920x1080.png?v=1645597326.601",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2021_CHRYSLER_PACIFICA_TOURING%20L%20MINIVAN%204D_GRAY_stock_mobile_640x640.png?v=1645597326.601",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003343719/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-3974475/details/feature-110372083.jpg?v=1740079528.392",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3974475/details/feature-110372095.jpg?v=1740079528.392",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3974475/details/feature-110372085.jpg?v=1740079528.392",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3974475/details/feature-110372079.jpg?v=1740079528.392",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3974475/details/feature-110372086.jpg?v=1740079528.392",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2021-chrysler-pacifica-touring-l",
+    "priceUpdateDate": "2025-02-17T19:04:18.546Z",
+    "previousPrice": 24990.0,
+    "locationId": 43,
+    "stockRecallStatusType": 0,
+    "vin": "2C4RC1BG0MR597516",
+    "vehicleTags": [
+      {
+        "tagId": 103,
+        "tagCategoryId": 1,
+        "tagKey": "RecentPriceDrop",
+        "tagName": "New Price",
+        "tagDescription": "New Price",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      },
+      {
+        "tagId": 104,
+        "tagCategoryId": 1,
+        "tagKey": "KeepMovingPrice",
+        "tagName": "Great Deal",
+        "tagDescription": "This vehicle is priced $1,655 lower than Kelley Blue Book\u00ae Typical Listing Price.<br><br>* Savings amount based on the difference between Kelley Blue Book\u00ae Typical Listing Price and the current Carvana listing price, not including tax, title, registration, or delivery charges. Savings amounts are updated daily.",
+        "tagToolTip": "",
+        "sortOrder": 700,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/174466657/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1738096110.434",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/174466657/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1738096110.434",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "",
+        "frameCount": 0,
+        "fps": 0.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 343,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003427829,
+    "vehicleId": 3441559,
+    "make": "Chrysler",
+    "parentModel": "Pacifica",
+    "model": "Pacifica",
+    "trim": "Touring L",
+    "kbbTrim": "Touring L Van 4D",
+    "color": "Black",
+    "interiorColor": "Black",
+    "bodyStyle": "MiniVan",
+    "mileage": 69008,
+    "milesPerGallon": 22,
+    "fuelType": "Gas",
+    "price": {
+      "total": 22590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 452.0,
+      "downPayment": 290.0,
+      "downPaymentDetails": {
+        "totalCashDue": 290.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 290.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 290.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 22435.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1807.2
+    },
+    "year": 2022,
+    "seatingCapacity": 7,
+    "imageUrl": "/2003427829/post-large/normalized/zoomcrop/2003427829-edc-02.jpg?v=2025.2.21_0.53.40",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2022_CHRYSLER_PACIFICA_TOURING%20L%20VAN%204D_BLACK_stock_desktop_1920x1080.png?v=1662078017.775",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2022_CHRYSLER_PACIFICA_TOURING%20L%20VAN%204D_BLACK_stock_mobile_640x640.png?v=1662078017.775",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003427829/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-3925059/details/feature-108371172.jpg?v=1740081954.190",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3925059/details/feature-108371184.jpg?v=1740081954.190",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3925059/details/feature-108371174.jpg?v=1740081954.190",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3925059/details/feature-108371168.jpg?v=1740081954.190",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3925059/details/feature-108371175.jpg?v=1740081954.190",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 290,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2022-chrysler-pacifica-touring-l",
+    "priceUpdateDate": "2025-01-29T20:46:05.433Z",
+    "locationId": 43,
+    "stockRecallStatusType": 0,
+    "vin": "2C4RC1BG0NR197148",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [
+      "Partner-Retail"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/172414154/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1737138440.471",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/172414154/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1737138440.471",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "",
+        "frameCount": 0,
+        "fps": 0.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 343,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003497281,
+    "vehicleId": 3508467,
+    "make": "Chrysler",
+    "parentModel": "Pacifica",
+    "model": "Pacifica Hybrid",
+    "trim": "Limited",
+    "kbbTrim": "Limited Van 4D",
+    "color": "Gray",
+    "interiorColor": "Black",
+    "bodyStyle": "MiniVan",
+    "mileage": 67996,
+    "milesPerGallon": 30,
+    "fuelType": "Plug-In Hybrid",
+    "price": {
+      "total": 22050.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 441.0,
+      "downPayment": 1890.0,
+      "downPaymentDetails": {
+        "totalCashDue": 1890.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 1890.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 590.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1764.0,
+      "evTaxCreditAppliedPrice": 18050.0,
+      "evTaxCredit": 4000.0
+    },
+    "year": 2022,
+    "seatingCapacity": 7,
+    "imageUrl": "/2003497281/post-large/2003497281-edc-02-search.jpg?v=2025.2.21_0.53.40",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2022_CHRYSLER_PACIFICA%20HYBRID_LIMITED%20VAN%204D_GRAY_stock_desktop_1920x1080.png?v=1715878862.573",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2022_CHRYSLER_PACIFICA%20HYBRID_LIMITED%20VAN%204D_GRAY_stock_mobile_640x640.png?v=1715878862.573",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003497281/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4031599/details/feature-112750054.jpg?v=1740005932.469",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4031599/details/feature-112750051.jpg?v=1740005932.469",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4031599/details/feature-112750041.jpg?v=1740005932.469",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4031599/details/feature-112750049.jpg?v=1740005932.469",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4031599/details/feature-115413660.jpg?v=1740005932.470",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-4031599/details/feature-112750062.jpg?v=1740005932.469",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 590,
+    "vehicleInventoryType": 4,
+    "vehicleLockType": 0,
+    "vdpSlug": "2022-chrysler-pacifica-hybrid-limited",
+    "priceUpdateDate": "2025-02-20T12:33:07.753Z",
+    "locationId": 369,
+    "stockRecallStatusType": 0,
+    "vin": "2C4RC1S72NR173465",
+    "vehicleTags": [
+      {
+        "tagId": 116,
+        "tagCategoryId": 1,
+        "tagKey": "EvTaxCreditMayBeEligible",
+        "tagName": "Clean Vehicle Tax Credit",
+        "tagDescription": "This vehicle may be eligible for a tax credit of up to $4000, subject to the requirements of Internal Revenue Code \u00a725E",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      },
+      {
+        "tagId": 121,
+        "tagCategoryId": 1,
+        "tagKey": "RecentlyAdded",
+        "tagName": "Recently Added",
+        "tagDescription": "This vehicle has been made purchasable for the first time within the last 72 hours",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 373,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003477940,
+    "vehicleId": 3481577,
+    "make": "Honda",
+    "parentModel": "Odyssey",
+    "model": "Odyssey",
+    "trim": "EX-L",
+    "kbbTrim": "EX-L Minivan 4D",
+    "color": "Gray",
+    "interiorColor": "Gray",
+    "bodyStyle": "MiniVan",
+    "mileage": 60666,
+    "milesPerGallon": 22,
+    "fuelType": "Gas",
+    "price": {
+      "total": 26990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 540.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 26280.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 2159.2
+    },
+    "year": 2019,
+    "seatingCapacity": 8,
+    "imageUrl": "/2003477940/post-large/normalized/zoomcrop/2003477940-edc-02.jpg?v=2025.2.21_0.53.40",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2019_HONDA_ODYSSEY_EX-L%20MINIVAN%204D_GRAY_stock_desktop_1920x1080.png?v=1645539399.048",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2019_HONDA_ODYSSEY_EX-L%20MINIVAN%204D_GRAY_stock_mobile_640x640.png?v=1645539399.048",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003477940/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4067484/details/feature-114231308.jpg?v=1740083197.904",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4067484/details/feature-114231318.jpg?v=1740083197.904",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4067484/details/feature-114231310.jpg?v=1740083197.904",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4067484/details/feature-114231306.jpg?v=1740083197.904",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-4067484/details/feature-114231311.jpg?v=1740083197.904",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2019-honda-odyssey-ex-l",
+    "priceUpdateDate": "2025-02-20T19:53:10.834Z",
+    "previousPrice": 27590.0,
+    "locationId": 43,
+    "stockRecallStatusType": 0,
+    "vin": "5FNRL6H78KB089307",
+    "vehicleTags": [
+      {
+        "tagId": 103,
+        "tagCategoryId": 1,
+        "tagKey": "RecentPriceDrop",
+        "tagName": "New Price",
+        "tagDescription": "New Price",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/178720173/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1739506287.314",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/178720173/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1739506287.314",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "",
+        "frameCount": 0,
+        "fps": 0.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 343,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003441159,
+    "vehicleId": 3454413,
+    "make": "Chrysler",
+    "parentModel": "Voyager",
+    "model": "Voyager",
+    "trim": "LXi",
+    "kbbTrim": "LXi Minivan 4D",
+    "color": "Black",
+    "interiorColor": "Black",
+    "bodyStyle": "MiniVan",
+    "mileage": 73702,
+    "milesPerGallon": 22,
+    "fuelType": "Gas",
+    "price": {
+      "total": 20990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 420.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 18947.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1679.2
+    },
+    "year": 2021,
+    "seatingCapacity": 7,
+    "imageUrl": "/2003441159/post-large/normalized/zoomcrop/2003441159-edc-02.jpg?v=2025.2.21_0.53.40",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2021_CHRYSLER_VOYAGER_LXI%20MINIVAN%204D_BLACK_stock_desktop_1920x1080.png?v=1664477569.006",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2021_CHRYSLER_VOYAGER_LXI%20MINIVAN%204D_BLACK_stock_mobile_640x640.png?v=1664477569.006",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003441159/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3954294/details/feature-109570855.jpg?v=1737671694.191",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-3954294/details/feature-109570859.jpg?v=1737671694.191",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3954294/details/feature-109570870.jpg?v=1737671694.191",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3954294/details/feature-109570861.jpg?v=1737671694.191",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3954294/details/feature-109570856.jpg?v=1737671694.191",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3954294/details/feature-109570862.jpg?v=1737671694.191",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2021-chrysler-voyager-lxi",
+    "priceUpdateDate": "2025-02-19T18:38:16.858Z",
+    "previousPrice": 21590.0,
+    "locationId": 43,
+    "stockRecallStatusType": 0,
+    "vin": "2C4RC1DG8MR534225",
+    "vehicleTags": [
+      {
+        "tagId": 103,
+        "tagCategoryId": 1,
+        "tagKey": "RecentPriceDrop",
+        "tagName": "New Price",
+        "tagDescription": "New Price",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "148pt",
+    "stores": [
+      "148pt"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/173622797/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1737696479.617",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/173622797/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1737696479.617",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "",
+        "frameCount": 0,
+        "fps": 0.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 343,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003345358,
+    "vehicleId": 3395726,
+    "make": "Chrysler",
+    "parentModel": "Pacifica",
+    "model": "Pacifica",
+    "trim": "Touring L",
+    "kbbTrim": "Touring L Van 4D",
+    "color": "Black",
+    "interiorColor": "Black",
+    "bodyStyle": "MiniVan",
+    "mileage": 63182,
+    "milesPerGallon": 22,
+    "fuelType": "Gas",
+    "price": {
+      "total": 22590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 452.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 23661.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1807.2
+    },
+    "year": 2022,
+    "seatingCapacity": 7,
+    "imageUrl": "/2003345358/post-large/normalized/zoomcrop/2003345358-edc-02.jpg?v=2025.2.21_0.53.40",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2022_CHRYSLER_PACIFICA_TOURING%20L%20VAN%204D_BLACK_stock_desktop_1920x1080.png?v=1662078017.775",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2022_CHRYSLER_PACIFICA_TOURING%20L%20VAN%204D_BLACK_stock_mobile_640x640.png?v=1662078017.775",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003345358/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-3900065/details/feature-107314898.jpg?v=1740079557.245",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3900065/details/feature-107314910.jpg?v=1740079557.245",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3900065/details/feature-107314900.jpg?v=1740079557.245",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3900065/details/feature-107314894.jpg?v=1740079557.245",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3900065/details/feature-107314901.jpg?v=1740079557.245",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2022-chrysler-pacifica-touring-l",
+    "priceUpdateDate": "2025-02-18T15:38:21.981Z",
+    "previousPrice": 22990.0,
+    "locationId": 300,
+    "stockRecallStatusType": 0,
+    "vin": "2C4RC1BG6NR189183",
+    "vehicleTags": [
+      {
+        "tagId": 103,
+        "tagCategoryId": 1,
+        "tagKey": "RecentPriceDrop",
+        "tagName": "New Price",
+        "tagDescription": "New Price",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 374,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003497609,
+    "vehicleId": 3495743,
+    "make": "Chrysler",
+    "parentModel": "Pacifica",
+    "model": "Pacifica",
+    "trim": "Touring L",
+    "kbbTrim": "Touring L Van 4D",
+    "color": "Gray",
+    "interiorColor": "Black",
+    "bodyStyle": "MiniVan",
+    "mileage": 65553,
+    "milesPerGallon": 22,
+    "fuelType": "Gas",
+    "price": {
+      "total": 22990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 460.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 23449.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1839.2
+    },
+    "year": 2022,
+    "seatingCapacity": 7,
+    "imageUrl": "/2003497609/post-large/normalized/zoomcrop/2003497609-edc-02.jpg?v=2025.2.21_0.53.40",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2022_CHRYSLER_PACIFICA_TOURING%20L%20VAN%204D_GRAY_stock_desktop_1920x1080.png?v=1674149136.971",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2022_CHRYSLER_PACIFICA_TOURING%20L%20VAN%204D_GRAY_stock_mobile_640x640.png?v=1674149136.971",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003497609/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4084410/details/feature-114891841.jpg?v=1740083624.366",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4084410/details/feature-114891853.jpg?v=1740083624.367",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4084410/details/feature-114891843.jpg?v=1740083624.366",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4084410/details/feature-114891837.jpg?v=1740083624.366",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-4084410/details/feature-114891844.jpg?v=1740083624.366",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2022-chrysler-pacifica-touring-l",
+    "locationId": 43,
+    "stockRecallStatusType": 0,
+    "vin": "2C4RC1BG4NR181728",
+    "vehicleTags": [
+      {
+        "tagId": 121,
+        "tagCategoryId": 1,
+        "tagKey": "RecentlyAdded",
+        "tagName": "Recently Added",
+        "tagDescription": "This vehicle has been made purchasable for the first time within the last 72 hours",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/179600927/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1739906857.060",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/179600927/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1739906857.060",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "https://vexgateway.fastly.carvana.io/executions/179600927/GAUSSIAN_RENDERER/poster.jpg?v=1739906857.060",
+        "frameCount": 969,
+        "fps": 30.0
+      },
+      {
+        "videoName": "srpvideo-swipe",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/179600927/GAUSSIAN_RENDERER/srpvideo-swipe.mp4?v=1739906857.060",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/179600927/GAUSSIAN_RENDERER/srpvideo-swipe-h265.mp4?v=1739906857.060",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "pauseFrames": [
+          {
+            "start": 0,
+            "end": 0
+          },
+          {
+            "start": 45,
+            "end": 49
+          },
+          {
+            "start": 69,
+            "end": 73
+          },
+          {
+            "start": 111,
+            "end": 115
+          },
+          {
+            "start": 149,
+            "end": 153
+          },
+          {
+            "start": 192,
+            "end": 196
+          },
+          {
+            "start": 235,
+            "end": 239
+          },
+          {
+            "start": 278,
+            "end": 282
+          },
+          {
+            "start": 321,
+            "end": 325
+          },
+          {
+            "start": 364,
+            "end": 368
+          },
+          {
+            "start": 407,
+            "end": 415
+          },
+          {
+            "start": 471,
+            "end": 475
+          },
+          {
+            "start": 531,
+            "end": 539
+          },
+          {
+            "start": 578,
+            "end": 582
+          },
+          {
+            "start": 621,
+            "end": 625
+          },
+          {
+            "start": 664,
+            "end": 668
+          },
+          {
+            "start": 707,
+            "end": 711
+          },
+          {
+            "start": 750,
+            "end": 754
+          },
+          {
+            "start": 793,
+            "end": 797
+          },
+          {
+            "start": 831,
+            "end": 835
+          },
+          {
+            "start": 873,
+            "end": 877
+          },
+          {
+            "start": 897,
+            "end": 901
+          },
+          {
+            "start": 946,
+            "end": 950
+          }
+        ],
+        "thumbnailURL": "https://vexgateway.fastly.carvana.io/executions/179600927/GAUSSIAN_RENDERER/srpvideo-swipe.jpg?v=1739906857.060",
+        "frameCount": 950,
+        "fps": 30.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 343,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 2
+  },
+  {
+    "stockNumber": 2003344436,
+    "vehicleId": 3391138,
+    "make": "Toyota",
+    "parentModel": "Sienna",
+    "model": "Sienna",
+    "trim": "L",
+    "kbbTrim": "L Minivan 4D",
+    "color": "Blue",
+    "interiorColor": "Gray",
+    "bodyStyle": "MiniVan",
+    "mileage": 68669,
+    "milesPerGallon": 22,
+    "fuelType": "Gas",
+    "price": {
+      "total": 23590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 472.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 19992.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1887.2
+    },
+    "year": 2017,
+    "seatingCapacity": 7,
+    "imageUrl": "/2003344436/post-large/normalized/zoomcrop/2003344436-edc-02.jpg?v=2025.2.21_0.53.40",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2017_TOYOTA_SIENNA_L%20MINIVAN%204D_BLUE_stock_desktop_1920x1080.png?v=1739318560.365",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2017_TOYOTA_SIENNA_L%20MINIVAN%204D_BLUE_stock_mobile_640x640.png?v=1739318560.365",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003344436/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4053322/details/feature-113648067.jpg?v=1739321256.333",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4053322/details/feature-113648070.jpg?v=1739321256.333",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4053322/details/feature-113648080.jpg?v=1739321256.333",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4053322/details/feature-113648072.jpg?v=1739321256.333",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4053322/details/feature-113648068.jpg?v=1739321256.333",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-4053322/details/feature-113648073.jpg?v=1739321256.333",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2017-toyota-sienna-l",
+    "priceUpdateDate": "2025-02-18T15:37:05.363Z",
+    "previousPrice": 23990.0,
+    "locationId": 43,
+    "stockRecallStatusType": 0,
+    "vin": "5TDZZ3DC1HS872585",
+    "vehicleTags": [
+      {
+        "tagId": 103,
+        "tagCategoryId": 1,
+        "tagKey": "RecentPriceDrop",
+        "tagName": "New Price",
+        "tagDescription": "New Price",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "148pt",
+    "stores": [
+      "148pt"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/178098987/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1739340011.244",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/178098987/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1739340011.244",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "",
+        "frameCount": 0,
+        "fps": 0.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 343,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  }
+]

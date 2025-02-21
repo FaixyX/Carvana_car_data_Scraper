@@ -1,0 +1,4246 @@
+[
+  {
+    "stockNumber": 2003496585,
+    "vehicleId": 3496401,
+    "make": "Kia",
+    "parentModel": "Soul",
+    "model": "Soul",
+    "trim": "LX",
+    "kbbTrim": "LX Wagon 4D",
+    "color": "Gray",
+    "interiorColor": "Black",
+    "bodyStyle": "Wagon",
+    "mileage": 14187,
+    "milesPerGallon": 30,
+    "fuelType": "Gas",
+    "price": {
+      "total": 17990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 360.0,
+      "downPayment": 290.0,
+      "downPaymentDetails": {
+        "totalCashDue": 290.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 290.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 290.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 18769.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1439.2
+    },
+    "year": 2024,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003496585/post-large/normalized/zoomcrop/2003496585-edc-02.jpg?v=2025.2.21_0.54.33",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_KIA_SOUL_LX%20WAGON%204D_GRAY_stock_desktop_1920x1080.png?v=1714482205.750",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_KIA_SOUL_LX%20WAGON%204D_GRAY_stock_mobile_640x640.png?v=1714482205.750",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003496585/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4068153/details/feature-114254322.jpg?v=1739703957.248",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4068153/details/feature-114254325.jpg?v=1739703957.248",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4068153/details/feature-114254335.jpg?v=1739703957.248",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4068153/details/feature-114254327.jpg?v=1739703957.248",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4068153/details/feature-114254323.jpg?v=1739703957.248",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-4068153/details/feature-114254328.jpg?v=1739703957.248",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 290,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2024-kia-soul-lx",
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "KNDJ23AU6R7240370",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [
+      "Partner-Retail",
+      "CoreOD"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  },
+  {
+    "stockNumber": 2003505089,
+    "vehicleId": 3494023,
+    "make": "Kia",
+    "parentModel": "Soul",
+    "model": "Soul",
+    "trim": "LX",
+    "kbbTrim": "LX Wagon 4D",
+    "color": "Gray",
+    "interiorColor": "Black",
+    "bodyStyle": "Wagon",
+    "mileage": 16916,
+    "milesPerGallon": 30,
+    "fuelType": "Gas",
+    "price": {
+      "total": 16990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 340.0,
+      "downPayment": 290.0,
+      "downPaymentDetails": {
+        "totalCashDue": 290.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 290.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 290.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 17714.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1359.2
+    },
+    "year": 2024,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003505089/post-large/normalized/zoomcrop/2003505089-edc-02.jpg?v=2025.2.21_0.54.33",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_KIA_SOUL_LX%20WAGON%204D_GRAY_stock_desktop_1920x1080.png?v=1714482205.750",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_KIA_SOUL_LX%20WAGON%204D_GRAY_stock_mobile_640x640.png?v=1714482205.750",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003505089/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4093345/details/feature-115268369.jpg?v=1739986874.404",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4093345/details/feature-115268372.jpg?v=1739986874.404",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4093345/details/feature-115268382.jpg?v=1739986874.404",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4093345/details/feature-115268374.jpg?v=1739986874.404",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4093345/details/feature-115268370.jpg?v=1739986874.404",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-4093345/details/feature-115268375.jpg?v=1739986874.404",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 290,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2024-kia-soul-lx",
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "KNDJ23AU1R7241345",
+    "vehicleTags": [
+      {
+        "tagId": 121,
+        "tagCategoryId": 1,
+        "tagKey": "RecentlyAdded",
+        "tagName": "Recently Added",
+        "tagDescription": "This vehicle has been made purchasable for the first time within the last 72 hours",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [
+      "Partner-Retail",
+      "CoreOD"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  },
+  {
+    "stockNumber": 2003267502,
+    "vehicleId": 3330320,
+    "make": "Kia",
+    "parentModel": "Niro EV",
+    "model": "Niro EV",
+    "trim": "EX",
+    "kbbTrim": "EX Wagon 4D",
+    "color": "Black",
+    "interiorColor": "Black",
+    "bodyStyle": "Wagon",
+    "mileage": 50966,
+    "milesPerGallon": 123,
+    "fuelType": "Electric",
+    "price": {
+      "total": 18590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 372.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 17235.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1487.2
+    },
+    "year": 2020,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003267502/post-large/normalized/zoomcrop/2003267502-edc-02.jpg?v=2025.2.21_0.54.33",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2020_KIA_NIRO%20EV_EX%20WAGON%204D_BLACK_stock_desktop_1920x1080.png?v=1645592331.400",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2020_KIA_NIRO%20EV_EX%20WAGON%204D_BLACK_stock_mobile_640x640.png?v=1645592331.400",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003267502/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3601810/details/feature-95306984.jpg?v=1733875541.784",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-3601810/details/feature-95306987.jpg?v=1733875541.784",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3601810/details/feature-95306998.jpg?v=1733875541.784",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3601810/details/feature-95306989.jpg?v=1733875541.784",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3601810/details/feature-95306985.jpg?v=1733875541.784",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3601810/details/feature-95306990.jpg?v=1733875541.784",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2020-kia-niro-ev-ex",
+    "priceUpdateDate": "2025-01-02T17:25:50.832Z",
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "KNDCC3LG6L5047412",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/158947210/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1740008925.029",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/158947210/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1740008925.029",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "https://vexgateway.fastly.carvana.io/executions/158947210/GAUSSIAN_RENDERER/poster.jpg?v=1740008925.029",
+        "frameCount": 969,
+        "fps": 30.0
+      },
+      {
+        "videoName": "srpvideo-swipe",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/158947210/GAUSSIAN_RENDERER/srpvideo-swipe.mp4?v=1740008925.029",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/158947210/GAUSSIAN_RENDERER/srpvideo-swipe-h265.mp4?v=1740008925.029",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "pauseFrames": [
+          {
+            "start": 0,
+            "end": 0
+          },
+          {
+            "start": 45,
+            "end": 49
+          },
+          {
+            "start": 69,
+            "end": 73
+          },
+          {
+            "start": 111,
+            "end": 115
+          },
+          {
+            "start": 149,
+            "end": 153
+          },
+          {
+            "start": 192,
+            "end": 196
+          },
+          {
+            "start": 235,
+            "end": 239
+          },
+          {
+            "start": 278,
+            "end": 282
+          },
+          {
+            "start": 321,
+            "end": 325
+          },
+          {
+            "start": 364,
+            "end": 368
+          },
+          {
+            "start": 407,
+            "end": 415
+          },
+          {
+            "start": 471,
+            "end": 475
+          },
+          {
+            "start": 531,
+            "end": 539
+          },
+          {
+            "start": 578,
+            "end": 582
+          },
+          {
+            "start": 621,
+            "end": 625
+          },
+          {
+            "start": 664,
+            "end": 668
+          },
+          {
+            "start": 707,
+            "end": 711
+          },
+          {
+            "start": 750,
+            "end": 754
+          },
+          {
+            "start": 793,
+            "end": 797
+          },
+          {
+            "start": 831,
+            "end": 835
+          },
+          {
+            "start": 873,
+            "end": 877
+          },
+          {
+            "start": 897,
+            "end": 901
+          },
+          {
+            "start": 946,
+            "end": 950
+          }
+        ],
+        "thumbnailURL": "https://vexgateway.fastly.carvana.io/executions/158947210/GAUSSIAN_RENDERER/srpvideo-swipe.jpg?v=1740008925.029",
+        "frameCount": 950,
+        "fps": 30.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  },
+  {
+    "stockNumber": 2003505006,
+    "vehicleId": 3496392,
+    "make": "Kia",
+    "parentModel": "Soul",
+    "model": "Soul",
+    "trim": "LX",
+    "kbbTrim": "LX Wagon 4D",
+    "color": "White",
+    "interiorColor": "Other",
+    "bodyStyle": "Wagon",
+    "mileage": 19282,
+    "milesPerGallon": 30,
+    "fuelType": "Gas",
+    "price": {
+      "total": 17990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 360.0,
+      "downPayment": 290.0,
+      "downPaymentDetails": {
+        "totalCashDue": 290.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 290.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 290.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 18481.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1439.2
+    },
+    "year": 2024,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003505006/post-large/normalized/zoomcrop/2003505006-edc-02.jpg?v=2025.2.21_0.54.33",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_KIA_SOUL_LX%20WAGON%204D_WHITE_stock_desktop_1920x1080.png?v=1722891766.411",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_KIA_SOUL_LX%20WAGON%204D_WHITE_stock_mobile_640x640.png?v=1722891766.411",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003505006/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4067833/details/feature-114243884.jpg?v=1739486370.664",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4067833/details/feature-114243887.jpg?v=1739486370.664",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4067833/details/feature-114243897.jpg?v=1739486370.664",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4067833/details/feature-114243889.jpg?v=1739486370.664",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4067833/details/feature-114243885.jpg?v=1739486370.664",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-4067833/details/feature-114243890.jpg?v=1739486370.664",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 290,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2024-kia-soul-lx",
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "KNDJ23AU7R7235050",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [
+      "Partner-Retail",
+      "CoreOD"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  },
+  {
+    "stockNumber": 2003478078,
+    "vehicleId": 3482283,
+    "make": "Kia",
+    "parentModel": "Soul",
+    "model": "Soul",
+    "trim": "LX",
+    "kbbTrim": "LX Wagon 4D",
+    "color": "White",
+    "interiorColor": "Black",
+    "bodyStyle": "Wagon",
+    "mileage": 20077,
+    "milesPerGallon": 30,
+    "fuelType": "Gas",
+    "price": {
+      "total": 17990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 360.0,
+      "downPayment": 290.0,
+      "downPaymentDetails": {
+        "totalCashDue": 290.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 290.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 290.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 18421.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1439.2
+    },
+    "year": 2024,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003478078/post-large/normalized/zoomcrop/2003478078-edc-02.jpg?v=2025.2.21_0.54.33",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_KIA_SOUL_LX%20WAGON%204D_WHITE_stock_desktop_1920x1080.png?v=1722891766.411",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_KIA_SOUL_LX%20WAGON%204D_WHITE_stock_mobile_640x640.png?v=1722891766.411",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003478078/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4023191/details/feature-112396901.jpg?v=1738851498.437",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4023191/details/feature-112396904.jpg?v=1738851498.437",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4023191/details/feature-112396914.jpg?v=1738851498.437",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4023191/details/feature-112396906.jpg?v=1738851498.437",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4023191/details/feature-112396902.jpg?v=1738851498.437",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-4023191/details/feature-112396907.jpg?v=1738851498.437",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 290,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2024-kia-soul-lx",
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "KNDJ23AU1R7238574",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [
+      "Partner-Retail",
+      "CoreOD"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  },
+  {
+    "stockNumber": 2003192358,
+    "vehicleId": 3297824,
+    "make": "Audi",
+    "parentModel": "A3",
+    "model": "A3 Sportback e-tron",
+    "trim": "Premium",
+    "kbbTrim": "Premium Wagon 4D",
+    "color": "White",
+    "interiorColor": "Black",
+    "bodyStyle": "Wagon",
+    "mileage": 48590,
+    "milesPerGallon": 36,
+    "fuelType": "Plug-In Hybrid",
+    "price": {
+      "total": 23990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 480.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 21024.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1919.2,
+      "evTaxCreditAppliedPrice": 19990.0,
+      "evTaxCredit": 4000.0
+    },
+    "year": 2018,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003192358/post-large/normalized/zoomcrop/2003192358-edc-02.jpg?v=2025.2.21_0.54.33",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2018_AUDI_A3%20SPORTBACK%20E-TRON_PREMIUM%20WAGON%204D_WHITE_stock_desktop_1920x1080.png?v=1647462588.995",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2018_AUDI_A3%20SPORTBACK%20E-TRON_PREMIUM%20WAGON%204D_WHITE_stock_mobile_640x640.png?v=1647462588.995",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003192358/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4044969/details/feature-113296474.jpg?v=1740078470.450",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4044969/details/feature-113296484.jpg?v=1740078470.450",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4044969/details/feature-113296476.jpg?v=1740078470.450",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4044969/details/feature-113296472.jpg?v=1740078470.450",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-4044969/details/feature-113296477.jpg?v=1740078470.450",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2018-audi-a3-sportback-e-tron-premium",
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "WAUUPBFF8JA062520",
+    "vehicleTags": [
+      {
+        "tagId": 116,
+        "tagCategoryId": 1,
+        "tagKey": "EvTaxCreditMayBeEligible",
+        "tagName": "Clean Vehicle Tax Credit",
+        "tagDescription": "This vehicle may be eligible for a tax credit of up to $4000, subject to the requirements of Internal Revenue Code \u00a725E",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [
+      "CoreOD"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  },
+  {
+    "stockNumber": 2003485898,
+    "vehicleId": 3484640,
+    "make": "Kia",
+    "parentModel": "Soul",
+    "model": "Soul",
+    "trim": "LX",
+    "kbbTrim": "LX Wagon 4D",
+    "color": "Gray",
+    "interiorColor": "Black",
+    "bodyStyle": "Wagon",
+    "mileage": 23649,
+    "milesPerGallon": 30,
+    "fuelType": "Gas",
+    "price": {
+      "total": 18590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 372.0,
+      "downPayment": 290.0,
+      "downPaymentDetails": {
+        "totalCashDue": 290.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 290.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 290.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 18127.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1487.2
+    },
+    "year": 2023,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003485898/post-large/normalized/zoomcrop/2003485898-edc-02.jpg?v=2025.2.21_0.54.33",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2023_KIA_SOUL_LX%20WAGON%204D_GRAY_stock_desktop_1920x1080.png?v=1688389346.473",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2023_KIA_SOUL_LX%20WAGON%204D_GRAY_stock_mobile_640x640.png?v=1688389346.473",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003485898/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4062711/details/feature-114009641.jpg?v=1739462797.798",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4062711/details/feature-114009644.jpg?v=1739462797.798",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4062711/details/feature-114009654.jpg?v=1739462797.798",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4062711/details/feature-114009646.jpg?v=1739462797.798",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4062711/details/feature-114009642.jpg?v=1739462797.798",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-4062711/details/feature-114009647.jpg?v=1739462797.798",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 290,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2023-kia-soul-lx",
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "KNDJ23AU4P7882518",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [
+      "Partner-Retail",
+      "CoreOD"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  },
+  {
+    "stockNumber": 2003254647,
+    "vehicleId": 3317820,
+    "make": "Kia",
+    "parentModel": "Soul",
+    "model": "Soul",
+    "trim": "LX",
+    "kbbTrim": "LX Wagon 4D",
+    "color": "Gray",
+    "interiorColor": "Other",
+    "bodyStyle": "Wagon",
+    "mileage": 38571,
+    "milesPerGallon": 30,
+    "fuelType": "Gas",
+    "price": {
+      "total": 17590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 352.0,
+      "downPayment": 290.0,
+      "downPaymentDetails": {
+        "totalCashDue": 290.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 290.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 290.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 17028.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1407.2
+    },
+    "year": 2023,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003254647/post-large/normalized/zoomcrop/2003254647-edc-02.jpg?v=2025.2.21_0.54.33",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2023_KIA_SOUL_LX%20WAGON%204D_GRAY_stock_desktop_1920x1080.png?v=1688389346.473",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2023_KIA_SOUL_LX%20WAGON%204D_GRAY_stock_mobile_640x640.png?v=1688389346.473",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003254647/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3649641/details/feature-97263671.jpg?v=1737054245.858",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-3649641/details/feature-97263674.jpg?v=1737054245.858",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3649641/details/feature-97263683.jpg?v=1737054245.858",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3649641/details/feature-97263676.jpg?v=1737054245.858",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3649641/details/feature-97263672.jpg?v=1737054245.858",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3649641/details/feature-97263677.jpg?v=1737054245.858",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 290,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2023-kia-soul-lx",
+    "priceUpdateDate": "2025-02-03T16:33:46.444Z",
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "KNDJ23AU0P7852948",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [
+      "Partner-Retail",
+      "CoreOD"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  },
+  {
+    "stockNumber": 2003458226,
+    "vehicleId": 3467616,
+    "make": "Kia",
+    "parentModel": "Soul",
+    "model": "Soul",
+    "trim": "LX",
+    "kbbTrim": "LX Wagon 4D",
+    "color": "Gray",
+    "interiorColor": "Black",
+    "bodyStyle": "Wagon",
+    "mileage": 38573,
+    "milesPerGallon": 30,
+    "fuelType": "Gas",
+    "price": {
+      "total": 17590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 352.0,
+      "downPayment": 290.0,
+      "downPaymentDetails": {
+        "totalCashDue": 290.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 290.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 290.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 17028.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1407.2
+    },
+    "year": 2023,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003458226/post-large/normalized/zoomcrop/2003458226-edc-02.jpg?v=2025.2.21_0.54.33",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2023_KIA_SOUL_LX%20WAGON%204D_GRAY_stock_desktop_1920x1080.png?v=1688389346.473",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2023_KIA_SOUL_LX%20WAGON%204D_GRAY_stock_mobile_640x640.png?v=1688389346.473",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003458226/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4031047/details/feature-112732709.jpg?v=1738939731.124",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4031047/details/feature-112732712.jpg?v=1738939731.124",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4031047/details/feature-112732722.jpg?v=1738939731.124",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4031047/details/feature-112732714.jpg?v=1738939731.124",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4031047/details/feature-112732710.jpg?v=1738939731.124",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-4031047/details/feature-112732715.jpg?v=1738939731.124",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 290,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2023-kia-soul-lx",
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "KNDJ23AU3P7861420",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [
+      "Partner-Retail",
+      "CoreOD"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  },
+  {
+    "stockNumber": 2003370118,
+    "vehicleId": 3399812,
+    "make": "Kia",
+    "parentModel": "Soul",
+    "model": "Soul",
+    "trim": "LX",
+    "kbbTrim": "LX Wagon 4D",
+    "color": "White",
+    "interiorColor": "Black",
+    "bodyStyle": "Wagon",
+    "mileage": 39853,
+    "milesPerGallon": 30,
+    "fuelType": "Gas",
+    "price": {
+      "total": 16990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 340.0,
+      "downPayment": 290.0,
+      "downPaymentDetails": {
+        "totalCashDue": 290.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 290.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 290.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 16956.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1359.2
+    },
+    "year": 2023,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003370118/post-large/normalized/zoomcrop/2003370118-edc-02.jpg?v=2025.2.21_0.54.33",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2023_KIA_SOUL_LX%20WAGON%204D_WHITE_stock_desktop_1920x1080.png?v=1689005602.982",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2023_KIA_SOUL_LX%20WAGON%204D_WHITE_stock_mobile_640x640.png?v=1689005602.982",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003370118/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3943621/details/feature-109082718.jpg?v=1737568350.128",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-3943621/details/feature-109082721.jpg?v=1737568350.128",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3943621/details/feature-109082731.jpg?v=1737568350.128",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3943621/details/feature-109082723.jpg?v=1737568350.128",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3943621/details/feature-109082719.jpg?v=1737568350.128",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3943621/details/feature-109082724.jpg?v=1737568350.128",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 290,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2023-kia-soul-lx",
+    "priceUpdateDate": "2025-02-03T16:33:39.41Z",
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "KNDJ23AU1P7877809",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [
+      "Partner-Retail",
+      "CoreOD"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  },
+  {
+    "stockNumber": 2003254658,
+    "vehicleId": 3317825,
+    "make": "Kia",
+    "parentModel": "Soul",
+    "model": "Soul",
+    "trim": "LX",
+    "kbbTrim": "LX Wagon 4D",
+    "color": "White",
+    "interiorColor": "Other",
+    "bodyStyle": "Wagon",
+    "mileage": 41297,
+    "milesPerGallon": 30,
+    "fuelType": "Gas",
+    "price": {
+      "total": 16590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 332.0,
+      "downPayment": 290.0,
+      "downPaymentDetails": {
+        "totalCashDue": 290.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 290.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 290.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 16848.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1327.2
+    },
+    "year": 2023,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003254658/post-large/normalized/zoomcrop/2003254658-edc-02.jpg?v=2025.2.21_0.54.33",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2023_KIA_SOUL_LX%20WAGON%204D_WHITE_stock_desktop_1920x1080.png?v=1689005602.982",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2023_KIA_SOUL_LX%20WAGON%204D_WHITE_stock_mobile_640x640.png?v=1689005602.982",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003254658/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3557450/details/feature-93455905.jpg?v=1737996664.378",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-3557450/details/feature-93455908.jpg?v=1737996664.378",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3557450/details/feature-93455917.jpg?v=1737996664.378",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3557450/details/feature-93455910.jpg?v=1737996664.378",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3557450/details/feature-93455906.jpg?v=1737996664.378",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3557450/details/feature-93455911.jpg?v=1737996664.378",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 290,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2023-kia-soul-lx",
+    "priceUpdateDate": "2025-01-13T16:54:00.719Z",
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "KNDJ23AU8P7856651",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [
+      "Partner-Retail",
+      "CoreOD"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  },
+  {
+    "stockNumber": 2003298406,
+    "vehicleId": 3359980,
+    "make": "Kia",
+    "parentModel": "Soul EV",
+    "model": "Soul EV",
+    "trim": "e",
+    "kbbTrim": "e Wagon 4D",
+    "color": "Gray",
+    "interiorColor": "Gray",
+    "bodyStyle": "Wagon",
+    "mileage": 31698,
+    "milesPerGallon": 120,
+    "fuelType": "Electric",
+    "price": {
+      "total": 12790.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 256.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 13425.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1023.2
+    },
+    "year": 2017,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003298406/post-large/normalized/zoomcrop/2003298406-edc-02.jpg?v=2025.2.21_0.54.33",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2017_KIA_SOUL%20EV_E%20WAGON%204D_GRAY_stock_desktop_1920x1080.png?v=1650501401.163",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2017_KIA_SOUL%20EV_E%20WAGON%204D_GRAY_stock_mobile_640x640.png?v=1650501401.163",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003298406/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3637938/details/feature-96776555.jpg?v=1739401477.921",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-3637938/details/feature-96776558.jpg?v=1739401477.921",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3637938/details/feature-96776569.jpg?v=1739401477.921",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3637938/details/feature-96776560.jpg?v=1739401477.921",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3637938/details/feature-96776556.jpg?v=1739401477.921",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3637938/details/feature-96776561.jpg?v=1739401477.921",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2017-kia-soul-ev-e",
+    "priceUpdateDate": "2025-02-17T19:03:51.479Z",
+    "previousPrice": 12990.0,
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "KNDJP3AEXH7018844",
+    "vehicleTags": [
+      {
+        "tagId": 103,
+        "tagCategoryId": 1,
+        "tagKey": "RecentPriceDrop",
+        "tagName": "New Price",
+        "tagDescription": "New Price",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/160060478/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1731957540.547",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/160060478/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1731957540.547",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "",
+        "frameCount": 0,
+        "fps": 0.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  },
+  {
+    "stockNumber": 2003234775,
+    "vehicleId": 3305525,
+    "make": "Kia",
+    "parentModel": "Soul",
+    "model": "Soul",
+    "trim": "base",
+    "kbbTrim": "Wagon 4D",
+    "color": "White",
+    "interiorColor": "Other",
+    "bodyStyle": "Wagon",
+    "mileage": 17014,
+    "milesPerGallon": 27,
+    "fuelType": "Gas",
+    "price": {
+      "total": 16590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 332.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 10380.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1327.2
+    },
+    "year": 2017,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003234775/post-large/normalized/zoomcrop/2003234775-edc-02.jpg?v=2025.2.21_0.54.33",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2017_KIA_SOUL_WAGON%204D_WHITE_stock_desktop_1920x1080.png?v=1645522663.326",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2017_KIA_SOUL_WAGON%204D_WHITE_stock_mobile_640x640.png?v=1645522663.326",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003234775/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3697013/details/feature-99178076.jpg?v=1736863396.092",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-3697013/details/feature-99178079.jpg?v=1736863396.092",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3697013/details/feature-99178088.jpg?v=1736863396.092",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3697013/details/feature-99178081.jpg?v=1736863396.092",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3697013/details/feature-99178077.jpg?v=1736863396.092",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3697013/details/feature-99178082.jpg?v=1736863396.092",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2017-kia-soul-base",
+    "priceUpdateDate": "2025-02-11T17:26:19.337Z",
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "KNDJN2A25H7420860",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [
+      "CoreOD"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  },
+  {
+    "stockNumber": 2003411114,
+    "vehicleId": 3441257,
+    "make": "Kia",
+    "parentModel": "Soul EV",
+    "model": "Soul EV",
+    "trim": "+",
+    "kbbTrim": "+ Wagon 4D",
+    "color": "Black",
+    "interiorColor": "Gray",
+    "bodyStyle": "Wagon",
+    "mileage": 36243,
+    "milesPerGallon": 120,
+    "fuelType": "Electric",
+    "price": {
+      "total": 11990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 240.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 6854.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 959.2
+    },
+    "year": 2016,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003411114/post-large/normalized/zoomcrop/2003411114-edc-02.jpg?v=2025.2.21_0.54.33",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2016_KIA_SOUL%20EV_+%20WAGON%204D_BLACK_stock_desktop_1920x1080.png?v=1645396092.193",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2016_KIA_SOUL%20EV_+%20WAGON%204D_BLACK_stock_mobile_640x640.png?v=1645396092.193",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003411114/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-3991624/details/feature-111097448.jpg?v=1740081355.994",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3991624/details/feature-111097460.jpg?v=1740081355.994",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3991624/details/feature-111097450.jpg?v=1740081355.994",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3991624/details/feature-111097446.jpg?v=1740081355.994",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3991624/details/feature-111097451.jpg?v=1740081355.994",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2016-kia-soul-ev-",
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "KNDJX3AE9G7011527",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/175247054/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1738287836.587",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/175247054/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1738287836.587",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "",
+        "frameCount": 0,
+        "fps": 0.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  },
+  {
+    "stockNumber": 2003301064,
+    "vehicleId": 3363606,
+    "make": "Ford",
+    "parentModel": "C-MAX",
+    "model": "C-MAX Energi",
+    "trim": "SE",
+    "kbbTrim": "SE Wagon 4D",
+    "color": "Gray",
+    "interiorColor": "Other",
+    "bodyStyle": "Wagon",
+    "mileage": 40314,
+    "milesPerGallon": 39,
+    "fuelType": "Plug-In Hybrid",
+    "price": {
+      "total": 16590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 332.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 13011.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1327.2,
+      "evTaxCreditAppliedPrice": 12590.0,
+      "evTaxCredit": 4000.0
+    },
+    "year": 2017,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003301064/post-large/normalized/zoomcrop/2003301064-edc-02.jpg?v=2025.2.21_0.54.33",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2017_FORD_C-MAX%20ENERGI_SE%20WAGON%204D_GRAY_stock_desktop_1920x1080.png?v=1645522233.717",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2017_FORD_C-MAX%20ENERGI_SE%20WAGON%204D_GRAY_stock_mobile_640x640.png?v=1645522233.717",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003301064/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3804526/details/feature-103485907.jpg?v=1734713474.385",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-3804526/details/feature-103485910.jpg?v=1734713474.385",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3804526/details/feature-103485920.jpg?v=1734713474.385",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3804526/details/feature-103485912.jpg?v=1734713474.385",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3804526/details/feature-103485908.jpg?v=1734713474.385",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3804526/details/feature-103485913.jpg?v=1734713474.385",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2017-ford-c-max-energi-se",
+    "priceUpdateDate": "2025-01-03T15:27:55.837Z",
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "1FADP5EU9HL100426",
+    "vehicleTags": [
+      {
+        "tagId": 116,
+        "tagCategoryId": 1,
+        "tagKey": "EvTaxCreditMayBeEligible",
+        "tagName": "Clean Vehicle Tax Credit",
+        "tagDescription": "This vehicle may be eligible for a tax credit of up to $4000, subject to the requirements of Internal Revenue Code \u00a725E",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/167225197/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1740037472.292",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/167225197/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1740037472.292",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "https://vexgateway.fastly.carvana.io/executions/167225197/GAUSSIAN_RENDERER/poster.jpg?v=1740037472.292",
+        "frameCount": 556,
+        "fps": 30.0
+      },
+      {
+        "videoName": "srpvideo-swipe",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/167225197/GAUSSIAN_RENDERER/srpvideo-swipe.mp4?v=1740037472.293",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/167225197/GAUSSIAN_RENDERER/srpvideo-swipe-h265.mp4?v=1740037472.293",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "pauseFrames": [
+          {
+            "start": 0,
+            "end": 0
+          },
+          {
+            "start": 45,
+            "end": 49
+          },
+          {
+            "start": 69,
+            "end": 73
+          },
+          {
+            "start": 111,
+            "end": 115
+          },
+          {
+            "start": 149,
+            "end": 153
+          },
+          {
+            "start": 192,
+            "end": 196
+          },
+          {
+            "start": 235,
+            "end": 239
+          },
+          {
+            "start": 278,
+            "end": 282
+          },
+          {
+            "start": 321,
+            "end": 325
+          },
+          {
+            "start": 364,
+            "end": 368
+          },
+          {
+            "start": 407,
+            "end": 415
+          },
+          {
+            "start": 471,
+            "end": 475
+          },
+          {
+            "start": 531,
+            "end": 539
+          },
+          {
+            "start": 578,
+            "end": 582
+          },
+          {
+            "start": 621,
+            "end": 625
+          },
+          {
+            "start": 664,
+            "end": 668
+          },
+          {
+            "start": 707,
+            "end": 711
+          },
+          {
+            "start": 750,
+            "end": 754
+          },
+          {
+            "start": 793,
+            "end": 797
+          },
+          {
+            "start": 831,
+            "end": 835
+          },
+          {
+            "start": 873,
+            "end": 877
+          },
+          {
+            "start": 897,
+            "end": 901
+          },
+          {
+            "start": 946,
+            "end": 950
+          }
+        ],
+        "thumbnailURL": "https://vexgateway.fastly.carvana.io/executions/167225197/GAUSSIAN_RENDERER/srpvideo-swipe.jpg?v=1740037472.293",
+        "frameCount": 950,
+        "fps": 30.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  },
+  {
+    "stockNumber": 2003508307,
+    "vehicleId": 3500597,
+    "make": "Kia",
+    "parentModel": "Niro EV",
+    "model": "Niro EV",
+    "trim": "EX",
+    "kbbTrim": "EX Wagon 4D",
+    "color": "Gray",
+    "interiorColor": "Black",
+    "bodyStyle": "Wagon",
+    "mileage": 15100,
+    "milesPerGallon": 123,
+    "fuelType": "Electric",
+    "price": {
+      "total": 23990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 480.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 21379.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1919.2,
+      "evTaxCreditAppliedPrice": 19990.0,
+      "evTaxCredit": 4000.0
+    },
+    "year": 2022,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003508307/post-large/normalized/zoomcrop/2003508307-edc-02.jpg?v=2025.2.21_0.54.33",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2022_KIA_NIRO%20EV_EX%20WAGON%204D_GRAY_stock_desktop_1920x1080.png?v=1662145764.055",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2022_KIA_NIRO%20EV_EX%20WAGON%204D_GRAY_stock_mobile_640x640.png?v=1662145764.055",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003508307/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4084447/details/feature-114894092.jpg?v=1739897788.619",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4084447/details/feature-114894095.jpg?v=1739897788.619",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4084447/details/feature-114894107.jpg?v=1739897788.619",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4084447/details/feature-114894097.jpg?v=1739897788.619",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4084447/details/feature-114894093.jpg?v=1739897788.619",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-4084447/details/feature-114894098.jpg?v=1739897788.619",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2022-kia-niro-ev-ex",
+    "locationId": 43,
+    "stockRecallStatusType": 0,
+    "vin": "KNDCC3LG9N5141867",
+    "vehicleTags": [
+      {
+        "tagId": 116,
+        "tagCategoryId": 1,
+        "tagKey": "EvTaxCreditMayBeEligible",
+        "tagName": "Clean Vehicle Tax Credit",
+        "tagDescription": "This vehicle may be eligible for a tax credit of up to $4000, subject to the requirements of Internal Revenue Code \u00a725E",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      },
+      {
+        "tagId": 121,
+        "tagCategoryId": 1,
+        "tagKey": "RecentlyAdded",
+        "tagName": "Recently Added",
+        "tagDescription": "This vehicle has been made purchasable for the first time within the last 72 hours",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/179602129/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1739906958.951",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/179602129/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1739906958.951",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "https://vexgateway.fastly.carvana.io/executions/179602129/GAUSSIAN_RENDERER/poster.jpg?v=1739906958.951",
+        "frameCount": 969,
+        "fps": 30.0
+      },
+      {
+        "videoName": "srpvideo-swipe",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/179602129/GAUSSIAN_RENDERER/srpvideo-swipe.mp4?v=1739906958.951",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/179602129/GAUSSIAN_RENDERER/srpvideo-swipe-h265.mp4?v=1739906958.951",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "pauseFrames": [
+          {
+            "start": 0,
+            "end": 0
+          },
+          {
+            "start": 45,
+            "end": 49
+          },
+          {
+            "start": 69,
+            "end": 73
+          },
+          {
+            "start": 111,
+            "end": 115
+          },
+          {
+            "start": 149,
+            "end": 153
+          },
+          {
+            "start": 192,
+            "end": 196
+          },
+          {
+            "start": 235,
+            "end": 239
+          },
+          {
+            "start": 278,
+            "end": 282
+          },
+          {
+            "start": 321,
+            "end": 325
+          },
+          {
+            "start": 364,
+            "end": 368
+          },
+          {
+            "start": 407,
+            "end": 415
+          },
+          {
+            "start": 471,
+            "end": 475
+          },
+          {
+            "start": 531,
+            "end": 539
+          },
+          {
+            "start": 578,
+            "end": 582
+          },
+          {
+            "start": 621,
+            "end": 625
+          },
+          {
+            "start": 664,
+            "end": 668
+          },
+          {
+            "start": 707,
+            "end": 711
+          },
+          {
+            "start": 750,
+            "end": 754
+          },
+          {
+            "start": 793,
+            "end": 797
+          },
+          {
+            "start": 831,
+            "end": 835
+          },
+          {
+            "start": 873,
+            "end": 877
+          },
+          {
+            "start": 897,
+            "end": 901
+          },
+          {
+            "start": 946,
+            "end": 950
+          }
+        ],
+        "thumbnailURL": "https://vexgateway.fastly.carvana.io/executions/179602129/GAUSSIAN_RENDERER/srpvideo-swipe.jpg?v=1739906958.951",
+        "frameCount": 950,
+        "fps": 30.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 343,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003455699,
+    "vehicleId": 3468950,
+    "make": "Kia",
+    "parentModel": "Niro EV",
+    "model": "Niro EV",
+    "trim": "EX",
+    "kbbTrim": "EX Wagon 4D",
+    "color": "Blue",
+    "interiorColor": "Black",
+    "bodyStyle": "Wagon",
+    "mileage": 24433,
+    "milesPerGallon": 123,
+    "fuelType": "Electric",
+    "price": {
+      "total": 22990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 460.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 20743.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1839.2,
+      "evTaxCreditAppliedPrice": 18990.0,
+      "evTaxCredit": 4000.0
+    },
+    "year": 2022,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003455699/post-large/normalized/zoomcrop/2003455699-edc-02.jpg?v=2025.2.21_0.54.33",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2022_KIA_NIRO%20EV_EX%20WAGON%204D_BLUE_stock_desktop_1920x1080.png?v=1696962668.323",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2022_KIA_NIRO%20EV_EX%20WAGON%204D_BLUE_stock_mobile_640x640.png?v=1696962668.323",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003455699/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4023271/details/feature-112399994.jpg?v=1738795882.259",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4023271/details/feature-112399997.jpg?v=1738795882.259",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4023271/details/feature-112400009.jpg?v=1738795882.259",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4023271/details/feature-112399999.jpg?v=1738795882.259",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4023271/details/feature-112399995.jpg?v=1738795882.259",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-4023271/details/feature-112400000.jpg?v=1738795882.259",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2022-kia-niro-ev-ex",
+    "priceUpdateDate": "2025-02-17T19:03:52.808Z",
+    "previousPrice": 23590.0,
+    "locationId": 43,
+    "stockRecallStatusType": 0,
+    "vin": "KNDCC3LG8N5142167",
+    "vehicleTags": [
+      {
+        "tagId": 103,
+        "tagCategoryId": 1,
+        "tagKey": "RecentPriceDrop",
+        "tagName": "New Price",
+        "tagDescription": "New Price",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      },
+      {
+        "tagId": 116,
+        "tagCategoryId": 1,
+        "tagKey": "EvTaxCreditMayBeEligible",
+        "tagName": "Clean Vehicle Tax Credit",
+        "tagDescription": "This vehicle may be eligible for a tax credit of up to $4000, subject to the requirements of Internal Revenue Code \u00a725E",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/176674449/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1738816478.170",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/176674449/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1738816478.170",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "",
+        "frameCount": 0,
+        "fps": 0.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 343,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003350251,
+    "vehicleId": 3405642,
+    "make": "Kia",
+    "parentModel": "Niro EV",
+    "model": "Niro EV",
+    "trim": "Wind",
+    "kbbTrim": "Wind Wagon 4D",
+    "color": "Red",
+    "interiorColor": "Black",
+    "bodyStyle": "Wagon",
+    "mileage": 21425,
+    "milesPerGallon": 126,
+    "fuelType": "Electric",
+    "price": {
+      "total": 24990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 500.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 20524.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1999.2
+    },
+    "year": 2024,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003350251/post-large/normalized/zoomcrop/2003350251-edc-02.jpg?v=2025.2.21_0.54.33",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_KIA_NIRO%20EV_WIND%20WAGON%204D_RED_stock_desktop_1920x1080.png?v=1731505778.188",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_KIA_NIRO%20EV_WIND%20WAGON%204D_RED_stock_mobile_640x640.png?v=1731505778.188",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003350251/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-3787418/details/feature-102787567.jpg?v=1740079666.769",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3787418/details/feature-102787578.jpg?v=1740079666.769",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3787418/details/feature-102787569.jpg?v=1740079666.769",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3787418/details/feature-102787565.jpg?v=1740079666.769",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3787418/details/feature-102787570.jpg?v=1740079666.769",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2024-kia-niro-ev-wind",
+    "priceUpdateDate": "2025-02-18T15:36:22.16Z",
+    "previousPrice": 25590.0,
+    "locationId": 300,
+    "stockRecallStatusType": 0,
+    "vin": "KNDCR3L18R5099451",
+    "vehicleTags": [
+      {
+        "tagId": 103,
+        "tagCategoryId": 1,
+        "tagKey": "RecentPriceDrop",
+        "tagName": "New Price",
+        "tagDescription": "New Price",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/166447838/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1740031638.657",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/166447838/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1740031638.657",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "https://vexgateway.fastly.carvana.io/executions/166447838/GAUSSIAN_RENDERER/poster.jpg?v=1740031638.657",
+        "frameCount": 969,
+        "fps": 30.0
+      },
+      {
+        "videoName": "srpvideo-swipe",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/166447838/GAUSSIAN_RENDERER/srpvideo-swipe.mp4?v=1740031638.657",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/166447838/GAUSSIAN_RENDERER/srpvideo-swipe-h265.mp4?v=1740031638.657",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "pauseFrames": [
+          {
+            "start": 0,
+            "end": 0
+          },
+          {
+            "start": 45,
+            "end": 49
+          },
+          {
+            "start": 69,
+            "end": 73
+          },
+          {
+            "start": 111,
+            "end": 115
+          },
+          {
+            "start": 149,
+            "end": 153
+          },
+          {
+            "start": 192,
+            "end": 196
+          },
+          {
+            "start": 235,
+            "end": 239
+          },
+          {
+            "start": 278,
+            "end": 282
+          },
+          {
+            "start": 321,
+            "end": 325
+          },
+          {
+            "start": 364,
+            "end": 368
+          },
+          {
+            "start": 407,
+            "end": 415
+          },
+          {
+            "start": 471,
+            "end": 475
+          },
+          {
+            "start": 531,
+            "end": 539
+          },
+          {
+            "start": 578,
+            "end": 582
+          },
+          {
+            "start": 621,
+            "end": 625
+          },
+          {
+            "start": 664,
+            "end": 668
+          },
+          {
+            "start": 707,
+            "end": 711
+          },
+          {
+            "start": 750,
+            "end": 754
+          },
+          {
+            "start": 793,
+            "end": 797
+          },
+          {
+            "start": 831,
+            "end": 835
+          },
+          {
+            "start": 873,
+            "end": 877
+          },
+          {
+            "start": 897,
+            "end": 901
+          },
+          {
+            "start": 946,
+            "end": 950
+          }
+        ],
+        "thumbnailURL": "https://vexgateway.fastly.carvana.io/executions/166447838/GAUSSIAN_RENDERER/srpvideo-swipe.jpg?v=1740031638.657",
+        "frameCount": 950,
+        "fps": 30.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 374,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 2
+  },
+  {
+    "stockNumber": 2003408539,
+    "vehicleId": 3463196,
+    "make": "Kia",
+    "parentModel": "Niro",
+    "model": "Niro Plug-in Hybrid",
+    "trim": "LXS",
+    "kbbTrim": "LXS Wagon 4D",
+    "color": "White",
+    "interiorColor": "Black",
+    "bodyStyle": "Wagon",
+    "mileage": 17609,
+    "milesPerGallon": 46,
+    "fuelType": "Plug-In Hybrid",
+    "price": {
+      "total": 22590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 452.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 20086.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1807.2
+    },
+    "year": 2020,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003408539/post-large/normalized/zoomcrop/2003408539-edc-02.jpg?v=2025.2.21_0.54.33",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2020_KIA_NIRO%20PLUG-IN%20HYBRID_LXS%20WAGON%204D_WHITE_stock_desktop_1920x1080.png?v=1645602624.326",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2020_KIA_NIRO%20PLUG-IN%20HYBRID_LXS%20WAGON%204D_WHITE_stock_mobile_640x640.png?v=1645602624.326",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003408539/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3978417/details/feature-110559872.jpg?v=1738151304.823",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-3978417/details/feature-110559875.jpg?v=1738151304.823",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3978417/details/feature-110559885.jpg?v=1738151304.823",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3978417/details/feature-110559877.jpg?v=1738151304.823",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3978417/details/feature-110559873.jpg?v=1738151304.823",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3978417/details/feature-110559878.jpg?v=1738151304.823",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2020-kia-niro-plug-in-hybrid-lxs",
+    "priceUpdateDate": "2025-02-18T15:37:45.772Z",
+    "previousPrice": 22990.0,
+    "locationId": 43,
+    "stockRecallStatusType": 0,
+    "vin": "KNDCM3LD3L5391718",
+    "vehicleTags": [
+      {
+        "tagId": 103,
+        "tagCategoryId": 1,
+        "tagKey": "RecentPriceDrop",
+        "tagName": "New Price",
+        "tagDescription": "New Price",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/174643964/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1738153851.116",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/174643964/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1738153851.116",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "",
+        "frameCount": 0,
+        "fps": 0.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 343,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003486743,
+    "vehicleId": 3493640,
+    "make": "Kia",
+    "parentModel": "Soul",
+    "model": "Soul",
+    "trim": "LX",
+    "kbbTrim": "LX Wagon 4D",
+    "color": "Gray",
+    "interiorColor": "Other",
+    "bodyStyle": "Wagon",
+    "mileage": 12118,
+    "milesPerGallon": 30,
+    "fuelType": "Gas",
+    "price": {
+      "total": 17990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 360.0,
+      "downPayment": 290.0,
+      "downPaymentDetails": {
+        "totalCashDue": 290.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 290.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 290.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 18879.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1439.2
+    },
+    "year": 2024,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003486743/post-large/normalized/zoomcrop/2003486743-edc-02.jpg?v=2025.2.21_0.54.33",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_KIA_SOUL_LX%20WAGON%204D_GRAY_stock_desktop_1920x1080.png?v=1714482205.750",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_KIA_SOUL_LX%20WAGON%204D_GRAY_stock_mobile_640x640.png?v=1714482205.750",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003486743/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4064507/details/feature-114109205.jpg?v=1739475157.856",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4064507/details/feature-114109208.jpg?v=1739475157.856",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4064507/details/feature-114109218.jpg?v=1739475157.856",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4064507/details/feature-114109210.jpg?v=1739475157.856",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4064507/details/feature-114109206.jpg?v=1739475157.856",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-4064507/details/feature-114109211.jpg?v=1739475157.856",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 290,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2024-kia-soul-lx",
+    "locationId": 300,
+    "stockRecallStatusType": 0,
+    "vin": "KNDJ23AU1R7239773",
+    "vehicleTags": [
+      {
+        "tagId": 121,
+        "tagCategoryId": 1,
+        "tagKey": "RecentlyAdded",
+        "tagName": "Recently Added",
+        "tagDescription": "This vehicle has been made purchasable for the first time within the last 72 hours",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [
+      "Partner-Retail"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/178627433/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1739488684.805",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/178627433/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1739488684.805",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "",
+        "frameCount": 0,
+        "fps": 0.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 374,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003453285,
+    "vehicleId": 3476626,
+    "make": "Kia",
+    "parentModel": "Niro EV",
+    "model": "Niro EV",
+    "trim": "EX Premium",
+    "kbbTrim": "EX Premium Wagon 4D",
+    "color": "White",
+    "interiorColor": "Black",
+    "bodyStyle": "Wagon",
+    "mileage": 22126,
+    "milesPerGallon": 123,
+    "fuelType": "Electric",
+    "price": {
+      "total": 20990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 420.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 20746.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1679.2
+    },
+    "year": 2020,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003453285/post-large/normalized/zoomcrop/2003453285-edc-02.jpg?v=2025.2.21_0.54.46",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2020_KIA_NIRO%20EV_EX%20PREMIUM%20WAGON%204D_WHITE_stock_desktop_1920x1080.png?v=1645599682.014",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2020_KIA_NIRO%20EV_EX%20PREMIUM%20WAGON%204D_WHITE_stock_mobile_640x640.png?v=1645599682.014",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003453285/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4022470/details/feature-112369286.jpg?v=1738788407.126",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4022470/details/feature-112369290.jpg?v=1738788407.126",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4022470/details/feature-112369302.jpg?v=1738788407.126",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4022470/details/feature-112369292.jpg?v=1738788407.126",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4022470/details/feature-112369288.jpg?v=1738788407.126",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-4022470/details/feature-112369293.jpg?v=1738788407.126",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2020-kia-niro-ev-ex-premium",
+    "priceUpdateDate": "2025-02-18T15:37:49.44Z",
+    "previousPrice": 21590.0,
+    "locationId": 43,
+    "stockRecallStatusType": 0,
+    "vin": "KNDCE3LG4L5071816",
+    "vehicleTags": [
+      {
+        "tagId": 103,
+        "tagCategoryId": 1,
+        "tagKey": "RecentPriceDrop",
+        "tagName": "New Price",
+        "tagDescription": "New Price",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/176619273/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1738807087.864",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/176619273/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1738807087.864",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "",
+        "frameCount": 0,
+        "fps": 0.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 343,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003270920,
+    "vehicleId": 3354996,
+    "make": "Kia",
+    "parentModel": "Soul",
+    "model": "Soul",
+    "trim": "LX",
+    "kbbTrim": "LX Wagon 4D",
+    "color": "Black",
+    "interiorColor": "Other",
+    "bodyStyle": "Wagon",
+    "mileage": 16860,
+    "milesPerGallon": 30,
+    "fuelType": "Gas",
+    "price": {
+      "total": 18590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 372.0,
+      "downPayment": 290.0,
+      "downPaymentDetails": {
+        "totalCashDue": 290.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 290.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 290.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 18627.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1487.2
+    },
+    "year": 2024,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003270920/post-large/normalized/zoomcrop/2003270920-edc-02.jpg?v=2025.2.21_0.54.46",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_KIA_SOUL_LX%20WAGON%204D_BLACK_stock_desktop_1920x1080.png?v=1726076895.338",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_KIA_SOUL_LX%20WAGON%204D_BLACK_stock_mobile_640x640.png?v=1726076895.338",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003270920/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3619169/details/feature-96033337.jpg?v=1733876329.720",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-3619169/details/feature-96033340.jpg?v=1733876329.720",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3619169/details/feature-96033349.jpg?v=1733876329.720",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3619169/details/feature-96033342.jpg?v=1733876329.720",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3619169/details/feature-96033338.jpg?v=1733876329.720",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3619169/details/feature-96033343.jpg?v=1733876329.720",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 290,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2024-kia-soul-lx",
+    "priceUpdateDate": "2025-01-22T19:23:54.145Z",
+    "locationId": 43,
+    "stockRecallStatusType": 0,
+    "vin": "KNDJ23AU8R7235770",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [
+      "Partner-Retail",
+      "CoreOD"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 343,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003487028,
+    "vehicleId": 3497012,
+    "make": "Kia",
+    "parentModel": "Soul",
+    "model": "Soul",
+    "trim": "LX",
+    "kbbTrim": "LX Wagon 4D",
+    "color": "Gray",
+    "interiorColor": "Black",
+    "bodyStyle": "Wagon",
+    "mileage": 14994,
+    "milesPerGallon": 30,
+    "fuelType": "Gas",
+    "price": {
+      "total": 17990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 360.0,
+      "downPayment": 290.0,
+      "downPaymentDetails": {
+        "totalCashDue": 290.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 290.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 290.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 18741.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1439.2
+    },
+    "year": 2024,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003487028/post-large/normalized/zoomcrop/2003487028-edc-02.jpg?v=2025.2.21_0.54.46",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_KIA_SOUL_LX%20WAGON%204D_GRAY_stock_desktop_1920x1080.png?v=1714482205.750",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_KIA_SOUL_LX%20WAGON%204D_GRAY_stock_mobile_640x640.png?v=1714482205.750",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003487028/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4099263/details/feature-115509691.jpg?v=1740069259.287",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4099263/details/feature-115509694.jpg?v=1740069259.287",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4099263/details/feature-115509704.jpg?v=1740069259.287",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4099263/details/feature-115509696.jpg?v=1740069259.287",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4099263/details/feature-115509692.jpg?v=1740069259.287",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-4099263/details/feature-115509697.jpg?v=1740069259.287",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 290,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2024-kia-soul-lx",
+    "locationId": 300,
+    "stockRecallStatusType": 0,
+    "vin": "KNDJ23AU8R7916379",
+    "vehicleTags": [
+      {
+        "tagId": 121,
+        "tagCategoryId": 1,
+        "tagKey": "RecentlyAdded",
+        "tagName": "Recently Added",
+        "tagDescription": "This vehicle has been made purchasable for the first time within the last 72 hours",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [
+      "Partner-Retail"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 374,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003288154,
+    "vehicleId": 3354988,
+    "make": "Kia",
+    "parentModel": "Soul",
+    "model": "Soul",
+    "trim": "LX",
+    "kbbTrim": "LX Wagon 4D",
+    "color": "Black",
+    "interiorColor": "Black",
+    "bodyStyle": "Wagon",
+    "mileage": 20481,
+    "milesPerGallon": 30,
+    "fuelType": "Gas",
+    "price": {
+      "total": 17990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 360.0,
+      "downPayment": 290.0,
+      "downPaymentDetails": {
+        "totalCashDue": 290.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 290.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 290.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 18421.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1439.2
+    },
+    "year": 2024,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003288154/post-large/normalized/zoomcrop/2003288154-edc-02.jpg?v=2025.2.21_0.54.46",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_KIA_SOUL_LX%20WAGON%204D_BLACK_stock_desktop_1920x1080.png?v=1726076895.338",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_KIA_SOUL_LX%20WAGON%204D_BLACK_stock_mobile_640x640.png?v=1726076895.338",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003288154/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3623021/details/feature-96175916.jpg?v=1733876455.078",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-3623021/details/feature-96175919.jpg?v=1733876455.078",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3623021/details/feature-96175928.jpg?v=1733876455.078",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3623021/details/feature-96175921.jpg?v=1733876455.078",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3623021/details/feature-96175917.jpg?v=1733876455.078",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3623021/details/feature-96175922.jpg?v=1733876455.078",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 290,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2024-kia-soul-lx",
+    "priceUpdateDate": "2025-01-29T20:46:07.353Z",
+    "locationId": 43,
+    "stockRecallStatusType": 0,
+    "vin": "KNDJ23AU6R7227361",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [
+      "Partner-Retail",
+      "CoreOD"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 343,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003390489,
+    "vehicleId": 3416686,
+    "make": "Kia",
+    "parentModel": "Soul",
+    "model": "Soul",
+    "trim": "LX",
+    "kbbTrim": "LX Wagon 4D",
+    "color": "Gray",
+    "interiorColor": "Black",
+    "bodyStyle": "Wagon",
+    "mileage": 14027,
+    "milesPerGallon": 30,
+    "fuelType": "Gas",
+    "price": {
+      "total": 18990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 380.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 18769.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1519.2
+    },
+    "year": 2024,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003390489/post-large/2003390489-edc-02-search.jpg?v=2025.2.21_0.54.46",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_KIA_SOUL_LX%20WAGON%204D_GRAY_stock_desktop_1920x1080.png?v=1714482205.750",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_KIA_SOUL_LX%20WAGON%204D_GRAY_stock_mobile_640x640.png?v=1714482205.750",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003390489/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3788171/details/feature-102808910.jpg?v=1735420091.251",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-3788171/details/feature-102808907.jpg?v=1735420091.251",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3788171/details/feature-102808898.jpg?v=1735420091.251",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3788171/details/feature-102808905.jpg?v=1735420091.251",
+    "backSeatImageUrl": "",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3788171/details/feature-102808915.jpg?v=1735420091.251",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2024-kia-soul-lx",
+    "priceUpdateDate": "2025-01-20T15:53:10.95Z",
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "KNDJ23AU3R7913339",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "DMP2Core",
+    "stores": [
+      "DMP2Core"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  },
+  {
+    "stockNumber": 2003493574,
+    "vehicleId": 3498320,
+    "make": "Kia",
+    "parentModel": "Soul",
+    "model": "Soul",
+    "trim": "LX",
+    "kbbTrim": "LX Wagon 4D",
+    "color": "Gray",
+    "interiorColor": "Black",
+    "bodyStyle": "Wagon",
+    "mileage": 15857,
+    "milesPerGallon": 30,
+    "fuelType": "Gas",
+    "price": {
+      "total": 17990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 360.0,
+      "downPayment": 290.0,
+      "downPaymentDetails": {
+        "totalCashDue": 290.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 290.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 290.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 18685.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1439.2
+    },
+    "year": 2024,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003493574/post-large/normalized/zoomcrop/2003493574-edc-02.jpg?v=2025.2.21_0.54.46",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_KIA_SOUL_LX%20WAGON%204D_GRAY_stock_desktop_1920x1080.png?v=1714482205.750",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_KIA_SOUL_LX%20WAGON%204D_GRAY_stock_mobile_640x640.png?v=1714482205.750",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003493574/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4099462/details/feature-115521145.jpg?v=1740089416.578",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4099462/details/feature-115521148.jpg?v=1740089416.578",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4099462/details/feature-115521158.jpg?v=1740089416.578",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4099462/details/feature-115521150.jpg?v=1740089416.578",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4099462/details/feature-115521146.jpg?v=1740089416.578",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-4099462/details/feature-115521151.jpg?v=1740089416.578",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 290,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2024-kia-soul-lx",
+    "locationId": 300,
+    "stockRecallStatusType": 0,
+    "vin": "KNDJ23AU3R7241637",
+    "vehicleTags": [
+      {
+        "tagId": 121,
+        "tagCategoryId": 1,
+        "tagKey": "RecentlyAdded",
+        "tagName": "Recently Added",
+        "tagDescription": "This vehicle has been made purchasable for the first time within the last 72 hours",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [
+      "Partner-Retail"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 374,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003457479,
+    "vehicleId": 3481859,
+    "make": "Kia",
+    "parentModel": "Soul",
+    "model": "Soul",
+    "trim": "GT-Line",
+    "kbbTrim": "GT-Line Wagon 4D",
+    "color": "Red",
+    "interiorColor": "Black",
+    "bodyStyle": "Wagon",
+    "mileage": 5298,
+    "milesPerGallon": 30,
+    "fuelType": "Gas",
+    "price": {
+      "total": 23990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 480.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 24760.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1919.2
+    },
+    "year": 2024,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003457479/post-large/normalized/zoomcrop/2003457479-edc-02.jpg?v=2025.2.21_0.54.46",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_KIA_SOUL_GT-LINE%20WAGON%204D_RED_stock_desktop_1920x1080.png?v=1731000480.538",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_KIA_SOUL_GT-LINE%20WAGON%204D_RED_stock_mobile_640x640.png?v=1731000480.538",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003457479/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4034297/details/feature-112859577.jpg?v=1738954898.544",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4034297/details/feature-112859581.jpg?v=1738954898.544",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4034297/details/feature-112859591.jpg?v=1738954898.544",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4034297/details/feature-112859583.jpg?v=1738954898.544",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4034297/details/feature-112859579.jpg?v=1738954898.544",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-4034297/details/feature-112859584.jpg?v=1738954898.544",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2024-kia-soul-gt-line",
+    "locationId": 300,
+    "stockRecallStatusType": 0,
+    "vin": "KNDJ53AU6R7221969",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/177245044/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1738969586.039",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/177245044/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1738969586.039",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "",
+        "frameCount": 0,
+        "fps": 0.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 374,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003469134,
+    "vehicleId": 3473132,
+    "make": "Kia",
+    "parentModel": "Soul",
+    "model": "Soul",
+    "trim": "LX",
+    "kbbTrim": "LX Wagon 4D",
+    "color": "Gray",
+    "interiorColor": "Black",
+    "bodyStyle": "Wagon",
+    "mileage": 20369,
+    "milesPerGallon": 30,
+    "fuelType": "Gas",
+    "price": {
+      "total": 16990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 340.0,
+      "downPayment": 290.0,
+      "downPaymentDetails": {
+        "totalCashDue": 290.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 290.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 290.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 18421.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1359.2
+    },
+    "year": 2024,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003469134/post-large/normalized/zoomcrop/2003469134-edc-02.jpg?v=2025.2.21_0.54.46",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_KIA_SOUL_LX%20WAGON%204D_GRAY_stock_desktop_1920x1080.png?v=1714482205.750",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_KIA_SOUL_LX%20WAGON%204D_GRAY_stock_mobile_640x640.png?v=1714482205.750",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003469134/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4009994/details/feature-111822783.jpg?v=1738672056.301",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4009994/details/feature-111822786.jpg?v=1738672056.301",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4009994/details/feature-111822796.jpg?v=1738672056.301",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4009994/details/feature-111822788.jpg?v=1738672056.301",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4009994/details/feature-111822784.jpg?v=1738672056.301",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-4009994/details/feature-111822789.jpg?v=1738672056.301",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 290,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2024-kia-soul-lx",
+    "locationId": 43,
+    "stockRecallStatusType": 0,
+    "vin": "KNDJ23AU7R7240992",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [
+      "Partner-Retail"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/176068469/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1738673888.629",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/176068469/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1738673888.629",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "",
+        "frameCount": 0,
+        "fps": 0.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 343,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003442012,
+    "vehicleId": 3459351,
+    "make": "Kia",
+    "parentModel": "Soul",
+    "model": "Soul",
+    "trim": "LX",
+    "kbbTrim": "LX Wagon 4D",
+    "color": "Gray",
+    "interiorColor": "Black",
+    "bodyStyle": "Wagon",
+    "mileage": 17612,
+    "milesPerGallon": 30,
+    "fuelType": "Gas",
+    "price": {
+      "total": 17590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 352.0,
+      "downPayment": 290.0,
+      "downPaymentDetails": {
+        "totalCashDue": 290.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 290.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 290.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 18569.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1407.2
+    },
+    "year": 2024,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003442012/post-large/normalized/zoomcrop/2003442012-edc-02.jpg?v=2025.2.21_0.54.46",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_KIA_SOUL_LX%20WAGON%204D_GRAY_stock_desktop_1920x1080.png?v=1714482205.750",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_KIA_SOUL_LX%20WAGON%204D_GRAY_stock_mobile_640x640.png?v=1714482205.750",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003442012/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4096203/details/feature-115399419.jpg?v=1740005435.747",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4096203/details/feature-115399422.jpg?v=1740005435.747",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4096203/details/feature-115399432.jpg?v=1740005435.747",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4096203/details/feature-115399424.jpg?v=1740005435.747",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4096203/details/feature-115399420.jpg?v=1740005435.747",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-4096203/details/feature-115399425.jpg?v=1740005435.747",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 290,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2024-kia-soul-lx",
+    "priceUpdateDate": "2025-02-17T15:28:51.041Z",
+    "locationId": 300,
+    "stockRecallStatusType": 0,
+    "vin": "KNDJ23AU1R7240003",
+    "vehicleTags": [
+      {
+        "tagId": 121,
+        "tagCategoryId": 1,
+        "tagKey": "RecentlyAdded",
+        "tagName": "Recently Added",
+        "tagDescription": "This vehicle has been made purchasable for the first time within the last 72 hours",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [
+      "Partner-Retail"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 374,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003499507,
+    "vehicleId": 3493597,
+    "make": "Kia",
+    "parentModel": "Soul",
+    "model": "Soul",
+    "trim": "LX",
+    "kbbTrim": "LX Wagon 4D",
+    "color": "Gray",
+    "interiorColor": "Black",
+    "bodyStyle": "Wagon",
+    "mileage": 19993,
+    "milesPerGallon": 30,
+    "fuelType": "Gas",
+    "price": {
+      "total": 17990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 360.0,
+      "downPayment": 290.0,
+      "downPaymentDetails": {
+        "totalCashDue": 290.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 290.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 290.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 18451.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1439.2
+    },
+    "year": 2024,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003499507/post-large/normalized/zoomcrop/2003499507-edc-02.jpg?v=2025.2.21_0.54.46",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_KIA_SOUL_LX%20WAGON%204D_GRAY_stock_desktop_1920x1080.png?v=1714482205.750",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_KIA_SOUL_LX%20WAGON%204D_GRAY_stock_mobile_640x640.png?v=1714482205.750",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003499507/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4061220/details/feature-113947134.jpg?v=1739468725.335",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4061220/details/feature-113947137.jpg?v=1739468725.335",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4061220/details/feature-113947147.jpg?v=1739468725.335",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4061220/details/feature-113947139.jpg?v=1739468725.335",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4061220/details/feature-113947135.jpg?v=1739468725.335",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-4061220/details/feature-113947140.jpg?v=1739468725.335",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 290,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2024-kia-soul-lx",
+    "locationId": 43,
+    "stockRecallStatusType": 0,
+    "vin": "KNDJ23AUXR7915783",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [
+      "Partner-Retail"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/178569929/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1739477189.053",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/178569929/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1739477189.053",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "",
+        "frameCount": 0,
+        "fps": 0.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 343,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003372038,
+    "vehicleId": 3405485,
+    "make": "Kia",
+    "parentModel": "Soul",
+    "model": "Soul",
+    "trim": "LX",
+    "kbbTrim": "LX Wagon 4D",
+    "color": "White",
+    "interiorColor": "Black",
+    "bodyStyle": "Wagon",
+    "mileage": 24828,
+    "milesPerGallon": 30,
+    "fuelType": "Gas",
+    "price": {
+      "total": 18990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 380.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 18142.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1519.2
+    },
+    "year": 2024,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003372038/post-large/2003372038-edc-02-search.jpg?v=2025.2.21_0.54.46",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_KIA_SOUL_LX%20WAGON%204D_WHITE_stock_desktop_1920x1080.png?v=1722891766.411",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_KIA_SOUL_LX%20WAGON%204D_WHITE_stock_mobile_640x640.png?v=1722891766.411",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003372038/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3743452/details/feature-101016024.jpg?v=1734113924.416",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-3743452/details/feature-101016021.jpg?v=1734113924.416",
+    "infotainmentImageUrl": "",
+    "steeringImageUrl": "",
+    "backSeatImageUrl": "",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3743452/details/feature-101016031.jpg?v=1734113924.416",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2024-kia-soul-lx",
+    "priceUpdateDate": "2025-01-28T17:41:16.062Z",
+    "locationId": 300,
+    "stockRecallStatusType": 0,
+    "vin": "KNDJ23AU9R7896949",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "DMP2Core",
+    "stores": [
+      "DMP2Core"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 374,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003441927,
+    "vehicleId": 3454776,
+    "make": "Kia",
+    "parentModel": "Niro",
+    "model": "Niro Plug-in Hybrid",
+    "trim": "EX",
+    "kbbTrim": "EX Wagon 4D",
+    "color": "Silver",
+    "interiorColor": "Gray",
+    "bodyStyle": "Wagon",
+    "mileage": 9951,
+    "milesPerGallon": 46,
+    "fuelType": "Plug-In Hybrid",
+    "price": {
+      "total": 24590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 500.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 22520.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1999.2,
+      "evTaxCreditAppliedPrice": 20590.0,
+      "evTaxCredit": 4000.0
+    },
+    "year": 2019,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003441927/post-large/normalized/zoomcrop/2003441927-edc-02.jpg?v=2025.2.21_0.54.46",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2019_KIA_NIRO%20PLUG-IN%20HYBRID_EX%20WAGON%204D_SILVER_stock_desktop_1920x1080.png?v=1645575045.691",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2019_KIA_NIRO%20PLUG-IN%20HYBRID_EX%20WAGON%204D_SILVER_stock_mobile_640x640.png?v=1645575045.691",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003441927/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4062300/details/feature-113984217.jpg?v=1739481823.502",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4062300/details/feature-113984220.jpg?v=1739481823.502",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4062300/details/feature-113984230.jpg?v=1739481823.502",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4062300/details/feature-113984222.jpg?v=1739481823.502",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4062300/details/feature-113984218.jpg?v=1739481823.502",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-4062300/details/feature-113984223.jpg?v=1739481823.502",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2019-kia-niro-plug-in-hybrid-ex",
+    "priceUpdateDate": "2025-02-20T19:53:08.754Z",
+    "previousPrice": 24990.0,
+    "locationId": 43,
+    "stockRecallStatusType": 0,
+    "vin": "KNDCD3LD5K5281560",
+    "vehicleTags": [
+      {
+        "tagId": 103,
+        "tagCategoryId": 1,
+        "tagKey": "RecentPriceDrop",
+        "tagName": "New Price",
+        "tagDescription": "New Price",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      },
+      {
+        "tagId": 116,
+        "tagCategoryId": 1,
+        "tagKey": "EvTaxCreditMayBeEligible",
+        "tagName": "Clean Vehicle Tax Credit",
+        "tagDescription": "This vehicle may be eligible for a tax credit of up to $4000, subject to the requirements of Internal Revenue Code \u00a725E",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/178681866/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1739498997.646",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/178681866/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1739498997.647",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "",
+        "frameCount": 0,
+        "fps": 0.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 343,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003508474,
+    "vehicleId": 3505427,
+    "make": "Kia",
+    "parentModel": "Soul",
+    "model": "Soul",
+    "trim": "LX",
+    "kbbTrim": "LX Wagon 4D",
+    "color": "Gray",
+    "interiorColor": "Black",
+    "bodyStyle": "Wagon",
+    "mileage": 21365,
+    "milesPerGallon": 30,
+    "fuelType": "Gas",
+    "price": {
+      "total": 16990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 340.0,
+      "downPayment": 290.0,
+      "downPaymentDetails": {
+        "totalCashDue": 290.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 290.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 290.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 18360.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1359.2
+    },
+    "year": 2024,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003508474/post-large/normalized/zoomcrop/2003508474-edc-02.jpg?v=2025.2.21_0.54.46",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_KIA_SOUL_LX%20WAGON%204D_GRAY_stock_desktop_1920x1080.png?v=1714482205.750",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_KIA_SOUL_LX%20WAGON%204D_GRAY_stock_mobile_640x640.png?v=1714482205.750",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003508474/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4101830/details/feature-115648873.jpg?v=1740085062.597",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4101830/details/feature-115648876.jpg?v=1740085062.597",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4101830/details/feature-115648886.jpg?v=1740085062.597",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4101830/details/feature-115648878.jpg?v=1740085062.597",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4101830/details/feature-115648874.jpg?v=1740085062.597",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-4101830/details/feature-115648879.jpg?v=1740085062.597",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 290,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2024-kia-soul-lx",
+    "locationId": 300,
+    "stockRecallStatusType": 0,
+    "vin": "KNDJ23AUXR7915878",
+    "vehicleTags": [
+      {
+        "tagId": 121,
+        "tagCategoryId": 1,
+        "tagKey": "RecentlyAdded",
+        "tagName": "Recently Added",
+        "tagDescription": "This vehicle has been made purchasable for the first time within the last 72 hours",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [
+      "Partner-Retail"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 374,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003459258,
+    "vehicleId": 3478165,
+    "make": "Kia",
+    "parentModel": "Soul",
+    "model": "Soul",
+    "trim": "LX",
+    "kbbTrim": "LX Wagon 4D",
+    "color": "Black",
+    "interiorColor": "Other",
+    "bodyStyle": "Wagon",
+    "mileage": 24569,
+    "milesPerGallon": 30,
+    "fuelType": "Gas",
+    "price": {
+      "total": 16990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 340.0,
+      "downPayment": 290.0,
+      "downPaymentDetails": {
+        "totalCashDue": 290.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 290.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 290.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 18142.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1359.2
+    },
+    "year": 2024,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003459258/post-large/normalized/zoomcrop/2003459258-edc-02.jpg?v=2025.2.21_0.54.46",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_KIA_SOUL_LX%20WAGON%204D_BLACK_stock_desktop_1920x1080.png?v=1726076895.338",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_KIA_SOUL_LX%20WAGON%204D_BLACK_stock_mobile_640x640.png?v=1726076895.338",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003459258/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4027448/details/feature-112556972.jpg?v=1738873994.814",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4027448/details/feature-112556975.jpg?v=1738873994.814",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4027448/details/feature-112556985.jpg?v=1738873994.814",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4027448/details/feature-112556977.jpg?v=1738873994.814",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4027448/details/feature-112556973.jpg?v=1738873994.814",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-4027448/details/feature-112556978.jpg?v=1738873994.814",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 290,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2024-kia-soul-lx",
+    "locationId": 300,
+    "stockRecallStatusType": 0,
+    "vin": "KNDJ23AU7R7904966",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [
+      "Partner-Retail"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/176953159/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1738892299.262",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/176953159/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1738892299.262",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "",
+        "frameCount": 0,
+        "fps": 0.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 374,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003508614,
+    "vehicleId": 3496715,
+    "make": "Kia",
+    "parentModel": "Soul",
+    "model": "Soul",
+    "trim": "LX",
+    "kbbTrim": "LX Wagon 4D",
+    "color": "Gray",
+    "interiorColor": "Black",
+    "bodyStyle": "Wagon",
+    "mileage": 22979,
+    "milesPerGallon": 30,
+    "fuelType": "Gas",
+    "price": {
+      "total": 17590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 352.0,
+      "downPayment": 290.0,
+      "downPaymentDetails": {
+        "totalCashDue": 290.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 290.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 290.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 18268.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1407.2
+    },
+    "year": 2024,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003508614/post-large/normalized/zoomcrop/2003508614-edc-02.jpg?v=2025.2.21_0.54.46",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_KIA_SOUL_LX%20WAGON%204D_GRAY_stock_desktop_1920x1080.png?v=1714482205.750",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_KIA_SOUL_LX%20WAGON%204D_GRAY_stock_mobile_640x640.png?v=1714482205.750",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003508614/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4074735/details/feature-114520900.jpg?v=1739639322.143",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4074735/details/feature-114520903.jpg?v=1739639322.143",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4074735/details/feature-114520913.jpg?v=1739639322.143",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4074735/details/feature-114520905.jpg?v=1739639322.143",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4074735/details/feature-114520901.jpg?v=1739639322.143",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-4074735/details/feature-114520906.jpg?v=1739639322.143",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 290,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2024-kia-soul-lx",
+    "locationId": 43,
+    "stockRecallStatusType": 0,
+    "vin": "KNDJ23AU2R7915289",
+    "vehicleTags": [
+      {
+        "tagId": 121,
+        "tagCategoryId": 1,
+        "tagKey": "RecentlyAdded",
+        "tagName": "Recently Added",
+        "tagDescription": "This vehicle has been made purchasable for the first time within the last 72 hours",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [
+      "Partner-Retail"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 343,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003347832,
+    "vehicleId": 3389506,
+    "make": "Kia",
+    "parentModel": "Niro EV",
+    "model": "Niro EV",
+    "trim": "EX",
+    "kbbTrim": "EX Wagon 4D",
+    "color": "Gray",
+    "interiorColor": "Black",
+    "bodyStyle": "Wagon",
+    "mileage": 53766,
+    "milesPerGallon": 123,
+    "fuelType": "Electric",
+    "price": {
+      "total": 17990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 360.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 17245.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1439.2
+    },
+    "year": 2020,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003347832/post-large/normalized/zoomcrop/2003347832-edc-02.jpg?v=2025.2.21_0.54.46",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2020_KIA_NIRO%20EV_EX%20WAGON%204D_GRAY_stock_desktop_1920x1080.png?v=1645592340.249",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2020_KIA_NIRO%20EV_EX%20WAGON%204D_GRAY_stock_mobile_640x640.png?v=1645592340.249",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003347832/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3755809/details/feature-101525820.jpg?v=1733949597.657",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-3755809/details/feature-101525823.jpg?v=1733949597.657",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3755809/details/feature-101525834.jpg?v=1733949597.657",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3755809/details/feature-101525825.jpg?v=1733949597.657",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3755809/details/feature-101525821.jpg?v=1733949597.657",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3755809/details/feature-101525826.jpg?v=1733949597.657",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2020-kia-niro-ev-ex",
+    "priceUpdateDate": "2025-01-17T20:28:38.9Z",
+    "locationId": 43,
+    "stockRecallStatusType": 0,
+    "vin": "KNDCC3LG2L5055409",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/165028521/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1740008376.424",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/165028521/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1740008376.424",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "https://vexgateway.fastly.carvana.io/executions/165028521/GAUSSIAN_RENDERER/poster.jpg?v=1740008376.424",
+        "frameCount": 969,
+        "fps": 30.0
+      },
+      {
+        "videoName": "srpvideo-swipe",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/165028521/GAUSSIAN_RENDERER/srpvideo-swipe.mp4?v=1740008376.424",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/165028521/GAUSSIAN_RENDERER/srpvideo-swipe-h265.mp4?v=1740008376.424",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "pauseFrames": [
+          {
+            "start": 0,
+            "end": 0
+          },
+          {
+            "start": 45,
+            "end": 49
+          },
+          {
+            "start": 69,
+            "end": 73
+          },
+          {
+            "start": 111,
+            "end": 115
+          },
+          {
+            "start": 149,
+            "end": 153
+          },
+          {
+            "start": 192,
+            "end": 196
+          },
+          {
+            "start": 235,
+            "end": 239
+          },
+          {
+            "start": 278,
+            "end": 282
+          },
+          {
+            "start": 321,
+            "end": 325
+          },
+          {
+            "start": 364,
+            "end": 368
+          },
+          {
+            "start": 407,
+            "end": 415
+          },
+          {
+            "start": 471,
+            "end": 475
+          },
+          {
+            "start": 531,
+            "end": 539
+          },
+          {
+            "start": 578,
+            "end": 582
+          },
+          {
+            "start": 621,
+            "end": 625
+          },
+          {
+            "start": 664,
+            "end": 668
+          },
+          {
+            "start": 707,
+            "end": 711
+          },
+          {
+            "start": 750,
+            "end": 754
+          },
+          {
+            "start": 793,
+            "end": 797
+          },
+          {
+            "start": 831,
+            "end": 835
+          },
+          {
+            "start": 873,
+            "end": 877
+          },
+          {
+            "start": 897,
+            "end": 901
+          },
+          {
+            "start": 946,
+            "end": 950
+          }
+        ],
+        "thumbnailURL": "https://vexgateway.fastly.carvana.io/executions/165028521/GAUSSIAN_RENDERER/srpvideo-swipe.jpg?v=1740008376.424",
+        "frameCount": 950,
+        "fps": 30.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 343,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003348837,
+    "vehicleId": 3392480,
+    "make": "Kia",
+    "parentModel": "Soul",
+    "model": "Soul",
+    "trim": "LX",
+    "kbbTrim": "LX Wagon 4D",
+    "color": "Orange",
+    "interiorColor": "Black",
+    "bodyStyle": "Wagon",
+    "mileage": 22242,
+    "milesPerGallon": 30,
+    "fuelType": "Gas",
+    "price": {
+      "total": 19590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 392.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 18481.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1567.2
+    },
+    "year": 2024,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003348837/post-large/2003348837-edc-02-search.jpg?v=2025.2.21_0.54.46",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_KIA_SOUL_LX%20WAGON%204D_ORANGE_stock_desktop_1920x1080.png?v=1729253824.950",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_KIA_SOUL_LX%20WAGON%204D_ORANGE_stock_mobile_640x640.png?v=1729253824.950",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003348837/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3695669/details/feature-99107332.jpg?v=1736621270.191",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-3695669/details/feature-99107329.jpg?v=1736621270.191",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3695669/details/feature-99107320.jpg?v=1736621270.191",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3695669/details/feature-99107327.jpg?v=1736621270.191",
+    "backSeatImageUrl": "",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3695669/details/feature-99107337.jpg?v=1736621270.191",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2024-kia-soul-lx",
+    "priceUpdateDate": "2025-01-27T17:25:46.735Z",
+    "locationId": 43,
+    "stockRecallStatusType": 0,
+    "vin": "KNDJ23AU3R7914944",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "DMP2Core",
+    "stores": [
+      "DMP2Core"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 343,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003487052,
+    "vehicleId": 3493637,
+    "make": "Kia",
+    "parentModel": "Soul",
+    "model": "Soul",
+    "trim": "LX",
+    "kbbTrim": "LX Wagon 4D",
+    "color": "Gray",
+    "interiorColor": "Black",
+    "bodyStyle": "Wagon",
+    "mileage": 21483,
+    "milesPerGallon": 30,
+    "fuelType": "Gas",
+    "price": {
+      "total": 17590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 352.0,
+      "downPayment": 290.0,
+      "downPaymentDetails": {
+        "totalCashDue": 290.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 290.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 290.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 18360.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1407.2
+    },
+    "year": 2024,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003487052/post-large/normalized/zoomcrop/2003487052-edc-02.jpg?v=2025.2.21_0.54.46",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_KIA_SOUL_LX%20WAGON%204D_GRAY_stock_desktop_1920x1080.png?v=1714482205.750",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_KIA_SOUL_LX%20WAGON%204D_GRAY_stock_mobile_640x640.png?v=1714482205.750",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003487052/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4089341/details/feature-115115447.jpg?v=1740003242.154",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4089341/details/feature-115115450.jpg?v=1740003242.154",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4089341/details/feature-115115460.jpg?v=1740003242.154",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4089341/details/feature-115115452.jpg?v=1740003242.154",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4089341/details/feature-115115448.jpg?v=1740003242.154",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-4089341/details/feature-115115453.jpg?v=1740003242.154",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 290,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2024-kia-soul-lx",
+    "locationId": 300,
+    "stockRecallStatusType": 0,
+    "vin": "KNDJ23AU3R7899068",
+    "vehicleTags": [
+      {
+        "tagId": 121,
+        "tagCategoryId": 1,
+        "tagKey": "RecentlyAdded",
+        "tagName": "Recently Added",
+        "tagDescription": "This vehicle has been made purchasable for the first time within the last 72 hours",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [
+      "Partner-Retail"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/179863077/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1739983738.146",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/179863077/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1739983738.146",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "https://vexgateway.fastly.carvana.io/executions/179863077/GAUSSIAN_RENDERER/poster.jpg?v=1739983738.146",
+        "frameCount": 969,
+        "fps": 30.0
+      },
+      {
+        "videoName": "srpvideo-swipe",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/179863077/GAUSSIAN_RENDERER/srpvideo-swipe.mp4?v=1739983738.146",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/179863077/GAUSSIAN_RENDERER/srpvideo-swipe-h265.mp4?v=1739983738.146",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "pauseFrames": [
+          {
+            "start": 0,
+            "end": 0
+          },
+          {
+            "start": 45,
+            "end": 49
+          },
+          {
+            "start": 69,
+            "end": 73
+          },
+          {
+            "start": 111,
+            "end": 115
+          },
+          {
+            "start": 149,
+            "end": 153
+          },
+          {
+            "start": 192,
+            "end": 196
+          },
+          {
+            "start": 235,
+            "end": 239
+          },
+          {
+            "start": 278,
+            "end": 282
+          },
+          {
+            "start": 321,
+            "end": 325
+          },
+          {
+            "start": 364,
+            "end": 368
+          },
+          {
+            "start": 407,
+            "end": 415
+          },
+          {
+            "start": 471,
+            "end": 475
+          },
+          {
+            "start": 531,
+            "end": 539
+          },
+          {
+            "start": 578,
+            "end": 582
+          },
+          {
+            "start": 621,
+            "end": 625
+          },
+          {
+            "start": 664,
+            "end": 668
+          },
+          {
+            "start": 707,
+            "end": 711
+          },
+          {
+            "start": 750,
+            "end": 754
+          },
+          {
+            "start": 793,
+            "end": 797
+          },
+          {
+            "start": 831,
+            "end": 835
+          },
+          {
+            "start": 873,
+            "end": 877
+          },
+          {
+            "start": 897,
+            "end": 901
+          },
+          {
+            "start": 946,
+            "end": 950
+          }
+        ],
+        "thumbnailURL": "https://vexgateway.fastly.carvana.io/executions/179863077/GAUSSIAN_RENDERER/srpvideo-swipe.jpg?v=1739983738.146",
+        "frameCount": 950,
+        "fps": 30.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 374,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003453418,
+    "vehicleId": 3462318,
+    "make": "Kia",
+    "parentModel": "Soul",
+    "model": "Soul",
+    "trim": "LX",
+    "kbbTrim": "LX Wagon 4D",
+    "color": "Black",
+    "interiorColor": "Black",
+    "bodyStyle": "Wagon",
+    "mileage": 12768,
+    "milesPerGallon": 30,
+    "fuelType": "Gas",
+    "price": {
+      "total": 19990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 400.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 18784.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1599.2
+    },
+    "year": 2023,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003453418/post-large/normalized/zoomcrop/2003453418-edc-02.jpg?v=2025.2.21_0.54.46",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2023_KIA_SOUL_LX%20WAGON%204D_BLACK_stock_desktop_1920x1080.png?v=1694819435.142",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2023_KIA_SOUL_LX%20WAGON%204D_BLACK_stock_mobile_640x640.png?v=1694819435.142",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003453418/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3965142/details/feature-109979286.jpg?v=1738254826.309",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-3965142/details/feature-109979289.jpg?v=1738254826.309",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3965142/details/feature-109979299.jpg?v=1738254826.309",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3965142/details/feature-109979291.jpg?v=1738254826.309",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3965142/details/feature-109979287.jpg?v=1738254826.309",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3965142/details/feature-109979292.jpg?v=1738254826.309",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2023-kia-soul-lx",
+    "locationId": 43,
+    "stockRecallStatusType": 0,
+    "vin": "KNDJ23AU8P7842667",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/175095166/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1738261371.662",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/175095166/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1738261371.662",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "",
+        "frameCount": 0,
+        "fps": 0.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 343,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003352246,
+    "vehicleId": 3387095,
+    "make": "Kia",
+    "parentModel": "Niro EV",
+    "model": "Niro EV",
+    "trim": "EX",
+    "kbbTrim": "EX Wagon 4D",
+    "color": "Gray",
+    "interiorColor": "Black",
+    "bodyStyle": "Wagon",
+    "mileage": 56877,
+    "milesPerGallon": 123,
+    "fuelType": "Electric",
+    "price": {
+      "total": 17590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 352.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 16745.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1407.2
+    },
+    "year": 2020,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003352246/post-large/normalized/zoomcrop/2003352246-edc-02.jpg?v=2025.2.21_0.54.46",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2020_KIA_NIRO%20EV_EX%20WAGON%204D_GRAY_stock_desktop_1920x1080.png?v=1645592340.249",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2020_KIA_NIRO%20EV_EX%20WAGON%204D_GRAY_stock_mobile_640x640.png?v=1645592340.249",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003352246/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-3727763/details/feature-100431124.jpg?v=1740079696.820",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3727763/details/feature-100431135.jpg?v=1740079696.820",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3727763/details/feature-100431126.jpg?v=1740079696.820",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3727763/details/feature-100431122.jpg?v=1740079696.820",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3727763/details/feature-100431127.jpg?v=1740079696.820",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2020-kia-niro-ev-ex",
+    "priceUpdateDate": "2025-02-10T15:27:38.425Z",
+    "locationId": 43,
+    "stockRecallStatusType": 0,
+    "vin": "KNDCC3LG9L5047114",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/163869664/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1740006930.433",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/163869664/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1740006930.433",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "https://vexgateway.fastly.carvana.io/executions/163869664/GAUSSIAN_RENDERER/poster.jpg?v=1740006930.433",
+        "frameCount": 969,
+        "fps": 30.0
+      },
+      {
+        "videoName": "srpvideo-swipe",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/163869664/GAUSSIAN_RENDERER/srpvideo-swipe.mp4?v=1740006930.433",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/163869664/GAUSSIAN_RENDERER/srpvideo-swipe-h265.mp4?v=1740006930.433",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "pauseFrames": [
+          {
+            "start": 0,
+            "end": 0
+          },
+          {
+            "start": 45,
+            "end": 49
+          },
+          {
+            "start": 69,
+            "end": 73
+          },
+          {
+            "start": 111,
+            "end": 115
+          },
+          {
+            "start": 149,
+            "end": 153
+          },
+          {
+            "start": 192,
+            "end": 196
+          },
+          {
+            "start": 235,
+            "end": 239
+          },
+          {
+            "start": 278,
+            "end": 282
+          },
+          {
+            "start": 321,
+            "end": 325
+          },
+          {
+            "start": 364,
+            "end": 368
+          },
+          {
+            "start": 407,
+            "end": 415
+          },
+          {
+            "start": 471,
+            "end": 475
+          },
+          {
+            "start": 531,
+            "end": 539
+          },
+          {
+            "start": 578,
+            "end": 582
+          },
+          {
+            "start": 621,
+            "end": 625
+          },
+          {
+            "start": 664,
+            "end": 668
+          },
+          {
+            "start": 707,
+            "end": 711
+          },
+          {
+            "start": 750,
+            "end": 754
+          },
+          {
+            "start": 793,
+            "end": 797
+          },
+          {
+            "start": 831,
+            "end": 835
+          },
+          {
+            "start": 873,
+            "end": 877
+          },
+          {
+            "start": 897,
+            "end": 901
+          },
+          {
+            "start": 946,
+            "end": 950
+          }
+        ],
+        "thumbnailURL": "https://vexgateway.fastly.carvana.io/executions/163869664/GAUSSIAN_RENDERER/srpvideo-swipe.jpg?v=1740006930.433",
+        "frameCount": 950,
+        "fps": 30.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 343,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  }
+]

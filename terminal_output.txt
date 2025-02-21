@@ -1,0 +1,375 @@
+Fetching data for category: Suv
+
+Attempt 1 using proxy: 173.0.9.209:5792 for category Suv, page 1
+Visiting www.carvana.com...
+Main site status code: 403
+Making API request...
+Status Code: 200
+Found 20 vehicles for category Suv on page 1
+
+Attempt 1 using proxy: 198.23.239.134:6540 for category Suv, page 2
+Visiting www.carvana.com...
+Main site status code: 403
+Making API request...
+Status Code: 403
+Received 403 Forbidden - Trying another proxy...
+
+Attempt 2 using proxy: 64.137.42.112:5157 for category Suv, page 2
+Visiting www.carvana.com...
+Main site status code: 403
+Making API request...
+Status Code: 403
+Received 403 Forbidden - Trying another proxy...
+
+Attempt 3 using proxy: 207.244.217.165:6712 for category Suv, page 2
+Visiting www.carvana.com...
+Main site status code: 403
+Making API request...
+Status Code: 403
+Received 403 Forbidden - Trying another proxy...
+
+Attempt 4 using proxy: 161.123.152.115:6360 for category Suv, page 2
+Visiting www.carvana.com...
+Main site status code: 403
+Making API request...
+Status Code: 403
+Received 403 Forbidden - Trying another proxy...
+
+Attempt 5 using proxy: 154.36.110.199:6853 for category Suv, page 2
+Visiting www.carvana.com...
+Main site status code: 403
+Making API request...
+Status Code: 200
+Found 20 vehicles for category Suv on page 2
+
+Successful response for category Suv:
+Vehicles data saved to suv_vehicles_data.json
+
+Total vehicles found for Suv: 40
+
+Fetching data for category: Sedan
+
+Attempt 1 using proxy: 154.36.110.199:6853 for category Sedan, page 1
+Visiting www.carvana.com...
+Main site status code: 403
+Making API request...
+Status Code: 200
+Found 20 vehicles for category Sedan on page 1
+
+Attempt 1 using proxy: 161.123.152.115:6360 for category Sedan, page 2
+Visiting www.carvana.com...
+Main site status code: 403
+Making API request...
+Status Code: 403
+Received 403 Forbidden - Trying another proxy...
+
+Attempt 2 using proxy: 173.0.9.209:5792 for category Sedan, page 2
+Visiting www.carvana.com...
+Main site status code: 403
+Making API request...
+Status Code: 200
+Found 20 vehicles for category Sedan on page 2
+
+Successful response for category Sedan:
+Vehicles data saved to sedan_vehicles_data.json
+
+Total vehicles found for Sedan: 40
+
+Fetching data for category: Pickup
+
+Attempt 1 using proxy: 198.23.239.134:6540 for category Pickup, page 1
+Visiting www.carvana.com...
+Main site status code: 403
+Making API request...
+Status Code: 403
+Received 403 Forbidden - Trying another proxy...
+
+Attempt 2 using proxy: 64.137.42.112:5157 for category Pickup, page 1
+Visiting www.carvana.com...
+Main site status code: 403
+Making API request...
+Status Code: 403
+Received 403 Forbidden - Trying another proxy...
+
+Attempt 3 using proxy: 154.36.110.199:6853 for category Pickup, page 1
+Visiting www.carvana.com...
+Main site status code: 403
+Making API request...
+Status Code: 200
+Found 20 vehicles for category Pickup on page 1
+
+Attempt 1 using proxy: 161.123.152.115:6360 for category Pickup, page 2
+Visiting www.carvana.com...
+Main site status code: 403
+Making API request...
+Status Code: 403
+Received 403 Forbidden - Trying another proxy...
+
+Attempt 2 using proxy: 173.0.9.209:5792 for category Pickup, page 2
+Visiting www.carvana.com...
+Main site status code: 403
+Making API request...
+Status Code: 200
+Found 20 vehicles for category Pickup on page 2
+
+Successful response for category Pickup:
+Vehicles data saved to pickup_vehicles_data.json
+
+Total vehicles found for Pickup: 40
+
+Fetching data for category: Coupe
+
+Attempt 1 using proxy: 198.23.239.134:6540 for category Coupe, page 1
+Visiting www.carvana.com...
+Main site status code: 403
+Making API request...
+Status Code: 403
+Received 403 Forbidden - Trying another proxy...
+
+Attempt 2 using proxy: 64.137.42.112:5157 for category Coupe, page 1
+Visiting www.carvana.com...
+Main site status code: 403
+Making API request...
+Status Code: 403
+Received 403 Forbidden - Trying another proxy...
+
+Attempt 3 using proxy: 173.0.9.209:5792 for category Coupe, page 1
+Visiting www.carvana.com...
+Main site status code: 403
+Making API request...
+Status Code: 200
+Found 20 vehicles for category Coupe on page 1
+
+Attempt 1 using proxy: 161.123.152.115:6360 for category Coupe, page 2
+Visiting www.carvana.com...
+Main site status code: 403
+Making API request...
+Status Code: 403
+Received 403 Forbidden - Trying another proxy...
+
+Attempt 2 using proxy: 154.36.110.199:6853 for category Coupe, page 2
+Visiting www.carvana.com...
+Main site status code: 403
+Making API request...
+Status Code: 200
+Found 20 vehicles for category Coupe on page 2
+
+Successful response for category Coupe:
+Vehicles data saved to coupe_vehicles_data.json
+
+Total vehicles found for Coupe: 40
+
+Fetching data for category: MiniVan
+
+Attempt 1 using proxy: 198.23.239.134:6540 for category MiniVan, page 1
+Visiting www.carvana.com...
+Main site status code: 403
+Making API request...
+Status Code: 403
+Received 403 Forbidden - Trying another proxy...
+
+Attempt 2 using proxy: 64.137.42.112:5157 for category MiniVan, page 1
+Visiting www.carvana.com...
+Main site status code: 403
+Making API request...
+Status Code: 403
+Received 403 Forbidden - Trying another proxy...
+
+Attempt 3 using proxy: 207.244.217.165:6712 for category MiniVan, page 1
+Visiting www.carvana.com...
+Main site status code: 403
+Making API request...
+Status Code: 403
+Received 403 Forbidden - Trying another proxy...
+
+Attempt 4 using proxy: 154.36.110.199:6853 for category MiniVan, page 1
+Visiting www.carvana.com...
+Main site status code: 403
+Making API request...
+Status Code: 200
+Found 20 vehicles for category MiniVan on page 1
+
+Attempt 1 using proxy: 173.0.9.209:5792 for category MiniVan, page 2
+Visiting www.carvana.com...
+Main site status code: 403
+Making API request...
+Status Code: 200
+Found 20 vehicles for category MiniVan on page 2
+
+Successful response for category MiniVan:
+Vehicles data saved to minivan_vehicles_data.json
+
+Total vehicles found for MiniVan: 40
+
+Fetching data for category: Convertible
+
+Attempt 1 using proxy: 161.123.152.115:6360 for category Convertible, page 1
+Visiting www.carvana.com...
+Main site status code: 403
+Making API request...
+Status Code: 403
+Received 403 Forbidden - Trying another proxy...
+
+Attempt 2 using proxy: 173.0.9.209:5792 for category Convertible, page 1
+Visiting www.carvana.com...
+Main site status code: 403
+Making API request...
+Status Code: 200
+Found 20 vehicles for category Convertible on page 1
+
+Attempt 1 using proxy: 154.36.110.199:6853 for category Convertible, page 2
+Visiting www.carvana.com...
+Main site status code: 403
+Making API request...
+Status Code: 200
+Found 20 vehicles for category Convertible on page 2
+
+Successful response for category Convertible:
+Vehicles data saved to convertible_vehicles_data.json
+
+Total vehicles found for Convertible: 40
+
+Fetching data for category: Wagon
+
+Attempt 1 using proxy: 198.23.239.134:6540 for category Wagon, page 1
+Visiting www.carvana.com...
+Main site status code: 403
+Making API request...
+Status Code: 403
+Received 403 Forbidden - Trying another proxy...
+
+Attempt 2 using proxy: 64.137.42.112:5157 for category Wagon, page 1
+Visiting www.carvana.com...
+Main site status code: 403
+Making API request...
+Status Code: 403
+Received 403 Forbidden - Trying another proxy...
+
+Attempt 3 using proxy: 173.0.9.209:5792 for category Wagon, page 1
+Visiting www.carvana.com...
+Main site status code: 403
+Making API request...
+Status Code: 200
+Found 20 vehicles for category Wagon on page 1
+
+Attempt 1 using proxy: 154.36.110.199:6853 for category Wagon, page 2
+Visiting www.carvana.com...
+Main site status code: 403
+Making API request...
+Status Code: 200
+Found 20 vehicles for category Wagon on page 2
+
+Successful response for category Wagon:
+Vehicles data saved to wagon_vehicles_data.json
+
+Total vehicles found for Wagon: 40
+
+Fetching data for category: Hatchback
+
+Attempt 1 using proxy: 64.137.42.112:5157 for category Hatchback, page 1
+Visiting www.carvana.com...
+Main site status code: 403
+Making API request...
+Status Code: 403
+Received 403 Forbidden - Trying another proxy...
+
+Attempt 2 using proxy: 173.0.9.209:5792 for category Hatchback, page 1
+Visiting www.carvana.com...
+Main site status code: 403
+Making API request...
+Status Code: 200
+Found 20 vehicles for category Hatchback on page 1
+
+Attempt 1 using proxy: 161.123.152.115:6360 for category Hatchback, page 2
+Visiting www.carvana.com...
+Main site status code: 403
+Making API request...
+Status Code: 403
+Received 403 Forbidden - Trying another proxy...
+
+Attempt 2 using proxy: 154.36.110.199:6853 for category Hatchback, page 2
+Visiting www.carvana.com...
+Main site status code: 403
+Making API request...
+Status Code: 200
+Found 20 vehicles for category Hatchback on page 2
+
+Successful response for category Hatchback:
+Vehicles data saved to hatchback_vehicles_data.json
+
+Total vehicles found for Hatchback: 40
+
+Fetching data for category: Electric
+
+Attempt 1 using proxy: 154.36.110.199:6853 for category Electric, page 1
+Visiting www.carvana.com...
+Main site status code: 403
+Making API request...
+Status Code: 200
+Found 0 vehicles for category Electric on page 1
+
+Attempt 1 using proxy: 64.137.42.112:5157 for category Electric, page 2
+Visiting www.carvana.com...
+Main site status code: 403
+Making API request...
+Status Code: 403
+Received 403 Forbidden - Trying another proxy...
+
+Attempt 2 using proxy: 173.0.9.209:5792 for category Electric, page 2
+Visiting www.carvana.com...
+Main site status code: 403
+Making API request...
+Status Code: 200
+Found 0 vehicles for category Electric on page 2
+
+No vehicles data found for category Electric.
+
+Fetching data for category: Hybrid
+
+Attempt 1 using proxy: 161.123.152.115:6360 for category Hybrid, page 1
+Visiting www.carvana.com...
+Main site status code: 403
+Making API request...
+Status Code: 403
+Received 403 Forbidden - Trying another proxy...
+
+Attempt 2 using proxy: 173.0.9.209:5792 for category Hybrid, page 1
+Visiting www.carvana.com...
+Main site status code: 403
+Making API request...
+Status Code: 200
+Found 0 vehicles for category Hybrid on page 1
+
+Attempt 1 using proxy: 64.137.42.112:5157 for category Hybrid, page 2
+Visiting www.carvana.com...
+Main site status code: 403
+Making API request...
+Status Code: 403
+Received 403 Forbidden - Trying another proxy...
+
+Attempt 2 using proxy: 154.36.110.199:6853 for category Hybrid, page 2
+Visiting www.carvana.com...
+Main site status code: 403
+Making API request...
+Status Code: 200
+Found 0 vehicles for category Hybrid on page 2
+
+No vehicles data found for category Hybrid.
+
+Fetching data for category: Plug-In Hybrid
+
+Attempt 1 using proxy: 173.0.9.209:5792 for category Plug-In Hybrid, page 1
+Visiting www.carvana.com...
+Main site status code: 403
+Making API request...
+Status Code: 200
+Found 0 vehicles for category Plug-In Hybrid on page 1
+
+Attempt 1 using proxy: 154.36.110.199:6853 for category Plug-In Hybrid, page 2
+Visiting www.carvana.com...
+Main site status code: 403
+Making API request...
+Status Code: 200
+Found 0 vehicles for category Plug-In Hybrid on page 2
+
+No vehicles data found for category Plug-In Hybrid.

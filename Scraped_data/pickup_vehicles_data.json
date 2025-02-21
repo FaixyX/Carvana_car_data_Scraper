@@ -1,0 +1,4235 @@
+[
+  {
+    "stockNumber": 2003416735,
+    "vehicleId": 3436871,
+    "make": "Nissan",
+    "parentModel": "Frontier",
+    "model": "Frontier Crew Cab",
+    "trim": "S 5 ft",
+    "kbbTrim": "S Pickup 4D 5 ft",
+    "color": "White",
+    "interiorColor": "Gray",
+    "bodyStyle": "Pickup",
+    "mileage": 25233,
+    "milesPerGallon": 20,
+    "fuelType": "Gas",
+    "price": {
+      "total": 29590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 592.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 29051.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 2367.2
+    },
+    "year": 2024,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003416735/post-large/normalized/zoomcrop/2003416735-edc-02.jpg?v=2025.2.21_0.51.45",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_NISSAN_FRONTIER%20CREW%20CAB_S%20PICKUP%204D%205%20FT_WHITE_stock_desktop_1920x1080.png?v=1724096855.896",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_NISSAN_FRONTIER%20CREW%20CAB_S%20PICKUP%204D%205%20FT_WHITE_stock_mobile_640x640.png?v=1724096855.896",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003416735/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3900558/details/feature-107336963.jpg?v=1739666509.635",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-3900558/details/feature-107336966.jpg?v=1739666509.635",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3900558/details/feature-107336977.jpg?v=1739666509.635",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3900558/details/feature-107336968.jpg?v=1739666509.635",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3900558/details/feature-107336964.jpg?v=1739666509.635",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3900558/details/feature-107336970.jpg?v=1739666509.635",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2024-nissan-frontier-crew-cab-s-5-ft",
+    "priceUpdateDate": "2025-02-07T18:14:10.503Z",
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "1N6ED1EK0RN611153",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/171269328/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1736815664.277",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/171269328/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1736815664.277",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "",
+        "frameCount": 0,
+        "fps": 0.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  },
+  {
+    "stockNumber": 2003386011,
+    "vehicleId": 3453387,
+    "make": "Ram",
+    "parentModel": "1500 Classic",
+    "model": "1500 Classic Quad Cab",
+    "trim": "Warlock 6 1/3 ft",
+    "kbbTrim": "Warlock Pickup 4D 6 1/3 ft",
+    "color": "Red",
+    "interiorColor": "Gray",
+    "bodyStyle": "Pickup",
+    "mileage": 70045,
+    "milesPerGallon": 17,
+    "fuelType": "Gas",
+    "price": {
+      "total": 25590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 512.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 26625.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 2047.2
+    },
+    "year": 2019,
+    "seatingCapacity": 6,
+    "imageUrl": "/2003386011/post-large/normalized/zoomcrop/2003386011-edc-02.jpg?v=2025.2.21_0.51.45",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2019_RAM_1500%20CLASSIC%20QUAD%20CAB_WARLOCK%20PICKUP%204D%206%201/3%20FT_RED_stock_desktop_1920x1080.png?v=1645586865.664",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2019_RAM_1500%20CLASSIC%20QUAD%20CAB_WARLOCK%20PICKUP%204D%206%201/3%20FT_RED_stock_mobile_640x640.png?v=1645586865.664",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003386011/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3958149/details/feature-109711987.jpg?v=1739914694.077",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-3958149/details/feature-109711990.jpg?v=1739914694.077",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3958149/details/feature-109712001.jpg?v=1739914694.078",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3958149/details/feature-109711992.jpg?v=1739914694.077",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3958149/details/feature-109711988.jpg?v=1739914694.077",
+    "trunkImageUrl": "",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2019-ram-1500-classic-quad-cab-warlock-6-13-ft",
+    "priceUpdateDate": "2025-02-05T17:18:49.792Z",
+    "previousPrice": 25990.0,
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "1C6RR6GG5KS616455",
+    "vehicleTags": [
+      {
+        "tagId": 103,
+        "tagCategoryId": 1,
+        "tagKey": "RecentPriceDrop",
+        "tagName": "New Price",
+        "tagDescription": "New Price",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [
+      "CoreOD"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  },
+  {
+    "stockNumber": 2003197405,
+    "vehicleId": 3276907,
+    "make": "Ford",
+    "parentModel": "F-150",
+    "model": "F150 SuperCrew Cab",
+    "trim": "XL 5 1/2 ft",
+    "kbbTrim": "XL Pickup 4D 5 1/2 ft",
+    "color": "White",
+    "interiorColor": "Gray",
+    "bodyStyle": "Pickup",
+    "mileage": 37471,
+    "milesPerGallon": 18,
+    "fuelType": "Gas",
+    "price": {
+      "total": 21990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 440.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 17650.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1759.2
+    },
+    "year": 2012,
+    "seatingCapacity": 6,
+    "imageUrl": "/2003197405/post-large/normalized/zoomcrop/2003197405-edc-02.jpg?v=2025.2.21_0.51.45",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2012_FORD_F150%20SUPERCREW%20CAB_XL%20PICKUP%204D%205%201/2%20FT_WHITE_stock_desktop_1920x1080.png?v=1728499793.131",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2012_FORD_F150%20SUPERCREW%20CAB_XL%20PICKUP%204D%205%201/2%20FT_WHITE_stock_mobile_640x640.png?v=1728499793.131",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003197405/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4034236/details/feature-112854624.jpg?v=1738946472.444",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4034236/details/feature-112854627.jpg?v=1738946472.444",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4034236/details/feature-112854638.jpg?v=1738946472.444",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4034236/details/feature-112854629.jpg?v=1738946472.444",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4034236/details/feature-112854625.jpg?v=1738946472.444",
+    "trunkImageUrl": "",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2012-ford-f150-supercrew-cab-xl-5-12-ft",
+    "priceUpdateDate": "2025-02-19T18:38:05.85Z",
+    "previousPrice": 22590.0,
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "1FTFW1CT8CKD69900",
+    "vehicleTags": [
+      {
+        "tagId": 103,
+        "tagCategoryId": 1,
+        "tagKey": "RecentPriceDrop",
+        "tagName": "New Price",
+        "tagDescription": "New Price",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [
+      "CoreOD"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  },
+  {
+    "stockNumber": 2003288138,
+    "vehicleId": 3354989,
+    "make": "Hyundai",
+    "parentModel": "Santa Cruz",
+    "model": "Santa Cruz",
+    "trim": "SEL 4 ft",
+    "kbbTrim": "SEL Pickup 4D 4 ft",
+    "color": "Gray",
+    "interiorColor": "Gray",
+    "bodyStyle": "Pickup",
+    "mileage": 20027,
+    "milesPerGallon": 23,
+    "fuelType": "Gas",
+    "price": {
+      "total": 26990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 540.0,
+      "downPayment": 290.0,
+      "downPaymentDetails": {
+        "totalCashDue": 290.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 290.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 290.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 26788.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 2159.2
+    },
+    "year": 2024,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003288138/post-large/normalized/zoomcrop/2003288138-edc-02.jpg?v=2025.2.21_0.51.45",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_HYUNDAI_SANTA%20CRUZ_SEL%20PICKUP%204D%204%20FT_GRAY_stock_desktop_1920x1080.png?v=1722515573.368",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_HYUNDAI_SANTA%20CRUZ_SEL%20PICKUP%204D%204%20FT_GRAY_stock_mobile_640x640.png?v=1722515573.368",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003288138/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3623046/details/feature-96177211.jpg?v=1733876452.987",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-3623046/details/feature-96177214.jpg?v=1733876452.987",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3623046/details/feature-96177224.jpg?v=1733876452.987",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3623046/details/feature-96177216.jpg?v=1733876452.987",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3623046/details/feature-96177212.jpg?v=1733876452.987",
+    "trunkImageUrl": "",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 290,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2024-hyundai-santa-cruz-sel-4-ft",
+    "priceUpdateDate": "2025-02-03T16:34:10.44Z",
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "5NTJB4DEXRH108994",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [
+      "Partner-Retail",
+      "CoreOD"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  },
+  {
+    "stockNumber": 2003401311,
+    "vehicleId": 3436043,
+    "make": "Nissan",
+    "parentModel": "Frontier",
+    "model": "Frontier Crew Cab",
+    "trim": "PRO-X 5 ft",
+    "kbbTrim": "PRO-X Pickup 4D 5 ft",
+    "color": "Gray",
+    "interiorColor": "Black",
+    "bodyStyle": "Pickup",
+    "mileage": 14751,
+    "milesPerGallon": 20,
+    "fuelType": "Gas",
+    "price": {
+      "total": 34590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 692.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 33282.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 2767.2
+    },
+    "year": 2022,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003401311/post-large/normalized/zoomcrop/2003401311-edc-02.jpg?v=2025.2.21_0.51.45",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2022_NISSAN_FRONTIER%20CREW%20CAB_PRO-X%20PICKUP%204D%205%20FT_GRAY_stock_desktop_1920x1080.png?v=1696961892.906",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2022_NISSAN_FRONTIER%20CREW%20CAB_PRO-X%20PICKUP%204D%205%20FT_GRAY_stock_mobile_640x640.png?v=1696961892.906",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003401311/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3889494/details/feature-106892768.jpg?v=1736532207.530",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-3889494/details/feature-106892771.jpg?v=1736532207.530",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3889494/details/feature-106892782.jpg?v=1736532207.530",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3889494/details/feature-106892773.jpg?v=1736532207.530",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3889494/details/feature-106892769.jpg?v=1736532207.530",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3889494/details/feature-106892775.jpg?v=1736532207.530",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2022-nissan-frontier-crew-cab-pro-x-5-ft",
+    "priceUpdateDate": "2025-02-05T17:18:05.356Z",
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "1N6ED1EJ8NN601245",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [
+      "CoreOD"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  },
+  {
+    "stockNumber": 2003240227,
+    "vehicleId": 3313641,
+    "make": "GMC",
+    "parentModel": "Sierra 1500",
+    "model": "Sierra 1500 Crew Cab",
+    "trim": "5 3/4 ft",
+    "kbbTrim": "Pickup 4D 5 3/4 ft",
+    "color": "White",
+    "interiorColor": "Black",
+    "bodyStyle": "Pickup",
+    "mileage": 61914,
+    "milesPerGallon": 17,
+    "fuelType": "Gas",
+    "price": {
+      "total": 30990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 620.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 27503.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 2479.2
+    },
+    "year": 2021,
+    "seatingCapacity": 6,
+    "imageUrl": "/2003240227/post-large/normalized/zoomcrop/2003240227-edc-02.jpg?v=2025.2.21_0.51.45",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2021_GMC_SIERRA%201500%20CREW%20CAB_PICKUP%204D%205%203/4%20FT_WHITE_stock_desktop_1920x1080.png?v=1650416180.196",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2021_GMC_SIERRA%201500%20CREW%20CAB_PICKUP%204D%205%203/4%20FT_WHITE_stock_mobile_640x640.png?v=1650416180.196",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003240227/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3907828/details/feature-107639851.jpg?v=1738883547.954",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-3907828/details/feature-107639854.jpg?v=1738883547.954",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3907828/details/feature-107639865.jpg?v=1738883547.954",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3907828/details/feature-107639856.jpg?v=1738883547.954",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3907828/details/feature-107639852.jpg?v=1738883547.954",
+    "trunkImageUrl": "",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2021-gmc-sierra-1500-crew-cab-5-34-ft",
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "3GTP8AEHXMG284718",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [
+      "CoreOD"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  },
+  {
+    "stockNumber": 2003505127,
+    "vehicleId": 3496409,
+    "make": "Chevrolet",
+    "parentModel": "Silverado EV",
+    "model": "Silverado EV",
+    "trim": "Work Truck 6 ft",
+    "kbbTrim": "Work Truck Pickup 4D 6 ft",
+    "color": "Black",
+    "interiorColor": "Black",
+    "bodyStyle": "Pickup",
+    "mileage": 8159,
+    "milesPerGallon": 72,
+    "fuelType": "Electric",
+    "price": {
+      "total": 53990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 985.0,
+      "downPayment": 5399.0,
+      "downPaymentDetails": {
+        "totalCashDue": 5399.0,
+        "additionalCashDown": 5109.0,
+        "nonRefundableShippingFees": 290.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 290.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 58253.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 4319.2
+    },
+    "year": 2024,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003505127/post-large/normalized/zoomcrop/2003505127-edc-02.jpg?v=2025.2.21_0.51.45",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_CHEVROLET_SILVERADO%20EV_WORK%20TRUCK%20PICKUP%204D%206%20FT_BLACK_stock_desktop_1920x1080.png?v=1739403979.996",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_CHEVROLET_SILVERADO%20EV_WORK%20TRUCK%20PICKUP%204D%206%20FT_BLACK_stock_mobile_640x640.png?v=1739403979.996",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003505127/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4085262/details/feature-114938510.jpg?v=1739905460.703",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4085262/details/feature-114938513.jpg?v=1739905460.703",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4085262/details/feature-114938528.jpg?v=1739905460.703",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4085262/details/feature-114938515.jpg?v=1739905460.703",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4085262/details/feature-114938511.jpg?v=1739905460.703",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-4085262/details/feature-114938517.jpg?v=1739905460.703",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 290,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2024-chevrolet-silverado-ev-work-truck-6-ft",
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "1GC10UED6RU205836",
+    "vehicleTags": [
+      {
+        "tagId": 121,
+        "tagCategoryId": 1,
+        "tagKey": "RecentlyAdded",
+        "tagName": "Recently Added",
+        "tagDescription": "This vehicle has been made purchasable for the first time within the last 72 hours",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      },
+      {
+        "tagId": 104,
+        "tagCategoryId": 1,
+        "tagKey": "KeepMovingPrice",
+        "tagName": "Great Deal",
+        "tagDescription": "This vehicle is priced $4,263 lower than Kelley Blue Book\u00ae Typical Listing Price.<br><br>* Savings amount based on the difference between Kelley Blue Book\u00ae Typical Listing Price and the current Carvana listing price, not including tax, title, registration, or delivery charges. Savings amounts are updated daily.",
+        "tagToolTip": "",
+        "sortOrder": 700,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [
+      "Partner-Retail",
+      "CoreOD"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  },
+  {
+    "stockNumber": 2003505136,
+    "vehicleId": 3496380,
+    "make": "Chevrolet",
+    "parentModel": "Silverado EV",
+    "model": "Silverado EV",
+    "trim": "Work Truck 6 ft",
+    "kbbTrim": "Work Truck Pickup 4D 6 ft",
+    "color": "Black",
+    "interiorColor": "Black",
+    "bodyStyle": "Pickup",
+    "mileage": 5772,
+    "milesPerGallon": 72,
+    "fuelType": "Electric",
+    "price": {
+      "total": 55990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 1021.0,
+      "downPayment": 5599.0,
+      "downPaymentDetails": {
+        "totalCashDue": 5599.0,
+        "additionalCashDown": 5309.0,
+        "nonRefundableShippingFees": 290.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 290.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 58674.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 4479.2
+    },
+    "year": 2024,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003505136/post-large/normalized/zoomcrop/2003505136-edc-02.jpg?v=2025.2.21_0.51.45",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_CHEVROLET_SILVERADO%20EV_WORK%20TRUCK%20PICKUP%204D%206%20FT_BLACK_stock_desktop_1920x1080.png?v=1739403979.996",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_CHEVROLET_SILVERADO%20EV_WORK%20TRUCK%20PICKUP%204D%206%20FT_BLACK_stock_mobile_640x640.png?v=1739403979.996",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003505136/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4063442/details/feature-114050588.jpg?v=1739483750.416",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4063442/details/feature-114050591.jpg?v=1739483750.416",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4063442/details/feature-114050606.jpg?v=1739483750.416",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4063442/details/feature-114050593.jpg?v=1739483750.416",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4063442/details/feature-114050589.jpg?v=1739483750.416",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-4063442/details/feature-114050595.jpg?v=1739483750.416",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 290,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2024-chevrolet-silverado-ev-work-truck-6-ft",
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "1GC10UED5RU205780",
+    "vehicleTags": [
+      {
+        "tagId": 104,
+        "tagCategoryId": 1,
+        "tagKey": "KeepMovingPrice",
+        "tagName": "Great Deal",
+        "tagDescription": "This vehicle is priced $2,684 lower than Kelley Blue Book\u00ae Typical Listing Price.<br><br>* Savings amount based on the difference between Kelley Blue Book\u00ae Typical Listing Price and the current Carvana listing price, not including tax, title, registration, or delivery charges. Savings amounts are updated daily.",
+        "tagToolTip": "",
+        "sortOrder": 700,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [
+      "Partner-Retail",
+      "CoreOD"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  },
+  {
+    "stockNumber": 2003442062,
+    "vehicleId": 3458297,
+    "make": "Ford",
+    "parentModel": "F-150",
+    "model": "F150 Super Cab",
+    "trim": "XLT 6 1/2 ft",
+    "kbbTrim": "XLT Pickup 4D 6 1/2 ft",
+    "color": "White",
+    "interiorColor": "Gray",
+    "bodyStyle": "Pickup",
+    "mileage": 97684,
+    "milesPerGallon": 20,
+    "fuelType": "Gas",
+    "price": {
+      "total": 25590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 512.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 23428.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 2047.2
+    },
+    "year": 2020,
+    "seatingCapacity": 6,
+    "imageUrl": "/2003442062/post-large/normalized/zoomcrop/2003442062-edc-02.jpg?v=2025.2.21_0.51.45",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2020_FORD_F150%20SUPER%20CAB_XLT%20PICKUP%204D%206%201/2%20FT_WHITE_stock_desktop_1920x1080.png?v=1645590659.809",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2020_FORD_F150%20SUPER%20CAB_XLT%20PICKUP%204D%206%201/2%20FT_WHITE_stock_mobile_640x640.png?v=1645590659.809",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003442062/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4037653/details/feature-113011784.jpg?v=1739012668.840",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4037653/details/feature-113011787.jpg?v=1739012668.840",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4037653/details/feature-113011798.jpg?v=1739012668.840",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4037653/details/feature-113011789.jpg?v=1739012668.840",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4037653/details/feature-113011785.jpg?v=1739012668.840",
+    "trunkImageUrl": "",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2020-ford-f150-super-cab-xlt-6-12-ft",
+    "priceUpdateDate": "2025-02-14T17:32:04.099Z",
+    "previousPrice": 25990.0,
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "1FTEX1EP8LKD33830",
+    "vehicleTags": [
+      {
+        "tagId": 103,
+        "tagCategoryId": 1,
+        "tagKey": "RecentPriceDrop",
+        "tagName": "New Price",
+        "tagDescription": "New Price",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [
+      "CoreOD"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  },
+  {
+    "stockNumber": 2003505130,
+    "vehicleId": 3496389,
+    "make": "Chevrolet",
+    "parentModel": "Silverado EV",
+    "model": "Silverado EV",
+    "trim": "Work Truck 6 ft",
+    "kbbTrim": "Work Truck Pickup 4D 6 ft",
+    "color": "White",
+    "interiorColor": "Black",
+    "bodyStyle": "Pickup",
+    "mileage": 8607,
+    "milesPerGallon": 72,
+    "fuelType": "Electric",
+    "price": {
+      "total": 54990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 1003.0,
+      "downPayment": 5499.0,
+      "downPaymentDetails": {
+        "totalCashDue": 5499.0,
+        "additionalCashDown": 5209.0,
+        "nonRefundableShippingFees": 290.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 290.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 57900.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 4399.2
+    },
+    "year": 2024,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003505130/post-large/normalized/zoomcrop/2003505130-edc-02.jpg?v=2025.2.21_0.51.45",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_CHEVROLET_SILVERADO%20EV_WORK%20TRUCK%20PICKUP%204D%206%20FT_WHITE_stock_desktop_1920x1080.png?v=1723662130.676",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_CHEVROLET_SILVERADO%20EV_WORK%20TRUCK%20PICKUP%204D%206%20FT_WHITE_stock_mobile_640x640.png?v=1723662130.676",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003505130/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4066063/details/feature-114180973.jpg?v=1739483666.746",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4066063/details/feature-114180976.jpg?v=1739483666.746",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4066063/details/feature-114180991.jpg?v=1739483666.746",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4066063/details/feature-114180978.jpg?v=1739483666.746",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4066063/details/feature-114180974.jpg?v=1739483666.746",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-4066063/details/feature-114180980.jpg?v=1739483666.746",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 290,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2024-chevrolet-silverado-ev-work-truck-6-ft",
+    "priceUpdateDate": "2025-02-19T18:26:29.161Z",
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "1GC10VEL2RU201537",
+    "vehicleTags": [
+      {
+        "tagId": 104,
+        "tagCategoryId": 1,
+        "tagKey": "KeepMovingPrice",
+        "tagName": "Great Deal",
+        "tagDescription": "This vehicle is priced $2,910 lower than Kelley Blue Book\u00ae Typical Listing Price.<br><br>* Savings amount based on the difference between Kelley Blue Book\u00ae Typical Listing Price and the current Carvana listing price, not including tax, title, registration, or delivery charges. Savings amounts are updated daily.",
+        "tagToolTip": "",
+        "sortOrder": 700,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "148pt",
+    "stores": [
+      "Partner-Retail",
+      "CoreOD",
+      "148pt"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  },
+  {
+    "stockNumber": 2003505106,
+    "vehicleId": 3496403,
+    "make": "Chevrolet",
+    "parentModel": "Silverado EV",
+    "model": "Silverado EV",
+    "trim": "Work Truck 6 ft",
+    "kbbTrim": "Work Truck Pickup 4D 6 ft",
+    "color": "White",
+    "interiorColor": "Black",
+    "bodyStyle": "Pickup",
+    "mileage": 17551,
+    "milesPerGallon": 72,
+    "fuelType": "Electric",
+    "price": {
+      "total": 53590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 977.0,
+      "downPayment": 5359.0,
+      "downPaymentDetails": {
+        "totalCashDue": 5359.0,
+        "additionalCashDown": 5069.0,
+        "nonRefundableShippingFees": 290.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 290.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 56355.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 4287.2
+    },
+    "year": 2024,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003505106/post-large/normalized/zoomcrop/2003505106-edc-02.jpg?v=2025.2.21_0.51.45",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_CHEVROLET_SILVERADO%20EV_WORK%20TRUCK%20PICKUP%204D%206%20FT_WHITE_stock_desktop_1920x1080.png?v=1723662130.676",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_CHEVROLET_SILVERADO%20EV_WORK%20TRUCK%20PICKUP%204D%206%20FT_WHITE_stock_mobile_640x640.png?v=1723662130.676",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003505106/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4066995/details/feature-114214916.jpg?v=1739484013.652",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4066995/details/feature-114214919.jpg?v=1739484013.652",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4066995/details/feature-114214934.jpg?v=1739484013.652",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4066995/details/feature-114214921.jpg?v=1739484013.652",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4066995/details/feature-114214917.jpg?v=1739484013.652",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-4066995/details/feature-114214923.jpg?v=1739484013.652",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 290,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2024-chevrolet-silverado-ev-work-truck-6-ft",
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "1GC10UED8RU201416",
+    "vehicleTags": [
+      {
+        "tagId": 104,
+        "tagCategoryId": 1,
+        "tagKey": "KeepMovingPrice",
+        "tagName": "Great Deal",
+        "tagDescription": "This vehicle is priced $2,765 lower than Kelley Blue Book\u00ae Typical Listing Price.<br><br>* Savings amount based on the difference between Kelley Blue Book\u00ae Typical Listing Price and the current Carvana listing price, not including tax, title, registration, or delivery charges. Savings amounts are updated daily.",
+        "tagToolTip": "",
+        "sortOrder": 700,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [
+      "Partner-Retail",
+      "CoreOD"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  },
+  {
+    "stockNumber": 2003505103,
+    "vehicleId": 3496416,
+    "make": "Chevrolet",
+    "parentModel": "Silverado EV",
+    "model": "Silverado EV",
+    "trim": "Work Truck 6 ft",
+    "kbbTrim": "Work Truck Pickup 4D 6 ft",
+    "color": "White",
+    "interiorColor": "Black",
+    "bodyStyle": "Pickup",
+    "mileage": 18294,
+    "milesPerGallon": 72,
+    "fuelType": "Electric",
+    "price": {
+      "total": 53590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 977.0,
+      "downPayment": 5359.0,
+      "downPaymentDetails": {
+        "totalCashDue": 5359.0,
+        "additionalCashDown": 5069.0,
+        "nonRefundableShippingFees": 290.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 290.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 56267.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 4287.2
+    },
+    "year": 2024,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003505103/post-large/normalized/zoomcrop/2003505103-edc-02.jpg?v=2025.2.21_0.51.45",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_CHEVROLET_SILVERADO%20EV_WORK%20TRUCK%20PICKUP%204D%206%20FT_WHITE_stock_desktop_1920x1080.png?v=1723662130.676",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_CHEVROLET_SILVERADO%20EV_WORK%20TRUCK%20PICKUP%204D%206%20FT_WHITE_stock_mobile_640x640.png?v=1723662130.676",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003505103/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4060622/details/feature-113938066.jpg?v=1739474561.734",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4060622/details/feature-113938069.jpg?v=1739474561.734",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4060622/details/feature-113938084.jpg?v=1739474561.734",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4060622/details/feature-113938071.jpg?v=1739474561.734",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4060622/details/feature-113938067.jpg?v=1739474561.734",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-4060622/details/feature-113938073.jpg?v=1739474561.734",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 290,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2024-chevrolet-silverado-ev-work-truck-6-ft",
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "1GC10UED3RU200495",
+    "vehicleTags": [
+      {
+        "tagId": 104,
+        "tagCategoryId": 1,
+        "tagKey": "KeepMovingPrice",
+        "tagName": "Great Deal",
+        "tagDescription": "This vehicle is priced $2,677 lower than Kelley Blue Book\u00ae Typical Listing Price.<br><br>* Savings amount based on the difference between Kelley Blue Book\u00ae Typical Listing Price and the current Carvana listing price, not including tax, title, registration, or delivery charges. Savings amounts are updated daily.",
+        "tagToolTip": "",
+        "sortOrder": 700,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [
+      "Partner-Retail"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  },
+  {
+    "stockNumber": 2003505115,
+    "vehicleId": 3495806,
+    "make": "Chevrolet",
+    "parentModel": "Silverado EV",
+    "model": "Silverado EV",
+    "trim": "Work Truck 6 ft",
+    "kbbTrim": "Work Truck Pickup 4D 6 ft",
+    "color": "White",
+    "interiorColor": "Black",
+    "bodyStyle": "Pickup",
+    "mileage": 14264,
+    "milesPerGallon": 72,
+    "fuelType": "Electric",
+    "price": {
+      "total": 55990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 1021.0,
+      "downPayment": 5599.0,
+      "downPaymentDetails": {
+        "totalCashDue": 5599.0,
+        "additionalCashDown": 5309.0,
+        "nonRefundableShippingFees": 290.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 290.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 56960.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 4479.2
+    },
+    "year": 2024,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003505115/post-large/normalized/zoomcrop/2003505115-edc-02.jpg?v=2025.2.21_0.51.45",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_CHEVROLET_SILVERADO%20EV_WORK%20TRUCK%20PICKUP%204D%206%20FT_WHITE_stock_desktop_1920x1080.png?v=1723662130.676",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_CHEVROLET_SILVERADO%20EV_WORK%20TRUCK%20PICKUP%204D%206%20FT_WHITE_stock_mobile_640x640.png?v=1723662130.676",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003505115/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4059840/details/feature-113907893.jpg?v=1739705407.625",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4059840/details/feature-113907896.jpg?v=1739705407.625",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4059840/details/feature-113907911.jpg?v=1739705407.625",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4059840/details/feature-113907898.jpg?v=1739705407.625",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4059840/details/feature-113907894.jpg?v=1739705407.625",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-4059840/details/feature-113907900.jpg?v=1739705407.625",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 290,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2024-chevrolet-silverado-ev-work-truck-6-ft",
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "1GC10VEL3RU201532",
+    "vehicleTags": [
+      {
+        "tagId": 121,
+        "tagCategoryId": 1,
+        "tagKey": "RecentlyAdded",
+        "tagName": "Recently Added",
+        "tagDescription": "This vehicle has been made purchasable for the first time within the last 72 hours",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [
+      "Partner-Retail",
+      "CoreOD"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  },
+  {
+    "stockNumber": 2003343176,
+    "vehicleId": 3388342,
+    "make": "Ford",
+    "parentModel": "F-150",
+    "model": "F150 SuperCrew Cab",
+    "trim": "XLT 5 1/2 ft",
+    "kbbTrim": "XLT Pickup 4D 5 1/2 ft",
+    "color": "Silver",
+    "interiorColor": "Gray",
+    "bodyStyle": "Pickup",
+    "mileage": 21885,
+    "milesPerGallon": 19,
+    "fuelType": "Gas",
+    "price": {
+      "total": 34590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 692.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 35849.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 2767.2
+    },
+    "year": 2019,
+    "seatingCapacity": 6,
+    "imageUrl": "/2003343176/post-large/normalized/zoomcrop/2003343176-edc-02.jpg?v=2025.2.21_0.51.45",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2019_FORD_F150%20SUPERCREW%20CAB_XLT%20PICKUP%204D%205%201/2%20FT_SILVER_stock_desktop_1920x1080.png?v=1646072087.286",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2019_FORD_F150%20SUPERCREW%20CAB_XLT%20PICKUP%204D%205%201/2%20FT_SILVER_stock_mobile_640x640.png?v=1646072087.286",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003343176/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3732382/details/feature-100626234.jpg?v=1736370035.615",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-3732382/details/feature-100626237.jpg?v=1736370035.615",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3732382/details/feature-100626247.jpg?v=1736370035.615",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3732382/details/feature-100626239.jpg?v=1736370035.615",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3732382/details/feature-100626235.jpg?v=1736370035.615",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3732382/details/feature-100626241.jpg?v=1736370035.615",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2019-ford-f150-supercrew-cab-xlt-5-12-ft",
+    "priceUpdateDate": "2025-02-14T17:32:15.897Z",
+    "previousPrice": 34990.0,
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "1FTEW1E48KFC24526",
+    "vehicleTags": [
+      {
+        "tagId": 103,
+        "tagCategoryId": 1,
+        "tagKey": "RecentPriceDrop",
+        "tagName": "New Price",
+        "tagDescription": "New Price",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  },
+  {
+    "stockNumber": 2003431534,
+    "vehicleId": 3444610,
+    "make": "Nissan",
+    "parentModel": "Titan",
+    "model": "Titan Crew Cab",
+    "trim": "SL 5 1/2 ft",
+    "kbbTrim": "SL Pickup 4D 5 1/2 ft",
+    "color": "Black",
+    "interiorColor": "Black",
+    "bodyStyle": "Pickup",
+    "mileage": 49627,
+    "milesPerGallon": 14,
+    "fuelType": "Gas",
+    "price": {
+      "total": 27990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 560.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 24768.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 2239.2
+    },
+    "year": 2015,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003431534/post-large/normalized/zoomcrop/2003431534-edc-02.jpg?v=2025.2.21_0.51.45",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2015_NISSAN_TITAN%20CREW%20CAB_SL%20PICKUP%204D%205%201/2%20FT_BLACK_stock_desktop_1920x1080.png?v=1653540762.501",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2015_NISSAN_TITAN%20CREW%20CAB_SL%20PICKUP%204D%205%201/2%20FT_BLACK_stock_mobile_640x640.png?v=1653540762.501",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003431534/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4098275/details/feature-115461106.jpg?v=1740070547.059",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4098275/details/feature-115461117.jpg?v=1740070547.059",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4098275/details/feature-115461108.jpg?v=1740070547.059",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4098275/details/feature-115461104.jpg?v=1740070547.059",
+    "trunkImageUrl": "",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2015-nissan-titan-crew-cab-sl-5-12-ft",
+    "priceUpdateDate": "2025-02-10T17:44:50.8Z",
+    "locationId": 43,
+    "stockRecallStatusType": 0,
+    "vin": "1N6BA0EC7FN503543",
+    "vehicleTags": [
+      {
+        "tagId": 121,
+        "tagCategoryId": 1,
+        "tagKey": "RecentlyAdded",
+        "tagName": "Recently Added",
+        "tagDescription": "This vehicle has been made purchasable for the first time within the last 72 hours",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 343,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003360871,
+    "vehicleId": 3397720,
+    "make": "Chevrolet",
+    "parentModel": "Silverado 2500",
+    "model": "Silverado 2500 HD Crew Cab",
+    "trim": "Work Truck 8 ft",
+    "kbbTrim": "Work Truck Pickup 4D 8 ft",
+    "color": "White",
+    "interiorColor": "Black",
+    "bodyStyle": "Pickup",
+    "mileage": 40251,
+    "milesPerGallon": 0,
+    "fuelType": "Gas",
+    "price": {
+      "total": 42590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 796.0,
+      "downPayment": 3000.0,
+      "downPaymentDetails": {
+        "totalCashDue": 3000.0,
+        "additionalCashDown": 3000.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 40978.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 3407.2
+    },
+    "year": 2023,
+    "seatingCapacity": 6,
+    "imageUrl": "/2003360871/post-large/normalized/zoomcrop/2003360871-edc-02.jpg?v=2025.2.21_0.51.45",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2023_CHEVROLET_SILVERADO%202500%20HD%20CREW%20CAB_CUSTOM%20PICKUP%204D%206%201/2%20FT_WHITE_stock_desktop_1920x1080.png?v=1724416158.200",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2023_CHEVROLET_SILVERADO%202500%20HD%20CREW%20CAB_CUSTOM%20PICKUP%204D%206%201/2%20FT_WHITE_stock_mobile_640x640.png?v=1724416158.200",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003360871/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4079690/details/feature-114702370.jpg?v=1739818028.406",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4079690/details/feature-114702373.jpg?v=1739818028.406",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4079690/details/feature-114702384.jpg?v=1739818028.406",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4079690/details/feature-114702375.jpg?v=1739818028.406",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4079690/details/feature-114702371.jpg?v=1739818028.406",
+    "trunkImageUrl": "",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2023-chevrolet-silverado-2500-hd-crew-cab-work-truck-8-ft",
+    "priceUpdateDate": "2025-02-21T00:05:15.732Z",
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "1GC4YLE7XPF141439",
+    "vehicleTags": [
+      {
+        "tagId": 121,
+        "tagCategoryId": 1,
+        "tagKey": "RecentlyAdded",
+        "tagName": "Recently Added",
+        "tagDescription": "This vehicle has been made purchasable for the first time within the last 72 hours",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [
+      "CoreOD"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  },
+  {
+    "stockNumber": 2003445946,
+    "vehicleId": 3469354,
+    "make": "Nissan",
+    "parentModel": "Frontier",
+    "model": "Frontier Crew Cab",
+    "trim": "S 5 ft",
+    "kbbTrim": "S Pickup 4D 5 ft",
+    "color": "Red",
+    "interiorColor": "Black",
+    "bodyStyle": "Pickup",
+    "mileage": 15045,
+    "milesPerGallon": 19,
+    "fuelType": "Gas",
+    "price": {
+      "total": 27590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 552.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 27187.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 2207.2
+    },
+    "year": 2022,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003445946/post-large/normalized/zoomcrop/2003445946-edc-02.jpg?v=2025.2.21_0.51.45",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2022_NISSAN_FRONTIER%20CREW%20CAB_S%20PICKUP%204D%205%20FT_RED_stock_desktop_1920x1080.png?v=1651062644.474",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2022_NISSAN_FRONTIER%20CREW%20CAB_S%20PICKUP%204D%205%20FT_RED_stock_mobile_640x640.png?v=1651062644.474",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003445946/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4083326/details/feature-114849215.jpg?v=1739889532.595",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4083326/details/feature-114849218.jpg?v=1739889532.595",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4083326/details/feature-114849229.jpg?v=1739889532.595",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4083326/details/feature-114849220.jpg?v=1739889532.595",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4083326/details/feature-114849216.jpg?v=1739889532.595",
+    "trunkImageUrl": "",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2022-nissan-frontier-crew-cab-s-5-ft",
+    "priceUpdateDate": "2025-02-10T17:45:23.997Z",
+    "locationId": 43,
+    "stockRecallStatusType": 0,
+    "vin": "1N6ED1EJ3NN681683",
+    "vehicleTags": [
+      {
+        "tagId": 121,
+        "tagCategoryId": 1,
+        "tagKey": "RecentlyAdded",
+        "tagName": "Recently Added",
+        "tagDescription": "This vehicle has been made purchasable for the first time within the last 72 hours",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/179536766/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1739894154.174",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/179536766/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1739894154.174",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "https://vexgateway.fastly.carvana.io/executions/179536766/GAUSSIAN_RENDERER/poster.jpg?v=1739894154.174",
+        "frameCount": 969,
+        "fps": 30.0
+      },
+      {
+        "videoName": "srpvideo-swipe",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/179536766/GAUSSIAN_RENDERER/srpvideo-swipe.mp4?v=1739894154.174",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/179536766/GAUSSIAN_RENDERER/srpvideo-swipe-h265.mp4?v=1739894154.174",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "pauseFrames": [
+          {
+            "start": 0,
+            "end": 0
+          },
+          {
+            "start": 45,
+            "end": 49
+          },
+          {
+            "start": 69,
+            "end": 73
+          },
+          {
+            "start": 111,
+            "end": 115
+          },
+          {
+            "start": 149,
+            "end": 153
+          },
+          {
+            "start": 192,
+            "end": 196
+          },
+          {
+            "start": 235,
+            "end": 239
+          },
+          {
+            "start": 278,
+            "end": 282
+          },
+          {
+            "start": 321,
+            "end": 325
+          },
+          {
+            "start": 364,
+            "end": 368
+          },
+          {
+            "start": 407,
+            "end": 415
+          },
+          {
+            "start": 471,
+            "end": 475
+          },
+          {
+            "start": 531,
+            "end": 539
+          },
+          {
+            "start": 578,
+            "end": 582
+          },
+          {
+            "start": 621,
+            "end": 625
+          },
+          {
+            "start": 664,
+            "end": 668
+          },
+          {
+            "start": 707,
+            "end": 711
+          },
+          {
+            "start": 750,
+            "end": 754
+          },
+          {
+            "start": 793,
+            "end": 797
+          },
+          {
+            "start": 831,
+            "end": 835
+          },
+          {
+            "start": 873,
+            "end": 877
+          },
+          {
+            "start": 897,
+            "end": 901
+          },
+          {
+            "start": 946,
+            "end": 950
+          }
+        ],
+        "thumbnailURL": "https://vexgateway.fastly.carvana.io/executions/179536766/GAUSSIAN_RENDERER/srpvideo-swipe.jpg?v=1739894154.174",
+        "frameCount": 950,
+        "fps": 30.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 343,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003365540,
+    "vehicleId": 3404270,
+    "make": "Chevrolet",
+    "parentModel": "Silverado 1500",
+    "model": "Silverado 1500 Crew Cab",
+    "trim": "Z71 LTZ 5 3/4 ft",
+    "kbbTrim": "Z71 LTZ Pickup 4D 5 3/4 ft",
+    "color": "White",
+    "interiorColor": "Gray",
+    "bodyStyle": "Pickup",
+    "mileage": 102341,
+    "milesPerGallon": 17,
+    "fuelType": "Gas",
+    "price": {
+      "total": 29590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 592.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 32218.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 2367.2
+    },
+    "year": 2018,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003365540/post-large/normalized/zoomcrop/2003365540-edc-02.jpg?v=2025.2.21_0.51.45",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2018_CHEVROLET_SILVERADO%201500%20CREW%20CAB_Z71%20LTZ%20PICKUP%204D%205%203/4%20FT_WHITE_stock_desktop_1920x1080.png?v=1647303126.109",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2018_CHEVROLET_SILVERADO%201500%20CREW%20CAB_Z71%20LTZ%20PICKUP%204D%205%203/4%20FT_WHITE_stock_mobile_640x640.png?v=1647303126.109",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003365540/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-3890408/details/feature-106938958.jpg?v=1740079968.623",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3890408/details/feature-106938971.jpg?v=1740079968.623",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3890408/details/feature-106938960.jpg?v=1740079968.623",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3890408/details/feature-106938956.jpg?v=1740079968.623",
+    "trunkImageUrl": "",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2018-chevrolet-silverado-1500-crew-cab-z71-ltz-5-34-ft",
+    "priceUpdateDate": "2025-02-13T17:51:26.273Z",
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "3GCUKSEC5JG356631",
+    "vehicleTags": [
+      {
+        "tagId": 104,
+        "tagCategoryId": 1,
+        "tagKey": "KeepMovingPrice",
+        "tagName": "Great Deal",
+        "tagDescription": "This vehicle is priced $2,628 lower than Kelley Blue Book\u00ae Typical Listing Price.<br><br>* Savings amount based on the difference between Kelley Blue Book\u00ae Typical Listing Price and the current Carvana listing price, not including tax, title, registration, or delivery charges. Savings amounts are updated daily.",
+        "tagToolTip": "",
+        "sortOrder": 700,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [
+      "CoreOD"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  },
+  {
+    "stockNumber": 2003462539,
+    "vehicleId": 3469820,
+    "make": "Chevrolet",
+    "parentModel": "Silverado 1500",
+    "model": "Silverado 1500 Crew Cab",
+    "trim": "LT Trail Boss 5 3/4 ft",
+    "kbbTrim": "LT Trail Boss Pickup 4D 5 3/4 ft",
+    "color": "Black",
+    "interiorColor": "Black",
+    "bodyStyle": "Pickup",
+    "mileage": 23297,
+    "milesPerGallon": 17,
+    "fuelType": "Gas",
+    "price": {
+      "total": 46590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 857.0,
+      "downPayment": 4000.0,
+      "downPaymentDetails": {
+        "totalCashDue": 4000.0,
+        "additionalCashDown": 4000.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 47019.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 3727.2
+    },
+    "year": 2020,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003462539/post-large/normalized/zoomcrop/2003462539-edc-02.jpg?v=2025.2.21_0.51.45",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2020_CHEVROLET_SILVERADO%201500%20CREW%20CAB_LT%20TRAIL%20BOSS%20PICKUP%204D%205%203/4%20FT_BLACK_stock_desktop_1920x1080.png?v=1645587458.698",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2020_CHEVROLET_SILVERADO%201500%20CREW%20CAB_LT%20TRAIL%20BOSS%20PICKUP%204D%205%203/4%20FT_BLACK_stock_mobile_640x640.png?v=1645587458.698",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003462539/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4013743/details/feature-112001266.jpg?v=1740082811.908",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4013743/details/feature-112001277.jpg?v=1740082811.908",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4013743/details/feature-112001268.jpg?v=1740082811.908",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4013743/details/feature-112001264.jpg?v=1740082811.908",
+    "trunkImageUrl": "",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2020-chevrolet-silverado-1500-crew-cab-lt-trail-boss-5-34-ft",
+    "priceUpdateDate": "2025-02-13T17:51:53.36Z",
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "1GCPYFEL0LZ291113",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [
+      "CoreOD"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  },
+  {
+    "stockNumber": 2003197300,
+    "vehicleId": 3282540,
+    "make": "Nissan",
+    "parentModel": "Titan",
+    "model": "Titan Crew Cab",
+    "trim": "S 5 1/2 ft",
+    "kbbTrim": "S Pickup 4D 5 1/2 ft",
+    "color": "Red",
+    "interiorColor": "Black",
+    "bodyStyle": "Pickup",
+    "mileage": 27142,
+    "milesPerGallon": 14,
+    "fuelType": "Gas",
+    "price": {
+      "total": 21990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 440.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 22092.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1759.2
+    },
+    "year": 2015,
+    "seatingCapacity": 6,
+    "imageUrl": "/2003197300/post-large/normalized/zoomcrop/2003197300-edc-02.jpg?v=2025.2.21_0.51.45",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2015_NISSAN_TITAN%20CREW%20CAB_S%20PICKUP%204D%205%201/2%20FT_RED_stock_desktop_1920x1080.png?v=1645374584.502",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2015_NISSAN_TITAN%20CREW%20CAB_S%20PICKUP%204D%205%201/2%20FT_RED_stock_mobile_640x640.png?v=1645374584.502",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003197300/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3563974/details/feature-93739915.jpg?v=1738624453.692",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-3563974/details/feature-93739918.jpg?v=1738624453.692",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3563974/details/feature-93739928.jpg?v=1738624453.692",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3563974/details/feature-93739920.jpg?v=1738624453.692",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3563974/details/feature-93739916.jpg?v=1738624453.692",
+    "trunkImageUrl": "",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2015-nissan-titan-crew-cab-s-5-12-ft",
+    "priceUpdateDate": "2025-02-12T17:38:39.315Z",
+    "locationId": 43,
+    "stockRecallStatusType": 0,
+    "vin": "1N6AA0EK6FN512124",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/156840395/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1730495748.868",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/156840395/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1730495748.868",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "",
+        "frameCount": 0,
+        "fps": 0.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 343,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003197300,
+    "vehicleId": 3282540,
+    "make": "Nissan",
+    "parentModel": "Titan",
+    "model": "Titan Crew Cab",
+    "trim": "S 5 1/2 ft",
+    "kbbTrim": "S Pickup 4D 5 1/2 ft",
+    "color": "Red",
+    "interiorColor": "Black",
+    "bodyStyle": "Pickup",
+    "mileage": 27142,
+    "milesPerGallon": 14,
+    "fuelType": "Gas",
+    "price": {
+      "total": 21990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 440.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 22092.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1759.2
+    },
+    "year": 2015,
+    "seatingCapacity": 6,
+    "imageUrl": "/2003197300/post-large/normalized/zoomcrop/2003197300-edc-02.jpg?v=2025.2.21_0.52.2",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2015_NISSAN_TITAN%20CREW%20CAB_S%20PICKUP%204D%205%201/2%20FT_RED_stock_desktop_1920x1080.png?v=1645374584.502",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2015_NISSAN_TITAN%20CREW%20CAB_S%20PICKUP%204D%205%201/2%20FT_RED_stock_mobile_640x640.png?v=1645374584.502",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003197300/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3563974/details/feature-93739915.jpg?v=1738624453.692",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-3563974/details/feature-93739918.jpg?v=1738624453.692",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3563974/details/feature-93739928.jpg?v=1738624453.692",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3563974/details/feature-93739920.jpg?v=1738624453.692",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3563974/details/feature-93739916.jpg?v=1738624453.692",
+    "trunkImageUrl": "",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2015-nissan-titan-crew-cab-s-5-12-ft",
+    "priceUpdateDate": "2025-02-12T17:38:39.315Z",
+    "locationId": 43,
+    "stockRecallStatusType": 0,
+    "vin": "1N6AA0EK6FN512124",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/156840395/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1730495748.868",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/156840395/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1730495748.868",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "",
+        "frameCount": 0,
+        "fps": 0.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 343,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003427945,
+    "vehicleId": 3444425,
+    "make": "Toyota",
+    "parentModel": "Tacoma",
+    "model": "Tacoma Double Cab",
+    "trim": "TRD Sport 5 ft",
+    "kbbTrim": "TRD Sport Pickup 4D 5 ft",
+    "color": "Silver",
+    "interiorColor": "Other",
+    "bodyStyle": "Pickup",
+    "mileage": 13963,
+    "milesPerGallon": 21,
+    "fuelType": "Gas",
+    "price": {
+      "total": 39990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 800.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 39887.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 3199.2
+    },
+    "year": 2024,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003427945/post-large/normalized/zoomcrop/2003427945-edc-02.jpg?v=2025.2.21_0.52.2",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_TOYOTA_TACOMA%20DOUBLE%20CAB_TRD%20SPORT%20PICKUP%204D%205%20FT_SILVER_stock_desktop_1920x1080.png?v=1738624704.362",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_TOYOTA_TACOMA%20DOUBLE%20CAB_TRD%20SPORT%20PICKUP%204D%205%20FT_SILVER_stock_mobile_640x640.png?v=1738624704.362",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003427945/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3900260/details/feature-107323507.jpg?v=1739201619.135",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-3900260/details/feature-107323510.jpg?v=1739201619.135",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3900260/details/feature-107323521.jpg?v=1739201619.135",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3900260/details/feature-107323512.jpg?v=1739201619.135",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3900260/details/feature-107323508.jpg?v=1739201619.135",
+    "trunkImageUrl": "",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2024-toyota-tacoma-double-cab-trd-sport-5-ft",
+    "priceUpdateDate": "2025-02-21T00:05:47.688Z",
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "3TMKB5FNXRM005588",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/172425140/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1737140735.916",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/172425140/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1737140735.916",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "",
+        "frameCount": 0,
+        "fps": 0.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 2
+  },
+  {
+    "stockNumber": 2003431517,
+    "vehicleId": 3449594,
+    "make": "Ram",
+    "parentModel": "2500",
+    "model": "2500 Crew Cab",
+    "trim": "Laramie Longhorn 6 1/3 ft",
+    "kbbTrim": "Laramie Longhorn Pickup 4D 6 1/3 ft",
+    "color": "Black",
+    "interiorColor": "Other",
+    "bodyStyle": "Pickup",
+    "mileage": 13021,
+    "milesPerGallon": 0,
+    "fuelType": "Diesel",
+    "price": {
+      "total": 72590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 1317.0,
+      "downPayment": 7259.0,
+      "downPaymentDetails": {
+        "totalCashDue": 7259.0,
+        "additionalCashDown": 7259.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 74546.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 5807.2
+    },
+    "year": 2023,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003431517/post-large/normalized/zoomcrop/2003431517-edc-02.jpg?v=2025.2.21_0.52.2",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2023_RAM_2500%20CREW%20CAB_LARAMIE%20LONGHORN%20PICKUP%204D%206%201/3%20FT_BLACK_stock_desktop_1920x1080.png?v=1737130156.493",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2023_RAM_2500%20CREW%20CAB_LARAMIE%20LONGHORN%20PICKUP%204D%206%201/3%20FT_BLACK_stock_mobile_640x640.png?v=1737130156.493",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003431517/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-3925881/details/feature-108418444.jpg?v=1740082036.819",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3925881/details/feature-108418456.jpg?v=1740082036.819",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3925881/details/feature-108418446.jpg?v=1740082036.819",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3925881/details/feature-108418442.jpg?v=1740082036.819",
+    "trunkImageUrl": "",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2023-ram-2500-crew-cab-laramie-longhorn-6-13-ft",
+    "priceUpdateDate": "2025-02-14T17:32:00.118Z",
+    "previousPrice": 72990.0,
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "3C6UR5GL7PG615503",
+    "vehicleTags": [
+      {
+        "tagId": 103,
+        "tagCategoryId": 1,
+        "tagKey": "RecentPriceDrop",
+        "tagName": "New Price",
+        "tagDescription": "New Price",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      },
+      {
+        "tagId": 104,
+        "tagCategoryId": 1,
+        "tagKey": "KeepMovingPrice",
+        "tagName": "Great Deal",
+        "tagDescription": "This vehicle is priced $1,956 lower than Kelley Blue Book\u00ae Typical Listing Price.<br><br>* Savings amount based on the difference between Kelley Blue Book\u00ae Typical Listing Price and the current Carvana listing price, not including tax, title, registration, or delivery charges. Savings amounts are updated daily.",
+        "tagToolTip": "",
+        "sortOrder": 700,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/172414845/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1737138724.430",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/172414845/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1737138724.430",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "",
+        "frameCount": 0,
+        "fps": 0.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  },
+  {
+    "stockNumber": 2003344199,
+    "vehicleId": 3495031,
+    "make": "Ford",
+    "parentModel": "F-150",
+    "model": "F150 Super Cab",
+    "trim": "XL 6 1/2 ft",
+    "kbbTrim": "XL Pickup 4D 6 1/2 ft",
+    "color": "White",
+    "interiorColor": "Gray",
+    "bodyStyle": "Pickup",
+    "mileage": 25811,
+    "milesPerGallon": 20,
+    "fuelType": "Gas",
+    "price": {
+      "total": 25590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 512.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 20271.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 2047.2
+    },
+    "year": 2015,
+    "seatingCapacity": 6,
+    "imageUrl": "/2003344199/post-large/normalized/zoomcrop/2003344199-edc-02.jpg?v=2025.2.21_0.52.2",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2015_FORD_F150%20SUPER%20CAB_XL%20PICKUP%204D%206%201/2%20FT_WHITE_stock_desktop_1920x1080.png?v=1645453505.927",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2015_FORD_F150%20SUPER%20CAB_XL%20PICKUP%204D%206%201/2%20FT_WHITE_stock_mobile_640x640.png?v=1645453505.927",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003344199/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4079852/details/feature-114710931.jpg?v=1739822323.586",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4079852/details/feature-114710934.jpg?v=1739822323.586",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4079852/details/feature-114710945.jpg?v=1739822323.587",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4079852/details/feature-114710936.jpg?v=1739822323.587",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4079852/details/feature-114710932.jpg?v=1739822323.586",
+    "trunkImageUrl": "",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2015-ford-f150-super-cab-xl-6-12-ft",
+    "locationId": 43,
+    "stockRecallStatusType": 0,
+    "vin": "1FTEX1CP5FKE08152",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/179374135/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1739831604.853",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/179374135/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1739831604.853",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "https://vexgateway.fastly.carvana.io/executions/179374135/GAUSSIAN_RENDERER/poster.jpg?v=1739831604.853",
+        "frameCount": 626,
+        "fps": 30.0
+      },
+      {
+        "videoName": "srpvideo-swipe",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/179374135/GAUSSIAN_RENDERER/srpvideo-swipe.mp4?v=1739831604.854",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/179374135/GAUSSIAN_RENDERER/srpvideo-swipe-h265.mp4?v=1739831604.854",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "pauseFrames": [
+          {
+            "start": 0,
+            "end": 0
+          },
+          {
+            "start": 45,
+            "end": 49
+          },
+          {
+            "start": 69,
+            "end": 73
+          },
+          {
+            "start": 111,
+            "end": 115
+          },
+          {
+            "start": 149,
+            "end": 153
+          },
+          {
+            "start": 192,
+            "end": 196
+          },
+          {
+            "start": 235,
+            "end": 239
+          },
+          {
+            "start": 278,
+            "end": 282
+          },
+          {
+            "start": 321,
+            "end": 325
+          },
+          {
+            "start": 364,
+            "end": 368
+          },
+          {
+            "start": 407,
+            "end": 415
+          },
+          {
+            "start": 471,
+            "end": 475
+          },
+          {
+            "start": 531,
+            "end": 539
+          },
+          {
+            "start": 578,
+            "end": 582
+          },
+          {
+            "start": 621,
+            "end": 625
+          },
+          {
+            "start": 664,
+            "end": 668
+          },
+          {
+            "start": 707,
+            "end": 711
+          },
+          {
+            "start": 750,
+            "end": 754
+          },
+          {
+            "start": 793,
+            "end": 797
+          },
+          {
+            "start": 831,
+            "end": 835
+          },
+          {
+            "start": 873,
+            "end": 877
+          },
+          {
+            "start": 897,
+            "end": 901
+          },
+          {
+            "start": 946,
+            "end": 950
+          }
+        ],
+        "thumbnailURL": "https://vexgateway.fastly.carvana.io/executions/179374135/GAUSSIAN_RENDERER/srpvideo-swipe.jpg?v=1739831604.854",
+        "frameCount": 950,
+        "fps": 30.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 343,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003409132,
+    "vehicleId": 3428558,
+    "make": "Chevrolet",
+    "parentModel": "Silverado 1500",
+    "model": "Silverado 1500 Crew Cab",
+    "trim": "LTZ 5 3/4 ft",
+    "kbbTrim": "LTZ Pickup 4D 5 3/4 ft",
+    "color": "White",
+    "interiorColor": "Black",
+    "bodyStyle": "Pickup",
+    "mileage": 66515,
+    "milesPerGallon": 18,
+    "fuelType": "Gas",
+    "price": {
+      "total": 31990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 640.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 33083.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 2559.2
+    },
+    "year": 2018,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003409132/post-large/normalized/zoomcrop/2003409132-edc-02.jpg?v=2025.2.21_0.52.2",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2018_CHEVROLET_SILVERADO%201500%20CREW%20CAB_LTZ%20PICKUP%204D%205%203/4%20FT_WHITE_stock_desktop_1920x1080.png",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2018_CHEVROLET_SILVERADO%201500%20CREW%20CAB_LTZ%20PICKUP%204D%205%203/4%20FT_WHITE_stock_mobile_640x640.png",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003409132/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4030657/details/feature-112714975.jpg?v=1740081220.229",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4030657/details/feature-112714988.jpg?v=1740081220.229",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4030657/details/feature-112714977.jpg?v=1740081220.229",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4030657/details/feature-112714973.jpg?v=1740081220.229",
+    "trunkImageUrl": "",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2018-chevrolet-silverado-1500-crew-cab-ltz-5-34-ft",
+    "priceUpdateDate": "2025-02-07T15:14:16.59Z",
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "3GCPCSEC6JG405894",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "148pt",
+    "stores": [
+      "148pt",
+      "CoreOD"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  },
+  {
+    "stockNumber": 2003255176,
+    "vehicleId": 3323724,
+    "make": "Ram",
+    "parentModel": "1500",
+    "model": "1500 Crew Cab",
+    "trim": "Express 5 1/2 ft",
+    "kbbTrim": "Express Pickup 4D 5 1/2 ft",
+    "color": "Gray",
+    "interiorColor": "Black",
+    "bodyStyle": "Pickup",
+    "mileage": 67385,
+    "milesPerGallon": 17,
+    "fuelType": "Gas",
+    "price": {
+      "total": 24590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 492.0,
+      "downPayment": 290.0,
+      "downPaymentDetails": {
+        "totalCashDue": 290.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 290.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 23692.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1967.2
+    },
+    "year": 2017,
+    "seatingCapacity": 6,
+    "imageUrl": "/2003255176/post-large/normalized/zoomcrop/2003255176-edc-02.jpg?v=2025.2.21_0.52.2",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2017_Ram_1500%20Crew%20Cab_Express%20Pickup%204D%205%201/2%20ft_GRAY_stock_desktop_1920x1080.png",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2017_Ram_1500%20Crew%20Cab_Express%20Pickup%204D%205%201/2%20ft_GRAY_stock_mobile_640x640.png",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003255176/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3787116/details/feature-102775481.jpg?v=1734540822.139",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-3787116/details/feature-102775484.jpg?v=1734540822.139",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3787116/details/feature-102775494.jpg?v=1734540822.139",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3787116/details/feature-102775486.jpg?v=1734540822.139",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3787116/details/feature-102775482.jpg?v=1734540822.139",
+    "trunkImageUrl": "",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2017-ram-1500-crew-cab-express-5-12-ft",
+    "priceUpdateDate": "2025-02-14T17:32:26.935Z",
+    "previousPrice": 24990.0,
+    "locationId": 292,
+    "stockRecallStatusType": 0,
+    "vin": "3C6RR7KT7HG736042",
+    "vehicleTags": [
+      {
+        "tagId": 103,
+        "tagCategoryId": 1,
+        "tagKey": "RecentPriceDrop",
+        "tagName": "New Price",
+        "tagDescription": "New Price",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "148pt",
+    "stores": [
+      "148pt"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 264,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003369355,
+    "vehicleId": 3455195,
+    "make": "Ford",
+    "parentModel": "F-150",
+    "model": "F150 Super Cab",
+    "trim": "XLT 6 1/2 ft",
+    "kbbTrim": "XLT Pickup 4D 6 1/2 ft",
+    "color": "Black",
+    "interiorColor": "Gray",
+    "bodyStyle": "Pickup",
+    "mileage": 67660,
+    "milesPerGallon": 22,
+    "fuelType": "Gas",
+    "price": {
+      "total": 25590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 512.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 20492.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 2047.2
+    },
+    "year": 2019,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003369355/post-large/normalized/zoomcrop/2003369355-edc-02.jpg?v=2025.2.21_0.52.2",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2019_FORD_F150%20SUPER%20CAB_XLT%20PICKUP%204D%206%201/2%20FT_BLACK_stock_desktop_1920x1080.png?v=1645577633.698",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2019_FORD_F150%20SUPER%20CAB_XLT%20PICKUP%204D%206%201/2%20FT_BLACK_stock_mobile_640x640.png?v=1645577633.698",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003369355/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4060868/details/feature-113943617.jpg?v=1739455157.438",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4060868/details/feature-113943620.jpg?v=1739455157.438",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4060868/details/feature-113943631.jpg?v=1739455157.438",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4060868/details/feature-113943622.jpg?v=1739455157.438",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4060868/details/feature-113943618.jpg?v=1739455157.438",
+    "trunkImageUrl": "",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2019-ford-f150-super-cab-xlt-6-12-ft",
+    "locationId": 43,
+    "stockRecallStatusType": 0,
+    "vin": "1FTEX1CB3KKC67726",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/178474186/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1739457693.335",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/178474186/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1739457693.335",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "",
+        "frameCount": 0,
+        "fps": 0.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 343,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003385773,
+    "vehicleId": 3419936,
+    "make": "Ram",
+    "parentModel": "1500",
+    "model": "1500 Crew Cab",
+    "trim": "Big Horn 6 1/3 ft",
+    "kbbTrim": "Big Horn Pickup 4D 6 1/3 ft",
+    "color": "Black",
+    "interiorColor": "Black",
+    "bodyStyle": "Pickup",
+    "mileage": 15506,
+    "milesPerGallon": 19,
+    "fuelType": "Gas",
+    "price": {
+      "total": 38590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 772.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 40068.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 3087.2
+    },
+    "year": 2023,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003385773/post-large/normalized/zoomcrop/2003385773-edc-02.jpg?v=2025.2.21_0.52.2",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2023_RAM_1500%20CREW%20CAB_BIG%20HORN%20PICKUP%204D%206%201/3%20FT_BLACK_stock_desktop_1920x1080.png?v=1735592847.283",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2023_RAM_1500%20CREW%20CAB_BIG%20HORN%20PICKUP%204D%206%201/3%20FT_BLACK_stock_mobile_640x640.png?v=1735592847.283",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003385773/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3837470/details/feature-104773450.jpg?v=1739840709.102",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-3837470/details/feature-104773453.jpg?v=1739840709.103",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3837470/details/feature-104773464.jpg?v=1739840709.103",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3837470/details/feature-104773455.jpg?v=1739840709.103",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3837470/details/feature-104773451.jpg?v=1739840709.102",
+    "trunkImageUrl": "",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2023-ram-1500-crew-cab-big-horn-6-13-ft",
+    "priceUpdateDate": "2025-01-30T22:04:49.174Z",
+    "previousPrice": 38990.0,
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "1C6RREMT1PN511770",
+    "vehicleTags": [
+      {
+        "tagId": 103,
+        "tagCategoryId": 1,
+        "tagKey": "RecentPriceDrop",
+        "tagName": "New Price",
+        "tagDescription": "New Price",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/168784940/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1735661775.920",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/168784940/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1735661775.920",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "",
+        "frameCount": 0,
+        "fps": 0.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 7
+  },
+  {
+    "stockNumber": 2003464048,
+    "vehicleId": 3466353,
+    "make": "Toyota",
+    "parentModel": "Tacoma",
+    "model": "Tacoma Double Cab",
+    "trim": "TRD Off-Road 5 ft",
+    "kbbTrim": "TRD Off-Road Pickup 4D 5 ft",
+    "color": "Silver",
+    "interiorColor": "Gray",
+    "bodyStyle": "Pickup",
+    "mileage": 21156,
+    "milesPerGallon": 20,
+    "fuelType": "Gas",
+    "price": {
+      "total": 34690.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 694.0,
+      "downPayment": 590.0,
+      "downPaymentDetails": {
+        "totalCashDue": 590.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 590.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 590.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 36849.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 2775.2
+    },
+    "year": 2022,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003464048/post-large/2003464048-edc-02-search.jpg?v=2025.2.21_0.52.2",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2022_TOYOTA_TACOMA%20DOUBLE%20CAB_TRD%20OFF-ROAD%20PICKUP%204D%205%20FT_SILVER_stock_desktop_1920x1080.png?v=1667395497.342",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2022_TOYOTA_TACOMA%20DOUBLE%20CAB_TRD%20OFF-ROAD%20PICKUP%204D%205%20FT_SILVER_stock_mobile_640x640.png?v=1667395497.342",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003464048/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3961688/details/feature-109879663.jpg?v=1737997357.653",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-3961688/details/feature-109879660.jpg?v=1737997357.653",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3961688/details/feature-109879649.jpg?v=1737997357.653",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3961688/details/feature-109879658.jpg?v=1737997357.653",
+    "backSeatImageUrl": "",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3961688/details/feature-109879678.jpg?v=1737997357.653",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 590,
+    "vehicleInventoryType": 4,
+    "vehicleLockType": 0,
+    "vdpSlug": "2022-toyota-tacoma-double-cab-trd-off-road-5-ft",
+    "priceUpdateDate": "2025-02-19T12:33:48.782Z",
+    "previousPrice": 35340.0,
+    "locationId": 101,
+    "stockRecallStatusType": 0,
+    "vin": "3TMAZ5CN1NM160536",
+    "vehicleTags": [
+      {
+        "tagId": 103,
+        "tagCategoryId": 1,
+        "tagKey": "RecentPriceDrop",
+        "tagName": "New Price",
+        "tagDescription": "New Price",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      },
+      {
+        "tagId": 104,
+        "tagCategoryId": 1,
+        "tagKey": "KeepMovingPrice",
+        "tagName": "Great Deal",
+        "tagDescription": "This vehicle is priced $2,159 lower than Kelley Blue Book\u00ae Typical Listing Price.<br><br>* Savings amount based on the difference between Kelley Blue Book\u00ae Typical Listing Price and the current Carvana listing price, not including tax, title, registration, or delivery charges. Savings amounts are updated daily.",
+        "tagToolTip": "",
+        "sortOrder": 700,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 30,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003477031,
+    "vehicleId": 3478948,
+    "make": "Ram",
+    "parentModel": "1500",
+    "model": "1500 Quad Cab",
+    "trim": "Tradesman 6 1/3 ft",
+    "kbbTrim": "Tradesman Pickup 4D 6 1/3 ft",
+    "color": "Blue",
+    "interiorColor": "Black",
+    "bodyStyle": "Pickup",
+    "mileage": 36024,
+    "milesPerGallon": 19,
+    "fuelType": "Gas",
+    "price": {
+      "total": 22590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 452.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 16330.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1807.2
+    },
+    "year": 2016,
+    "seatingCapacity": 6,
+    "imageUrl": "/2003477031/post-large/normalized/zoomcrop/2003477031-edc-02.jpg?v=2025.2.21_0.52.2",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2016_RAM_1500%20QUAD%20CAB_TRADESMAN%20PICKUP%204D%206%201/3%20FT_BLUE_stock_desktop_1920x1080.png?v=1645515365.642",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2016_RAM_1500%20QUAD%20CAB_TRADESMAN%20PICKUP%204D%206%201/3%20FT_BLUE_stock_mobile_640x640.png?v=1645515365.642",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003477031/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4045638/details/feature-113325663.jpg?v=1739269143.494",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4045638/details/feature-113325666.jpg?v=1739269143.494",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4045638/details/feature-113325677.jpg?v=1739269143.494",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4045638/details/feature-113325668.jpg?v=1739269143.494",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4045638/details/feature-113325664.jpg?v=1739269143.494",
+    "trunkImageUrl": "",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2016-ram-1500-quad-cab-tradesman-6-13-ft",
+    "priceUpdateDate": "2025-02-18T15:37:24.084Z",
+    "previousPrice": 22990.0,
+    "locationId": 43,
+    "stockRecallStatusType": 0,
+    "vin": "1C6RR6FG5GS340707",
+    "vehicleTags": [
+      {
+        "tagId": 103,
+        "tagCategoryId": 1,
+        "tagKey": "RecentPriceDrop",
+        "tagName": "New Price",
+        "tagDescription": "New Price",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "148pt",
+    "stores": [
+      "148pt"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/177776373/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1739271275.037",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/177776373/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1739271275.037",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "",
+        "frameCount": 0,
+        "fps": 0.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 343,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003478820,
+    "vehicleId": 3485770,
+    "make": "Ram",
+    "parentModel": "1500",
+    "model": "1500 Quad Cab",
+    "trim": "Express 6 1/3 ft",
+    "kbbTrim": "Express Pickup 4D 6 1/3 ft",
+    "color": "Silver",
+    "interiorColor": "Gray",
+    "bodyStyle": "Pickup",
+    "mileage": 68575,
+    "milesPerGallon": 19,
+    "fuelType": "Gas",
+    "price": {
+      "total": 23990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 480.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 19910.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1919.2
+    },
+    "year": 2018,
+    "seatingCapacity": 6,
+    "imageUrl": "/2003478820/post-large/normalized/zoomcrop/2003478820-edc-02.jpg?v=2025.2.21_0.52.2",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2018_Ram_1500%20Quad%20Cab_Express%20Pickup%204D%206%201/3%20ft_SILVER_stock_desktop_1920x1080.png",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2018_Ram_1500%20Quad%20Cab_Express%20Pickup%204D%206%201/3%20ft_SILVER_stock_mobile_640x640.png",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003478820/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4090653/details/feature-115149746.jpg?v=1739974022.234",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4090653/details/feature-115149749.jpg?v=1739974022.234",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4090653/details/feature-115149760.jpg?v=1739974022.235",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4090653/details/feature-115149751.jpg?v=1739974022.235",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4090653/details/feature-115149747.jpg?v=1739974022.234",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-4090653/details/feature-115149753.jpg?v=1739974022.235",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2018-ram-1500-quad-cab-express-6-13-ft",
+    "locationId": 43,
+    "stockRecallStatusType": 0,
+    "vin": "1C6RR7FG7JS265120",
+    "vehicleTags": [
+      {
+        "tagId": 121,
+        "tagCategoryId": 1,
+        "tagKey": "RecentlyAdded",
+        "tagName": "Recently Added",
+        "tagDescription": "This vehicle has been made purchasable for the first time within the last 72 hours",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/179831007/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1739977146.522",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/179831007/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1739977146.522",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "https://vexgateway.fastly.carvana.io/executions/179831007/GAUSSIAN_RENDERER/poster.jpg?v=1739977146.522",
+        "frameCount": 556,
+        "fps": 30.0
+      },
+      {
+        "videoName": "srpvideo-swipe",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/179831007/GAUSSIAN_RENDERER/srpvideo-swipe.mp4?v=1739977146.522",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/179831007/GAUSSIAN_RENDERER/srpvideo-swipe-h265.mp4?v=1739977146.522",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "pauseFrames": [
+          {
+            "start": 0,
+            "end": 0
+          },
+          {
+            "start": 45,
+            "end": 49
+          },
+          {
+            "start": 69,
+            "end": 73
+          },
+          {
+            "start": 111,
+            "end": 115
+          },
+          {
+            "start": 149,
+            "end": 153
+          },
+          {
+            "start": 192,
+            "end": 196
+          },
+          {
+            "start": 235,
+            "end": 239
+          },
+          {
+            "start": 278,
+            "end": 282
+          },
+          {
+            "start": 321,
+            "end": 325
+          },
+          {
+            "start": 364,
+            "end": 368
+          },
+          {
+            "start": 407,
+            "end": 415
+          },
+          {
+            "start": 471,
+            "end": 475
+          },
+          {
+            "start": 531,
+            "end": 539
+          },
+          {
+            "start": 578,
+            "end": 582
+          },
+          {
+            "start": 621,
+            "end": 625
+          },
+          {
+            "start": 664,
+            "end": 668
+          },
+          {
+            "start": 707,
+            "end": 711
+          },
+          {
+            "start": 750,
+            "end": 754
+          },
+          {
+            "start": 793,
+            "end": 797
+          },
+          {
+            "start": 831,
+            "end": 835
+          },
+          {
+            "start": 873,
+            "end": 877
+          },
+          {
+            "start": 897,
+            "end": 901
+          },
+          {
+            "start": 946,
+            "end": 950
+          }
+        ],
+        "thumbnailURL": "https://vexgateway.fastly.carvana.io/executions/179831007/GAUSSIAN_RENDERER/srpvideo-swipe.jpg?v=1739977146.522",
+        "frameCount": 950,
+        "fps": 30.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 343,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003421602,
+    "vehicleId": 3436782,
+    "make": "Ford",
+    "parentModel": "F-150",
+    "model": "F150 SuperCrew Cab",
+    "trim": "XLT 5 1/2 ft",
+    "kbbTrim": "XLT Pickup 4D 5 1/2 ft",
+    "color": "White",
+    "interiorColor": "Gray",
+    "bodyStyle": "Pickup",
+    "mileage": 73932,
+    "milesPerGallon": 18,
+    "fuelType": "Gas",
+    "price": {
+      "total": 23590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 472.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 23977.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1887.2
+    },
+    "year": 2016,
+    "seatingCapacity": 6,
+    "imageUrl": "/2003421602/post-large/normalized/zoomcrop/2003421602-edc-02.jpg?v=2025.2.21_0.52.2",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2016_FORD_F150%20SUPERCREW%20CAB_XLT%20PICKUP%204D%205%201/2%20FT_WHITE_stock_desktop_1920x1080.png?v=1645516135.159",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2016_FORD_F150%20SUPERCREW%20CAB_XLT%20PICKUP%204D%205%201/2%20FT_WHITE_stock_mobile_640x640.png?v=1645516135.159",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003421602/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3912175/details/feature-107820786.jpg?v=1738094841.360",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-3912175/details/feature-107820789.jpg?v=1738094841.360",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3912175/details/feature-107820800.jpg?v=1738094841.360",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3912175/details/feature-107820791.jpg?v=1738094841.360",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3912175/details/feature-107820787.jpg?v=1738094841.360",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3912175/details/feature-107820793.jpg?v=1738094841.360",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2016-ford-f150-supercrew-cab-xlt-5-12-ft",
+    "priceUpdateDate": "2025-02-18T15:36:26.085Z",
+    "previousPrice": 23990.0,
+    "locationId": 43,
+    "stockRecallStatusType": 0,
+    "vin": "1FTEW1C86GKE05631",
+    "vehicleTags": [
+      {
+        "tagId": 103,
+        "tagCategoryId": 1,
+        "tagKey": "RecentPriceDrop",
+        "tagName": "New Price",
+        "tagDescription": "New Price",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "148pt",
+    "stores": [
+      "148pt"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/172379235/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1737133431.488",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/172379235/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1737133431.488",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "",
+        "frameCount": 0,
+        "fps": 0.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 343,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003400937,
+    "vehicleId": 3424559,
+    "make": "GMC",
+    "parentModel": "Sierra 1500",
+    "model": "Sierra 1500 Crew Cab",
+    "trim": "Denali 5 3/4 ft",
+    "kbbTrim": "Denali Pickup 4D 5 3/4 ft",
+    "color": "Gray",
+    "interiorColor": "Black",
+    "bodyStyle": "Pickup",
+    "mileage": 46770,
+    "milesPerGallon": 17,
+    "fuelType": "Gas",
+    "price": {
+      "total": 44590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 836.0,
+      "downPayment": 3000.0,
+      "downPaymentDetails": {
+        "totalCashDue": 3000.0,
+        "additionalCashDown": 3000.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 46634.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 3567.2
+    },
+    "year": 2019,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003400937/post-large/normalized/zoomcrop/2003400937-edc-02.jpg?v=2025.2.21_0.52.2",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2019_GMC_SIERRA%201500%20CREW%20CAB_DENALI%20PICKUP%204D%205%203/4%20FT_GRAY_stock_desktop_1920x1080.png?v=1645546945.752",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2019_GMC_SIERRA%201500%20CREW%20CAB_DENALI%20PICKUP%204D%205%203/4%20FT_GRAY_stock_mobile_640x640.png?v=1645546945.752",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003400937/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-3997495/details/feature-111345427.jpg?v=1740080897.891",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3997495/details/feature-111345441.jpg?v=1740080897.891",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3997495/details/feature-111345429.jpg?v=1740080897.891",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3997495/details/feature-111345425.jpg?v=1740080897.891",
+    "trunkImageUrl": "",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2019-gmc-sierra-1500-crew-cab-denali-5-34-ft",
+    "priceUpdateDate": "2025-02-12T17:38:12.213Z",
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "1GTU9FEL6KZ124785",
+    "vehicleTags": [
+      {
+        "tagId": 104,
+        "tagCategoryId": 1,
+        "tagKey": "KeepMovingPrice",
+        "tagName": "Great Deal",
+        "tagDescription": "This vehicle is priced $2,044 lower than Kelley Blue Book\u00ae Typical Listing Price.<br><br>* Savings amount based on the difference between Kelley Blue Book\u00ae Typical Listing Price and the current Carvana listing price, not including tax, title, registration, or delivery charges. Savings amounts are updated daily.",
+        "tagToolTip": "",
+        "sortOrder": 700,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [
+      "CoreOD"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  },
+  {
+    "stockNumber": 2003412928,
+    "vehicleId": 3438550,
+    "make": "Ram",
+    "parentModel": "1500",
+    "model": "1500 Crew Cab",
+    "trim": "Express 5 1/2 ft",
+    "kbbTrim": "Express Pickup 4D 5 1/2 ft",
+    "color": "Blue",
+    "interiorColor": "Black",
+    "bodyStyle": "Pickup",
+    "mileage": 36074,
+    "milesPerGallon": 17,
+    "fuelType": "Gas",
+    "price": {
+      "total": 25990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 520.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 24781.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 2079.2
+    },
+    "year": 2017,
+    "seatingCapacity": 6,
+    "imageUrl": "/2003412928/post-large/normalized/zoomcrop/2003412928-edc-02.jpg?v=2025.2.21_0.52.2",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2017_RAM_1500%20CREW%20CAB_EXPRESS%20PICKUP%204D%205%201/2%20FT_BLUE_stock_desktop_1920x1080.png?v=1645525307.644",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2017_RAM_1500%20CREW%20CAB_EXPRESS%20PICKUP%204D%205%201/2%20FT_BLUE_stock_mobile_640x640.png?v=1645525307.644",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003412928/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3891279/details/feature-106985671.jpg?v=1736544309.074",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-3891279/details/feature-106985674.jpg?v=1736544309.074",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3891279/details/feature-106985685.jpg?v=1736544309.075",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3891279/details/feature-106985676.jpg?v=1736544309.074",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3891279/details/feature-106985672.jpg?v=1736544309.074",
+    "trunkImageUrl": "",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2017-ram-1500-crew-cab-express-5-12-ft",
+    "priceUpdateDate": "2025-02-18T15:38:11.187Z",
+    "previousPrice": 26590.0,
+    "locationId": 300,
+    "stockRecallStatusType": 0,
+    "vin": "1C6RR6KT7HS696158",
+    "vehicleTags": [
+      {
+        "tagId": 103,
+        "tagCategoryId": 1,
+        "tagKey": "RecentPriceDrop",
+        "tagName": "New Price",
+        "tagDescription": "New Price",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/170901031/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1740095113.032",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/170901031/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1740095113.032",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "https://vexgateway.fastly.carvana.io/executions/170901031/GAUSSIAN_RENDERER/poster.jpg?v=1740095113.032",
+        "frameCount": 745,
+        "fps": 30.0
+      },
+      {
+        "videoName": "srpvideo-swipe",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/170901031/GAUSSIAN_RENDERER/srpvideo-swipe.mp4?v=1740095113.032",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/170901031/GAUSSIAN_RENDERER/srpvideo-swipe-h265.mp4?v=1740095113.032",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "pauseFrames": [
+          {
+            "start": 0,
+            "end": 0
+          },
+          {
+            "start": 45,
+            "end": 49
+          },
+          {
+            "start": 69,
+            "end": 73
+          },
+          {
+            "start": 111,
+            "end": 115
+          },
+          {
+            "start": 149,
+            "end": 153
+          },
+          {
+            "start": 192,
+            "end": 196
+          },
+          {
+            "start": 235,
+            "end": 239
+          },
+          {
+            "start": 278,
+            "end": 282
+          },
+          {
+            "start": 321,
+            "end": 325
+          },
+          {
+            "start": 364,
+            "end": 368
+          },
+          {
+            "start": 407,
+            "end": 415
+          },
+          {
+            "start": 471,
+            "end": 475
+          },
+          {
+            "start": 531,
+            "end": 539
+          },
+          {
+            "start": 578,
+            "end": 582
+          },
+          {
+            "start": 621,
+            "end": 625
+          },
+          {
+            "start": 664,
+            "end": 668
+          },
+          {
+            "start": 707,
+            "end": 711
+          },
+          {
+            "start": 750,
+            "end": 754
+          },
+          {
+            "start": 793,
+            "end": 797
+          },
+          {
+            "start": 831,
+            "end": 835
+          },
+          {
+            "start": 873,
+            "end": 877
+          },
+          {
+            "start": 897,
+            "end": 901
+          },
+          {
+            "start": 946,
+            "end": 950
+          }
+        ],
+        "thumbnailURL": "https://vexgateway.fastly.carvana.io/executions/170901031/GAUSSIAN_RENDERER/srpvideo-swipe.jpg?v=1740095113.032",
+        "frameCount": 950,
+        "fps": 30.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 374,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003374050,
+    "vehicleId": 3409728,
+    "make": "GMC",
+    "parentModel": "Sierra 1500",
+    "model": "Sierra 1500 Crew Cab",
+    "trim": "SLT 5 3/4 ft",
+    "kbbTrim": "SLT Pickup 4D 5 3/4 ft",
+    "color": "White",
+    "interiorColor": "Black",
+    "bodyStyle": "Pickup",
+    "mileage": 60793,
+    "milesPerGallon": 17,
+    "fuelType": "Gas",
+    "price": {
+      "total": 35590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 712.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 34938.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 2847.2
+    },
+    "year": 2018,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003374050/post-large/normalized/zoomcrop/2003374050-edc-02.jpg?v=2025.2.21_0.52.2",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2018_GMC_SIERRA%201500%20CREW%20CAB_SLT%20PICKUP%204D%205%203/4%20FT_WHITE_stock_desktop_1920x1080.png?v=1645643016.156",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2018_GMC_SIERRA%201500%20CREW%20CAB_SLT%20PICKUP%204D%205%203/4%20FT_WHITE_stock_mobile_640x640.png?v=1645643016.156",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003374050/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-3863754/details/feature-105854076.jpg?v=1740080150.016",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3863754/details/feature-105854087.jpg?v=1740080150.016",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3863754/details/feature-105854078.jpg?v=1740080150.016",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3863754/details/feature-105854074.jpg?v=1740080150.016",
+    "trunkImageUrl": "",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2018-gmc-sierra-1500-crew-cab-slt-5-34-ft",
+    "priceUpdateDate": "2025-02-12T17:38:07.41Z",
+    "locationId": 356,
+    "stockRecallStatusType": 0,
+    "vin": "3GTU2NEC2JG260585",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/170406849/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1740088878.062",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/170406849/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1740088878.062",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "https://vexgateway.fastly.carvana.io/executions/170406849/GAUSSIAN_RENDERER/poster.jpg?v=1740088878.062",
+        "frameCount": 969,
+        "fps": 30.0
+      },
+      {
+        "videoName": "srpvideo-swipe",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/170406849/GAUSSIAN_RENDERER/srpvideo-swipe.mp4?v=1740088878.062",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/170406849/GAUSSIAN_RENDERER/srpvideo-swipe-h265.mp4?v=1740088878.062",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "pauseFrames": [
+          {
+            "start": 0,
+            "end": 0
+          },
+          {
+            "start": 45,
+            "end": 49
+          },
+          {
+            "start": 69,
+            "end": 73
+          },
+          {
+            "start": 111,
+            "end": 115
+          },
+          {
+            "start": 149,
+            "end": 153
+          },
+          {
+            "start": 192,
+            "end": 196
+          },
+          {
+            "start": 235,
+            "end": 239
+          },
+          {
+            "start": 278,
+            "end": 282
+          },
+          {
+            "start": 321,
+            "end": 325
+          },
+          {
+            "start": 364,
+            "end": 368
+          },
+          {
+            "start": 407,
+            "end": 415
+          },
+          {
+            "start": 471,
+            "end": 475
+          },
+          {
+            "start": 531,
+            "end": 539
+          },
+          {
+            "start": 578,
+            "end": 582
+          },
+          {
+            "start": 621,
+            "end": 625
+          },
+          {
+            "start": 664,
+            "end": 668
+          },
+          {
+            "start": 707,
+            "end": 711
+          },
+          {
+            "start": 750,
+            "end": 754
+          },
+          {
+            "start": 793,
+            "end": 797
+          },
+          {
+            "start": 831,
+            "end": 835
+          },
+          {
+            "start": 873,
+            "end": 877
+          },
+          {
+            "start": 897,
+            "end": 901
+          },
+          {
+            "start": 946,
+            "end": 950
+          }
+        ],
+        "thumbnailURL": "https://vexgateway.fastly.carvana.io/executions/170406849/GAUSSIAN_RENDERER/srpvideo-swipe.jpg?v=1740088878.062",
+        "frameCount": 950,
+        "fps": 30.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 61,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 0
+  },
+  {
+    "stockNumber": 2003513893,
+    "vehicleId": 3507586,
+    "make": "Chevrolet",
+    "parentModel": "Silverado EV",
+    "model": "Silverado EV",
+    "trim": "Work Truck 6 ft",
+    "kbbTrim": "Work Truck Pickup 4D 6 ft",
+    "color": "White",
+    "interiorColor": "Black",
+    "bodyStyle": "Pickup",
+    "mileage": 11677,
+    "milesPerGallon": 72,
+    "fuelType": "Electric",
+    "price": {
+      "total": 54532.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 1024.0,
+      "downPayment": 5453.2,
+      "downPaymentDetails": {
+        "totalCashDue": 5453.2,
+        "additionalCashDown": 3563.2,
+        "nonRefundableShippingFees": 1890.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 590.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 4362.56
+    },
+    "year": 2024,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003513893/post-large/2003513893-edc-02-search.jpg?v=2025.2.21_0.52.2",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_CHEVROLET_SILVERADO%20EV_WORK%20TRUCK%20PICKUP%204D%206%20FT_WHITE_stock_desktop_1920x1080.png?v=1723662130.676",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_CHEVROLET_SILVERADO%20EV_WORK%20TRUCK%20PICKUP%204D%206%20FT_WHITE_stock_mobile_640x640.png?v=1723662130.676",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003513893/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4067128/details/feature-114218943.jpg?v=1739976220.750",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4067128/details/feature-114218940.jpg?v=1739976220.750",
+    "infotainmentImageUrl": "",
+    "steeringImageUrl": "",
+    "backSeatImageUrl": "",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-4067128/details/feature-114218954.jpg?v=1739976220.750",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 590,
+    "vehicleInventoryType": 4,
+    "vehicleLockType": 0,
+    "vdpSlug": "2024-chevrolet-silverado-ev-work-truck-6-ft",
+    "locationId": 369,
+    "stockRecallStatusType": 0,
+    "vin": "1GC10UED2RU202268",
+    "vehicleTags": [
+      {
+        "tagId": 121,
+        "tagCategoryId": 1,
+        "tagKey": "RecentlyAdded",
+        "tagName": "Recently Added",
+        "tagDescription": "This vehicle has been made purchasable for the first time within the last 72 hours",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 373,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003358825,
+    "vehicleId": 3396922,
+    "make": "Nissan",
+    "parentModel": "Frontier",
+    "model": "Frontier Crew Cab",
+    "trim": "PRO-4X 5 ft",
+    "kbbTrim": "PRO-4X Pickup 4D 5 ft",
+    "color": "Black",
+    "interiorColor": "Black",
+    "bodyStyle": "Pickup",
+    "mileage": 28556,
+    "milesPerGallon": 19,
+    "fuelType": "Gas",
+    "price": {
+      "total": 31990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 640.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 34608.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 2559.2
+    },
+    "year": 2022,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003358825/post-large/normalized/zoomcrop/2003358825-edc-02.jpg?v=2025.2.21_0.52.2",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2022_NISSAN_FRONTIER%20CREW%20CAB_PRO-4X%20PICKUP%204D%205%20FT_BLACK_stock_desktop_1920x1080.png?v=1658984954.293",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2022_NISSAN_FRONTIER%20CREW%20CAB_PRO-4X%20PICKUP%204D%205%20FT_BLACK_stock_mobile_640x640.png?v=1658984954.293",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003358825/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3759722/details/feature-101663816.jpg?v=1734018009.187",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-3759722/details/feature-101663819.jpg?v=1734018009.187",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3759722/details/feature-101663829.jpg?v=1734018009.187",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3759722/details/feature-101663821.jpg?v=1734018009.187",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3759722/details/feature-101663817.jpg?v=1734018009.187",
+    "trunkImageUrl": "https://vexgateway.fastly.carvana.io/vex-3759722/details/feature-101663823.jpg?v=1734018009.187",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2022-nissan-frontier-crew-cab-pro-4x-5-ft",
+    "priceUpdateDate": "2025-02-07T18:15:08.013Z",
+    "locationId": 292,
+    "stockRecallStatusType": 0,
+    "vin": "1N6ED1EK7NN658643",
+    "vehicleTags": [
+      {
+        "tagId": 104,
+        "tagCategoryId": 1,
+        "tagKey": "KeepMovingPrice",
+        "tagName": "Great Deal",
+        "tagDescription": "This vehicle is priced $2,618 lower than Kelley Blue Book\u00ae Typical Listing Price.<br><br>* Savings amount based on the difference between Kelley Blue Book\u00ae Typical Listing Price and the current Carvana listing price, not including tax, title, registration, or delivery charges. Savings amounts are updated daily.",
+        "tagToolTip": "",
+        "sortOrder": 700,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/165206673/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1740023261.075",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/165206673/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1740023261.075",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "https://vexgateway.fastly.carvana.io/executions/165206673/GAUSSIAN_RENDERER/poster.jpg?v=1740023261.075",
+        "frameCount": 969,
+        "fps": 30.0
+      },
+      {
+        "videoName": "srpvideo-swipe",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/165206673/GAUSSIAN_RENDERER/srpvideo-swipe.mp4?v=1740023261.075",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/165206673/GAUSSIAN_RENDERER/srpvideo-swipe-h265.mp4?v=1740023261.075",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "pauseFrames": [
+          {
+            "start": 0,
+            "end": 0
+          },
+          {
+            "start": 45,
+            "end": 49
+          },
+          {
+            "start": 69,
+            "end": 73
+          },
+          {
+            "start": 111,
+            "end": 115
+          },
+          {
+            "start": 149,
+            "end": 153
+          },
+          {
+            "start": 192,
+            "end": 196
+          },
+          {
+            "start": 235,
+            "end": 239
+          },
+          {
+            "start": 278,
+            "end": 282
+          },
+          {
+            "start": 321,
+            "end": 325
+          },
+          {
+            "start": 364,
+            "end": 368
+          },
+          {
+            "start": 407,
+            "end": 415
+          },
+          {
+            "start": 471,
+            "end": 475
+          },
+          {
+            "start": 531,
+            "end": 539
+          },
+          {
+            "start": 578,
+            "end": 582
+          },
+          {
+            "start": 621,
+            "end": 625
+          },
+          {
+            "start": 664,
+            "end": 668
+          },
+          {
+            "start": 707,
+            "end": 711
+          },
+          {
+            "start": 750,
+            "end": 754
+          },
+          {
+            "start": 793,
+            "end": 797
+          },
+          {
+            "start": 831,
+            "end": 835
+          },
+          {
+            "start": 873,
+            "end": 877
+          },
+          {
+            "start": 897,
+            "end": 901
+          },
+          {
+            "start": 946,
+            "end": 950
+          }
+        ],
+        "thumbnailURL": "https://vexgateway.fastly.carvana.io/executions/165206673/GAUSSIAN_RENDERER/srpvideo-swipe.jpg?v=1740023261.075",
+        "frameCount": 950,
+        "fps": 30.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 264,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003436976,
+    "vehicleId": 3450271,
+    "make": "GMC",
+    "parentModel": "Canyon",
+    "model": "Canyon Crew Cab",
+    "trim": "SLT 5 ft",
+    "kbbTrim": "SLT Pickup 4D 5 ft",
+    "color": "Red",
+    "interiorColor": "Black",
+    "bodyStyle": "Pickup",
+    "mileage": 60024,
+    "milesPerGallon": 21,
+    "fuelType": "Gas",
+    "price": {
+      "total": 23990.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 480.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 23473.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1919.2
+    },
+    "year": 2016,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003436976/post-large/normalized/zoomcrop/2003436976-edc-02.jpg?v=2025.2.21_0.52.2",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2016_GMC_CANYON%20CREW%20CAB_SLT%20PICKUP%204D%205%20FT_RED_stock_desktop_1920x1080.png?v=1647458498.484",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2016_GMC_CANYON%20CREW%20CAB_SLT%20PICKUP%204D%205%20FT_RED_stock_mobile_640x640.png?v=1647458498.484",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003436976/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-3940715/details/feature-108985230.jpg?v=1740082155.809",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-3940715/details/feature-108985243.jpg?v=1740082155.809",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-3940715/details/feature-108985232.jpg?v=1740082155.809",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-3940715/details/feature-108985228.jpg?v=1740082155.809",
+    "trunkImageUrl": "",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2016-gmc-canyon-crew-cab-slt-5-ft",
+    "priceUpdateDate": "2025-02-12T17:38:32.752Z",
+    "locationId": 43,
+    "stockRecallStatusType": 0,
+    "vin": "1GTG5DE3XG1199766",
+    "vehicleTags": [],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "148pt",
+    "stores": [
+      "148pt"
+    ],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/173031537/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1737550751.643",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/173031537/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1737550751.643",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "",
+        "frameCount": 0,
+        "fps": 0.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 343,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003513871,
+    "vehicleId": 3502763,
+    "make": "Chevrolet",
+    "parentModel": "Silverado EV",
+    "model": "Silverado EV",
+    "trim": "Work Truck 6 ft",
+    "kbbTrim": "Work Truck Pickup 4D 6 ft",
+    "color": "White",
+    "interiorColor": "Black",
+    "bodyStyle": "Pickup",
+    "mileage": 12588,
+    "milesPerGallon": 72,
+    "fuelType": "Electric",
+    "price": {
+      "total": 54447.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 999.0,
+      "downPayment": 5444.7,
+      "downPaymentDetails": {
+        "totalCashDue": 5444.7,
+        "additionalCashDown": 4854.7,
+        "nonRefundableShippingFees": 590.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 590.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 57218.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 4355.76
+    },
+    "year": 2024,
+    "seatingCapacity": 5,
+    "imageUrl": "/2003513871/post-large/2003513871-edc-02-search.jpg?v=2025.2.21_0.52.2",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_CHEVROLET_SILVERADO%20EV_WORK%20TRUCK%20PICKUP%204D%206%20FT_WHITE_stock_desktop_1920x1080.png?v=1723662130.676",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2024_CHEVROLET_SILVERADO%20EV_WORK%20TRUCK%20PICKUP%204D%206%20FT_WHITE_stock_mobile_640x640.png?v=1723662130.676",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003513871/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4067100/details/feature-114217895.jpg?v=1739802613.350",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4067100/details/feature-114217892.jpg?v=1739802613.350",
+    "infotainmentImageUrl": "",
+    "steeringImageUrl": "",
+    "backSeatImageUrl": "",
+    "trunkImageUrl": "",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 590,
+    "vehicleInventoryType": 4,
+    "vehicleLockType": 0,
+    "vdpSlug": "2024-chevrolet-silverado-ev-work-truck-6-ft",
+    "priceUpdateDate": "2025-02-19T14:40:27.411Z",
+    "previousPrice": 58624.0,
+    "locationId": 369,
+    "stockRecallStatusType": 0,
+    "vin": "1GC10VEL1RU201822",
+    "vehicleTags": [
+      {
+        "tagId": 103,
+        "tagCategoryId": 1,
+        "tagKey": "RecentPriceDrop",
+        "tagName": "New Price",
+        "tagDescription": "New Price",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      },
+      {
+        "tagId": 121,
+        "tagCategoryId": 1,
+        "tagKey": "RecentlyAdded",
+        "tagName": "Recently Added",
+        "tagDescription": "This vehicle has been made purchasable for the first time within the last 72 hours",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      },
+      {
+        "tagId": 104,
+        "tagCategoryId": 1,
+        "tagKey": "KeepMovingPrice",
+        "tagName": "Great Deal",
+        "tagDescription": "This vehicle is priced $2,771 lower than Kelley Blue Book\u00ae Typical Listing Price.<br><br>* Savings amount based on the difference between Kelley Blue Book\u00ae Typical Listing Price and the current Carvana listing price, not including tax, title, registration, or delivery charges. Savings amounts are updated daily.",
+        "tagToolTip": "",
+        "sortOrder": 700,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 373,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  },
+  {
+    "stockNumber": 2003438232,
+    "vehicleId": 3457253,
+    "make": "Ford",
+    "parentModel": "F-150",
+    "model": "F150 SuperCrew Cab",
+    "trim": "XL 5 1/2 ft",
+    "kbbTrim": "XL Pickup 4D 5 1/2 ft",
+    "color": "Gray",
+    "interiorColor": "Gray",
+    "bodyStyle": "Pickup",
+    "mileage": 96205,
+    "milesPerGallon": 18,
+    "fuelType": "Gas",
+    "price": {
+      "total": 24590.0,
+      "totalDiscountAmount": 0.0,
+      "discounts": [],
+      "monthlyPayment": 492.0,
+      "downPayment": 0.0,
+      "downPaymentDetails": {
+        "totalCashDue": 0.0,
+        "additionalCashDown": 0.0,
+        "nonRefundableShippingFees": 0.0,
+        "tradeDown": 0.0
+      },
+      "apr": 0.0995,
+      "term": 72,
+      "transportCost": 0.0,
+      "pricingErrorMessage": "",
+      "totalTaxes": 0.0,
+      "totalFees": 0.0,
+      "kbbValue": 22017.0,
+      "feesMinusShipping": 0.0,
+      "estimatedTaxesAndFees": 1967.2
+    },
+    "year": 2018,
+    "seatingCapacity": 6,
+    "imageUrl": "/2003438232/post-large/normalized/zoomcrop/2003438232-edc-02.jpg?v=2025.2.21_0.52.2",
+    "jellyBeanDesktopUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2018_Ford_F150%20SuperCrew%20Cab_XL%20Pickup%204D%205%201/2%20ft_GRAY_stock_desktop_1920x1080.png",
+    "jellyBeanMobileUrl": "https://vexstockimages.fastly.carvana.io/stockimages/2018_Ford_F150%20SuperCrew%20Cab_XL%20Pickup%204D%205%201/2%20ft_GRAY_stock_mobile_640x640.png",
+    "textlessUrl": "https://vexgateway.fastly.carvana.io/2003438232/hero-no-letters.jpg",
+    "passengerSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4038140/details/feature-113028024.jpg?v=1739030552.425",
+    "entireDashImageUrl": "https://vexgateway.fastly.carvana.io/vex-4038140/details/feature-113028027.jpg?v=1739030552.425",
+    "infotainmentImageUrl": "https://vexgateway.fastly.carvana.io/vex-4038140/details/feature-113028038.jpg?v=1739030552.425",
+    "steeringImageUrl": "https://vexgateway.fastly.carvana.io/vex-4038140/details/feature-113028029.jpg?v=1739030552.425",
+    "backSeatImageUrl": "https://vexgateway.fastly.carvana.io/vex-4038140/details/feature-113028025.jpg?v=1739030552.425",
+    "trunkImageUrl": "",
+    "isOnDemand": false,
+    "isPurchasePending": false,
+    "transportCost": 0,
+    "vehicleInventoryType": 1,
+    "vehicleLockType": 0,
+    "vdpSlug": "2018-ford-f150-supercrew-cab-xl-5-12-ft",
+    "priceUpdateDate": "2025-02-14T17:32:19.102Z",
+    "previousPrice": 24990.0,
+    "locationId": 43,
+    "stockRecallStatusType": 0,
+    "vin": "1FTEW1EB2JKC53072",
+    "vehicleTags": [
+      {
+        "tagId": 103,
+        "tagCategoryId": 1,
+        "tagKey": "RecentPriceDrop",
+        "tagName": "New Price",
+        "tagDescription": "New Price",
+        "tagToolTip": "",
+        "sortOrder": 50,
+        "isResultTileDisplayable": true
+      }
+    ],
+    "matchedFilters": {},
+    "missingFilters": {},
+    "storeKey": "None",
+    "stores": [],
+    "vehiclePurchaseType": "Purchasable",
+    "vehicleReservableReasons": [],
+    "splattingVideos": [
+      {
+        "videoName": "srpvideo1",
+        "h264VideoURL": "https://vexgateway.fastly.carvana.io/executions/177435670/GAUSSIAN_RENDERER/srpvideo1-h264.mp4?v=1739032809.772",
+        "h265VideoURL": "https://vexgateway.fastly.carvana.io/executions/177435670/GAUSSIAN_RENDERER/srpvideo1-h265.mp4?v=1739032809.772",
+        "dimensions": {
+          "width": 450,
+          "height": 240
+        },
+        "thumbnailURL": "",
+        "frameCount": 0,
+        "fps": 0.0
+      }
+    ],
+    "earliestDaysToDeliveryOrPickupType": "Pickup",
+    "isNewSinceLastVisit": false,
+    "drivingMiles": 343,
+    "earliestLocalLocation": {
+      "locationId": 109,
+      "activityType": "unknown"
+    },
+    "analyticsOnlyGetItByDays": 1
+  }
+]
